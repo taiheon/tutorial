@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>N-SY-T420</Machine>
-    <WindowsUser>donny</WindowsUser>
+    <Machine>INTRATECH</Machine>
+    <WindowsUser>Administrator</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,16 +10,16 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>dafa559c-7ef0-42a7-91e4-7e55ce3bb24f</PackageIdentityName>
     <PackageIdentityPublisher>CN=donny</PackageIdentityPublisher>
-    <IntermediateOutputPath>E:\gitproj\tutorial\UwpApp1\UwpApp1\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\git\Tutorial\UwpApp1\UwpApp1\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
-    <WindowsSdkPath>E:\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>E:\gitproj\tutorial\UwpApp1\UwpApp1\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>0A45C167D1E04877544853D9D52DE2D1D8C6D329A50DD42AF54F6EC3ADD83BA4</RegisteredManifestChecksum>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>D:\git\Tutorial\UwpApp1\UwpApp1\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>60FE54577885B9B81A7C1BD010B32161E4934F288DA33524E951409BE58F54C6</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>dafa559c-7ef0-42a7-91e4-7e55ce3bb24f_1.0.0.0_x86__er1n677jke57g</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>dafa559c-7ef0-42a7-91e4-7e55ce3bb24f_er1n677jke57g!App</RegisteredUserModeAppID>
     <RegisteredPackageID>dafa559c-7ef0-42a7-91e4-7e55ce3bb24f</RegisteredPackageID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="D:\git\Tutorial\UwpApp1\UwpApp1\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-03-02T02:12:45.309</Modified>
+      <Modified>2019-03-02T07:30:56.022</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\bin\x86\Debug\UwpApp1.exe">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\bin\x86\Debug\UwpApp1.exe">
       <PackagePath>entrypoint\UwpApp1.exe</PackagePath>
-      <Modified>2019-03-02T02:12:44.843</Modified>
+      <Modified>2019-03-02T07:30:55.431</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -94,11 +94,11 @@
       <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
       <Modified>2016-06-11T13:13:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\donny\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.0\lib\uap10.0\Microsoft.Xaml.Interactions.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.0\lib\uap10.0\Microsoft.Xaml.Interactions.dll">
       <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
       <Modified>2016-10-19T08:07:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\donny\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.0\lib\uap10.0\Microsoft.Xaml.Interactivity.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.0\lib\uap10.0\Microsoft.Xaml.Interactivity.dll">
       <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
       <Modified>2016-10-19T08:07:18.000</Modified>
     </AppxPackagedFile>
@@ -502,71 +502,71 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2016-06-11T13:15:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows Kits\10\bin\10.0.17763.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.17763.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2018-10-22T16:33:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2019-03-02T00:50:18.146</Modified>
+      <Modified>2019-03-02T04:02:01.282</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2019-02-03T01:11:32.598</Modified>
+      <Modified>2019-03-02T04:02:01.276</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-02-03T01:11:32.598</Modified>
+      <Modified>2019-03-02T04:02:01.276</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-02-03T01:11:32.598</Modified>
+      <Modified>2019-03-02T04:02:01.277</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-02-03T01:11:32.598</Modified>
+      <Modified>2019-03-02T04:02:01.278</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-02-03T01:11:32.598</Modified>
+      <Modified>2019-03-02T04:02:01.278</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-02-03T01:11:32.598</Modified>
+      <Modified>2019-03-02T04:02:01.279</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-02-03T01:11:32.598</Modified>
+      <Modified>2019-03-02T04:02:01.279</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\bin\x86\Debug\UwpApp1.xr.xml">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\bin\x86\Debug\UwpApp1.xr.xml">
       <PackagePath>UwpApp1.xr.xml</PackagePath>
-      <Modified>2019-03-02T02:12:44.689</Modified>
+      <Modified>2019-03-02T07:30:09.263</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-03-02T02:12:44.694</Modified>
+      <Modified>2019-03-02T07:30:55.267</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-03-02T02:12:44.695</Modified>
+      <Modified>2019-03-02T07:30:55.268</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2018-10-22T15:44:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-03-02T01:54:02.601</Modified>
+      <Modified>2019-03-02T06:44:21.858</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\bin\x86\Debug\Core\UwpApp1.exe">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\bin\x86\Debug\Core\UwpApp1.exe">
       <PackagePath>UwpApp1.exe</PackagePath>
-      <Modified>2019-03-02T02:12:45.297</Modified>
+      <Modified>2019-03-02T07:30:56.010</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

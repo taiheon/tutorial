@@ -7,32 +7,8 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-
-    <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="1*"/>
-            <RowDefinition Height="1*"/>
-            <RowDefinition Height="1*"/>
-        </Grid.RowDefinitions>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="320"/>
-            <ColumnDefinition Width="160"/>
-            <ColumnDefinition Width="1*"/>
-        </Grid.ColumnDefinitions>
-        <Rectangle HorizontalAlignment="Center" Height="100" VerticalAlignment="Center" Width="100">
-            <Rectangle.Fill>
-                <AcrylicBrush TintColor="#CCCF6D6D"/>
-            </Rectangle.Fill>
-        </Rectangle>
-        <Ellipse Grid.Column="1" HorizontalAlignment="Center" Height="125" VerticalAlignment="Center" Width="140" Margin="0,0,0,0">
-            <Ellipse.Fill>
-                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-                    <GradientStop Color="Black"/>
-                    <GradientStop Color="#FFBB1E1E" Offset="1"/>
-                </LinearGradientBrush>
-            </Ellipse.Fill>
-        </Ellipse>
-        <Path Grid.Column="2" Data="M50,100 L540,30 L1200,50 z" Fill="#FF6271CF" Margin="0,11,20,9" UseLayoutRounding="False" />
-        <Rectangle HorizontalAlignment="Left" Height="137" Margin="110,71,0,0" Grid.Row="1" VerticalAlignment="Top" Width="329" Grid.ColumnSpan="2" Fill="#FF1CA9F9" Stroke="BlanchedAlmond"/>
+    <Grid HorizontalAlignment="Center" Height="360" Margin="0,0,0,0" VerticalAlignment="Center" Width="640">
+        <Button x:Name="ClickMeButton" Content="Click Me" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10,10,10,10" Click="ClickMeButton_Click"/>
+        <TextBlock x:Name="ResultTextBlock" HorizontalAlignment="Center" Height="57" Margin="0,231,0,0" Text="Any " TextWrapping="Wrap" VerticalAlignment="Top" Width="479" FontSize="36"/>
     </Grid>
 </Page>

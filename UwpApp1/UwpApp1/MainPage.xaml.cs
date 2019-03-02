@@ -26,5 +26,16 @@ namespace UwpApp1
         {
             this.InitializeComponent();
         }
+ 
+
+        private async void ClickMeButton_Click(object sender, RoutedEventArgs e)
+        {
+            ResultTextBlock.Text = "Hello, World!";
+            MediaElement mediaElement = new MediaElement();
+            var synth = new Windows.Media.SpeechSynthesis.SpeechSynthesizer();
+            Windows.Media.SpeechSynthesis.SpeechSynthesisStream stream = await synth.SynthesizeTextToStreamAsync("주인님, 언제 가실 예정이십니까?");
+            mediaElement.SetSource(stream, stream.ContentType);
+            mediaElement.Play();
+        }
     }
 }

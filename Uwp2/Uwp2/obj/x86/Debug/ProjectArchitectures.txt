@@ -1,0 +1,1 @@
+D:\git\Tutorial\Uwp2\Uwp2\Uwp2.csproj;x86

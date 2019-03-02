@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>N-SY-T420</Machine>
-    <WindowsUser>donny</WindowsUser>
+    <Machine>INTRATECH</Machine>
+    <WindowsUser>Administrator</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>dafa559c-7ef0-42a7-91e4-7e55ce3bb24f</PackageIdentityName>
     <PackageIdentityPublisher>CN=donny</PackageIdentityPublisher>
-    <IntermediateOutputPath>E:\gitproj\tutorial\UwpApp1\UwpApp1\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\git\Tutorial\UwpApp1\UwpApp1\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
-    <WindowsSdkPath>E:\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>E:\gitproj\tutorial\UwpApp1\UwpApp1\bin\x86\Debug\AppX</LayoutDir>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>D:\git\Tutorial\UwpApp1\UwpApp1\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="D:\git\Tutorial\UwpApp1\UwpApp1\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\bin\x86\Debug\UwpApp1.exe">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\bin\x86\Debug\UwpApp1.exe">
       <PackagePath>entrypoint\UwpApp1.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
@@ -70,10 +70,10 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.visualbasic\10.0.1\lib\netcore50\Microsoft.VisualBasic.dll">
       <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\donny\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.0\lib\uap10.0\Microsoft.Xaml.Interactions.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.0\lib\uap10.0\Microsoft.Xaml.Interactions.dll">
       <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\donny\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.0\lib\uap10.0\Microsoft.Xaml.Interactivity.dll">
+    <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.0\lib\uap10.0\Microsoft.Xaml.Interactivity.dll">
       <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.any.system.collections\4.0.11\lib\netcore50\System.Collections.dll">
@@ -376,55 +376,55 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.xml.xmlserializer\4.0.11\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows Kits\10\bin\10.0.17763.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.17763.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\bin\x86\Debug\UwpApp1.xr.xml">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\bin\x86\Debug\UwpApp1.xr.xml">
       <PackagePath>UwpApp1.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\gitproj\tutorial\UwpApp1\UwpApp1\bin\x86\Debug\Core\UwpApp1.exe">
+    <AppxPackagedFile Include="D:\git\Tutorial\UwpApp1\UwpApp1\bin\x86\Debug\Core\UwpApp1.exe">
       <PackagePath>UwpApp1.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

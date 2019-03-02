@@ -1,0 +1,9 @@
+D:\git\Tutorial\Uwp2\Uwp2.Core\bin\Debug\netstandard2.0\Uwp2.Core.deps.json
+D:\git\Tutorial\Uwp2\Uwp2.Core\bin\Debug\netstandard2.0\Uwp2.Core.dll
+D:\git\Tutorial\Uwp2\Uwp2.Core\bin\Debug\netstandard2.0\Uwp2.Core.pdb
+D:\git\Tutorial\Uwp2\Uwp2.Core\obj\Debug\netstandard2.0\Uwp2.Core.csprojAssemblyReference.cache
+D:\git\Tutorial\Uwp2\Uwp2.Core\obj\Debug\netstandard2.0\Uwp2.Core.csproj.CoreCompileInputs.cache
+D:\git\Tutorial\Uwp2\Uwp2.Core\obj\Debug\netstandard2.0\Uwp2.Core.AssemblyInfoInputs.cache
+D:\git\Tutorial\Uwp2\Uwp2.Core\obj\Debug\netstandard2.0\Uwp2.Core.AssemblyInfo.cs
+D:\git\Tutorial\Uwp2\Uwp2.Core\obj\Debug\netstandard2.0\Uwp2.Core.dll
+D:\git\Tutorial\Uwp2\Uwp2.Core\obj\Debug\netstandard2.0\Uwp2.Core.pdb
