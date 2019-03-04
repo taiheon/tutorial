@@ -1,5 +1,5 @@
 {
-  "Standard Color": {
+  "W3C Standard Color": {
     "Black": "#000000",
     "Navy": "#000080",
     "Dark blue": "#00008b",
@@ -139,7 +139,7 @@
     "Ivory": "#fffff0",
     "White": "#ffffff"
   },
-  "Extended Color": {
+  "W3C Extended Color": {
     "Black": "#000000",
     "Smoky black": "#100c08",
     "Navy blue": "#000080",
@@ -1047,7 +1047,7 @@
     "Yellow": "#e9c201",
     "White": "#f9fae8"
   },
-  "US Federal Standard 595 Paint Spec": {
+  "W3C US Federal Standard 595 Paint Spec": {
     "w3-highway-brown": "#633517",
     "w3-highway-red": "#a6001a",
     "w3-highway-orange": "#e06000",

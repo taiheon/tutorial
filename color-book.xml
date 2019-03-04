@@ -1,0 +1,3770 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Color-book>
+<Group Name="W3C Standard Color" Code="STD">
+    <Color Name="Black" Code="#000000" />
+    <Color Name="Navy" Code="#000080" />
+    <Color Name="Dark blue" Code="#00008b" />
+    <Color Name="Medium blue" Code="#0000cd" />
+    <Color Name="Blue" Code="#0000ff" />
+    <Color Name="Midnight blue" Code="#191970" />
+    <Color Name="Indigo" Code="#4b0082" />
+    <Color Name="Maroon" Code="#800000" />
+    <Color Name="Dark red" Code="#8b0000" />
+    <Color Name="Purple" Code="#800080" />
+    <Color Name="Dark magenta" Code="#8b008b" />
+    <Color Name="Dark green" Code="#006400" />
+    <Color Name="Dark violet" Code="#9400d3" />
+    <Color Name="Dark slate grey" Code="#2f4f4f" />
+    <Color Name="Dark slate blue" Code="#483d8b" />
+    <Color Name="Green" Code="#008000" />
+    <Color Name="Red" Code="#ff0000" />
+    <Color Name="Fire brick" Code="#b22222" />
+    <Color Name="Brown" Code="#a52a2a" />
+    <Color Name="Saddle brown" Code="#8b4513" />
+    <Color Name="Crimson" Code="#dc143c" />
+    <Color Name="Medium violet red" Code="#c71585" />
+    <Color Name="Teal" Code="#008080" />
+    <Color Name="Blue violet" Code="#8a2be2" />
+    <Color Name="Dark olive green" Code="#556b2f" />
+    <Color Name="Forest green" Code="#228b22" />
+    <Color Name="Dark cyan" Code="#008b8b" />
+    <Color Name="Dark orchid" Code="#9932cc" />
+    <Color Name="Sienna" Code="#a0522d" />
+    <Color Name="Deep pink" Code="#ff1493" />
+    <Color Name="Dim grey" Code="#696969" />
+    <Color Name="Sea green" Code="#2e8b57" />
+    <Color Name="Fuchsia" Code="#ff00ff" />
+    <Color Name="Royal blue" Code="#4169e1" />
+    <Color Name="Slate blue" Code="#6a5acd" />
+    <Color Name="Olive" Code="#808000" />
+    <Color Name="Orange red" Code="#ff4500" />
+    <Color Name="Steel blue" Code="#4682b4" />
+    <Color Name="Olive drab" Code="#6b8e23" />
+    <Color Name="Dodger blue" Code="#1e90ff" />
+    <Color Name="Medium slate blue" Code="#7b68ee" />
+    <Color Name="Slate grey" Code="#708090" />
+    <Color Name="Indian red" Code="#cd5c5c" />
+    <Color Name="Chocolate" Code="#d2691e" />
+    <Color Name="Gray" Code="#808080" />
+    <Color Name="Medium orchid" Code="#ba55d3" />
+    <Color Name="Light slate grey" Code="#778899" />
+    <Color Name="Light sea green" Code="#20b2aa" />
+    <Color Name="Medium purple" Code="#9370d8" />
+    <Color Name="Dark golden rod" Code="#b8860b" />
+    <Color Name="Medium sea green" Code="#3cb371" />
+    <Color Name="Cadet blue" Code="#5f9ea0" />
+    <Color Name="Lime green" Code="#32cd32" />
+    <Color Name="Deep sky blue" Code="#00bfff" />
+    <Color Name="Tomato" Code="#ff6347" />
+    <Color Name="Corn flower blue" Code="#6495ed" />
+    <Color Name="Dark turquoise" Code="#00ced1" />
+    <Color Name="Peru" Code="#cd853f" />
+    <Color Name="Pale violet red" Code="#d87093" />
+    <Color Name="Lime" Code="#00ff00" />
+    <Color Name="Orchid" Code="#da70d6" />
+    <Color Name="Rosy brown" Code="#bc8f8f" />
+    <Color Name="Hot pink" Code="#ff69b4" />
+    <Color Name="Dark orange" Code="#ff8c00" />
+    <Color Name="Coral" Code="#ff7f50" />
+    <Color Name="Light coral" Code="#f08080" />
+    <Color Name="Salmon" Code="#fa8072" />
+    <Color Name="Spring green" Code="#00ff7f" />
+    <Color Name="Medium spring green" Code="#00fa9a" />
+    <Color Name="Golden rod" Code="#daa520" />
+    <Color Name="Medium turquoise" Code="#48d1cc" />
+    <Color Name="Dark grey" Code="#a9a9a9" />
+    <Color Name="Dark sea green" Code="#8fbc8f" />
+    <Color Name="Medium aquamarine" Code="#66cdaa" />
+    <Color Name="Dark salmon" Code="#e9967a" />
+    <Color Name="Yellow green" Code="#9acd32" />
+    <Color Name="Orange" Code="#ffa500" />
+    <Color Name="Turquoise" Code="#40e0d0" />
+    <Color Name="Violet" Code="#ee82ee" />
+    <Color Name="Dark khaki" Code="#bdb76b" />
+    <Color Name="Aqua" Code="#00ffff" />
+    <Color Name="Sandy brown" Code="#f4a460" />
+    <Color Name="Light salmon" Code="#ffa07a" />
+    <Color Name="Tan" Code="#d2b48c" />
+    <Color Name="Lawn green" Code="#7cfc00" />
+    <Color Name="Plum" Code="#dda0dd" />
+    <Color Name="Chartreuse" Code="#7fff00" />
+    <Color Name="Sky blue" Code="#87ceeb" />
+    <Color Name="Burly wood" Code="#deb887" />
+    <Color Name="Light sky blue" Code="#87cefa" />
+    <Color Name="Silver" Code="#c0c0c0" />
+    <Color Name="Light steel blue" Code="#b0c4de" />
+    <Color Name="Light green" Code="#90ee90" />
+    <Color Name="Thistle" Code="#d8bfd8" />
+    <Color Name="Gold" Code="#ffd700" />
+    <Color Name="Light blue" Code="#add8e6" />
+    <Color Name="Light pink" Code="#ffb6c1" />
+    <Color Name="Green yellow" Code="#adff2f" />
+    <Color Name="Pale green" Code="#98fb98" />
+    <Color Name="Powder blue" Code="#b0e0e6" />
+    <Color Name="Light grey" Code="#d3d3d3" />
+    <Color Name="Aquamarine" Code="#7fffd4" />
+    <Color Name="Pink" Code="#ffc0cb" />
+    <Color Name="Pale turquoise" Code="#afeeee" />
+    <Color Name="Gainsboro" Code="#dcdcdc" />
+    <Color Name="Khaki" Code="#f0e68c" />
+    <Color Name="Wheat" Code="#f5deb3" />
+    <Color Name="Peach puff" Code="#ffdab9" />
+    <Color Name="Yellow" Code="#ffff00" />
+    <Color Name="Navajo white" Code="#ffdead" />
+    <Color Name="Pale golden rod" Code="#eee8aa" />
+    <Color Name="Moccasin" Code="#ffe4b5" />
+    <Color Name="Lavender" Code="#e6e6fa" />
+    <Color Name="Bisque" Code="#ffe4c4" />
+    <Color Name="Misty rose" Code="#ffe4e1" />
+    <Color Name="Antique white" Code="#faebd7" />
+    <Color Name="Blanched almond" Code="#ffebcd" />
+    <Color Name="Papaya whip" Code="#ffefd5" />
+    <Color Name="Linen" Code="#faf0e6" />
+    <Color Name="Beige" Code="#f5f5dc" />
+    <Color Name="White smoke" Code="#f5f5f5" />
+    <Color Name="Lavender blush" Code="#fff0f5" />
+    <Color Name="Light golden rod yellow" Code="#fafad2" />
+    <Color Name="Old lace" Code="#fdf5e6" />
+    <Color Name="Light cyan" Code="#e0ffff" />
+    <Color Name="Lemon chiffon" Code="#fffacd" />
+    <Color Name="Alice blue" Code="#f0f8ff" />
+    <Color Name="Corn silk" Code="#fff8dc" />
+    <Color Name="Sea shell" Code="#fff5ee" />
+    <Color Name="Ghost white" Code="#f8f8ff" />
+    <Color Name="Honey dew" Code="#f0fff0" />
+    <Color Name="Floral white" Code="#fffaf0" />
+    <Color Name="Azure" Code="#f0ffff" />
+    <Color Name="Mint cream" Code="#f5fffa" />
+    <Color Name="Light yellow" Code="#ffffe0" />
+    <Color Name="Snow" Code="#fffafa" />
+    <Color Name="Ivory" Code="#fffff0" />
+    <Color Name="White" Code="#FFFFFF" />
+</Group>
+<Group Name="W3C Extended Colour" Code="EXT" >
+    <Color Name="Black" Code="#000000" />
+    <Color Name="Smoky black" Code="#100c08" />
+    <Color Name="Navy blue" Code="#000080" />
+    <Color Name="Dark blue" Code="#00008b" />
+    <Color Name="Duke blue" Code="#00009c" />
+    <Color Name="Licorice" Code="#1a1110" />
+    <Color Name="Medium blue" Code="#0000cd" />
+    <Color Name="Phthalo blue" Code="#000f89" />
+    <Color Name="Black bean" Code="#3d0c02" />
+    <Color Name="Bulgarian rose" Code="#480607" />
+    <Color Name="Zinnwaldite brown" Code="#2c1608" />
+    <Color Name="Oxford Blue" Code="#002147" />
+    <Color Name="Ultramarine" Code="#120a8f" />
+    <Color Name="Seal brown" Code="#321414" />
+    <Color Name="Blue" Code="#0000ff" />
+    <Color Name="Dark scarlet" Code="#560319" />
+    <Color Name="Zaffre" Code="#0014a8" />
+    <Color Name="Rosewood" Code="#65000b" />
+    <Color Name="Dark sienna" Code="#3c1414" />
+    <Color Name="Royal blue (traditional)" Code="#002366" />
+    <Color Name="Dark jungle green" Code="#1a2421" />
+    <Color Name="Dark green" Code="#013220" />
+    <Color Name="Midnight blue" Code="#191970" />
+    <Color Name="Resolution blue" Code="#002387" />
+    <Color Name="Indigo" Code="#4b0082" />
+    <Color Name="Imperial blue" Code="#002395" />
+    <Color Name="Prussian blue" Code="#003153" />
+    <Color Name="Maroon" Code="#800000" />
+    <Color Name="Cool black" Code="#002e63" />
+    <Color Name="Tyrian purple" Code="#66023c" />
+    <Color Name="Yankees blue" Code="#1c2841" />
+    <Color Name="Persian indigo" Code="#32127a" />
+    <Color Name="Catalina blue" Code="#062a78" />
+    <Color Name="Phthalo green" Code="#123524" />
+    <Color Name="Charleston green" Code="#232b2b" />
+    <Color Name="Dark red" Code="#8b0000" />
+    <Color Name="Dark midnight blue" Code="#003366" />
+    <Color Name="Burgundy" Code="#800020" />
+    <Color Name="Space cadet" Code="#1d2951" />
+    <Color Name="Red devil" Code="#860111" />
+    <Color Name="British racing green" Code="#004225" />
+    <Color Name="Barn red" Code="#7c0a02" />
+    <Color Name="Forest green (traditional), UP Forest green" Code="#014421" />
+    <Color Name="Air Force blue (USAF)" Code="#00308f" />
+    <Color Name="Medium jungle green" Code="#1c352d" />
+    <Color Name="Sangria" Code="#92000a" />
+    <Color Name="Rich black" Code="#004040" />
+    <Color Name="OU Crimson Red, Stizza, USC Cardinal" Code="#990000" />
+    <Color Name="Warm black" Code="#004242" />
+    <Color Name="International Klein Blue" Code="#002fa7" />
+    <Color Name="Black leather jacket" Code="#253529" />
+    <Color Name="Bistre" Code="#3d2b1f" />
+    <Color Name="Dark powder blue, Smalt (Dark powder blue)" Code="#003399" />
+    <Color Name="Carmine" Code="#960018" />
+    <Color Name="Electric ultramarine" Code="#3f00ff" />
+    <Color Name="St. Patrick's blue" Code="#23297a" />
+    <Color Name="UP Maroon" Code="#7b1113" />
+    <Color Name="Dark candy apple red" Code="#a40000" />
+    <Color Name="UA blue" Code="#0033aa" />
+    <Color Name="Dark imperial blue, Indigo (dye)" Code="#00416a" />
+    <Color Name="Olive Drab #7" Code="#3c341f" />
+    <Color Name="Jet" Code="#343434" />
+    <Color Name="Royal azure" Code="#0038a8" />
+    <Color Name="Myrtle" Code="#21421e" />
+    <Color Name="Bluebonnet" Code="#1c1cf0" />
+    <Color Name="Midnight green (eagle green)" Code="#004953" />
+    <Color Name="Deep jungle green" Code="#004b49" />
+    <Color Name="Patriarch, Purple" Code="#800080" />
+    <Color Name="Persian plum, Prune" Code="#701c1c" />
+    <Color Name="Caput mortuum" Code="#592720" />
+    <Color Name="Old burgundy" Code="#43302e" />
+    <Color Name="Kenyan copper" Code="#7c1c05" />
+    <Color Name="Egyptian blue" Code="#1034a6" />
+    <Color Name="MSU Green" Code="#18453b" />
+    <Color Name="Falu red" Code="#801818" />
+    <Color Name="Onyx" Code="#353839" />
+    <Color Name="Diamond" Code="#7d1242" />
+    <Color Name="Mardi Gras" Code="#880085" />
+    <Color Name="Dark cerulean" Code="#08457e" />
+    <Color Name="Claret" Code="#7f1734" />
+    <Color Name="Dark magenta" Code="#8b008b" />
+    <Color Name="Castleton green, Sacramento State green" Code="#00563f" />
+    <Color Name="Cafe noir" Code="#4b3621" />
+    <Color Name="Pansy purple" Code="#78184a" />
+    <Color Name="Black olive" Code="#3b3c36" />
+    <Color Name="Mordant red 19" Code="#ae0c00" />
+    <Color Name="Cal Poly green" Code="#1e4d2b" />
+    <Color Name="Ruby red" Code="#9b111e" />
+    <Color Name="Pakistan green" Code="#006600" />
+    <Color Name="Lincoln green" Code="#195905" />
+    <Color Name="Brunswick green, English green" Code="#1b4d3e" />
+    <Color Name="Antique ruby" Code="#841b2d" />
+    <Color Name="Violet (RYB)" Code="#8601af" />
+    <Color Name="Boston University Red" Code="#cc0000" />
+    <Color Name="Cobalt" Code="#0047ab" />
+    <Color Name="Electric indigo, Indigo" Code="#6f00ff" />
+    <Color Name="Dark lava, Dark taupe, Taupe" Code="#483c32" />
+    <Color Name="Crimson glory" Code="#be0032" />
+    <Color Name="Harvard crimson" Code="#c90016" />
+    <Color Name="Blue (pigment)" Code="#333399" />
+    <Color Name="Persian blue" Code="#1c39bb" />
+    <Color Name="Rosso corsa" Code="#d40000" />
+    <Color Name="USAFA blue" Code="#004f98" />
+    <Color Name="Medium electric blue" Code="#035096" />
+    <Color Name="Palatinate purple" Code="#682860" />
+    <Color Name="Regalia" Code="#522d80" />
+    <Color Name="Red (NCS)" Code="#c40233" />
+    <Color Name="Charcoal" Code="#36454f" />
+    <Color Name="Arsenic" Code="#3b444b" />
+    <Color Name="Yale Blue" Code="#0f4d92" />
+    <Color Name="Jazzberry jam" Code="#a50b5e" />
+    <Color Name="Venetian red" Code="#c80815" />
+    <Color Name="Violet" Code="#7f00ff" />
+    <Color Name="Han purple" Code="#5218fa" />
+    <Color Name="Rufous" Code="#a81c07" />
+    <Color Name="Rifle green" Code="#414833" />
+    <Color Name="Old mauve, Wine dregs" Code="#673147" />
+    <Color Name="Wine" Code="#722f37" />
+    <Color Name="Dark violet" Code="#9400d3" />
+    <Color Name="Imperial" Code="#602f6b" />
+    <Color Name="Byzantium" Code="#702963" />
+    <Color Name="Dark slate grey" Code="#2f4f4f" />
+    <Color Name="Cadmium green" Code="#006b3c" />
+    <Color Name="Kobe, Sienna" Code="#882d17" />
+    <Color Name="International orange (engineering)" Code="#ba160c" />
+    <Color Name="Purple (Munsell)" Code="#9f00c5" />
+    <Color Name="Purple taupe" Code="#50404d" />
+    <Color Name="Utah Crimson" Code="#d3003f" />
+    <Color Name="Spanish carmine" Code="#d10047" />
+    <Color Name="Vivid burgundy" Code="#9f1d35" />
+    <Color Name="Vivid auburn" Code="#922724" />
+    <Color Name="Dark byzantium" Code="#5d3954" />
+    <Color Name="KU Crimson" Code="#e8000d" />
+    <Color Name="Bottle green" Code="#006a4e" />
+    <Color Name="Blue (RYB)" Code="#0247fe" />
+    <Color Name="Outer Space" Code="#414a4c" />
+    <Color Name="Rich carmine" Code="#d70040" />
+    <Color Name="Cadmium red" Code="#e30022" />
+    <Color Name="Electric violet, Violet" Code="#8f00ff" />
+    <Color Name="Palatinate blue" Code="#273be2" />
+    <Color Name="Rubine red" Code="#d10056" />
+    <Color Name="Carnelian, Cornell Red" Code="#b31b1b" />
+    <Color Name="Dartmouth green" Code="#00703c" />
+    <Color Name="Dark raspberry" Code="#872657" />
+    <Color Name="Halaya ube" Code="#663854" />
+    <Color Name="Dark slate blue" Code="#483d8b" />
+    <Color Name="Dark brown, Otter brown" Code="#654321" />
+    <Color Name="UA red" Code="#d9004c" />
+    <Color Name="Pictorial carmine" Code="#c30b4e" />
+    <Color Name="Chocolate (traditional)" Code="#7b3f00" />
+    <Color Name="Sapphire" Code="#0f52ba" />
+    <Color Name="Sepia" Code="#704214" />
+    <Color Name="Army green" Code="#4b5320" />
+    <Color Name="Lava" Code="#cf1020" />
+    <Color Name="Ao, Green, Office green" Code="#008000" />
+    <Color Name="Burnt umber" Code="#8a3324" />
+    <Color Name="Upsdell red" Code="#ae2029" />
+    <Color Name="Quartz" Code="#51484f" />
+    <Color Name="Eggplant" Code="#614051" />
+    <Color Name="Big dip o’ruby" Code="#9c2542" />
+    <Color Name="Brown-nose, Flattery" Code="#6b4423" />
+    <Color Name="Medium candy apple red" Code="#e2062c" />
+    <Color Name="Red" Code="#ff0000" />
+    <Color Name="Deep carmine" Code="#a9203e" />
+    <Color Name="Vivid violet" Code="#9f00ff" />
+    <Color Name="French wine" Code="#ac1e44" />
+    <Color Name="Blue sapphire" Code="#126180" />
+    <Color Name="Fire brick" Code="#b22222" />
+    <Color Name="Alabama Crimson" Code="#a32638" />
+    <Color Name="Hunter green" Code="#355e3b" />
+    <Color Name="Liver" Code="#534b4f" />
+    <Color Name="Deep Tuscan red" Code="#66424d" />
+    <Color Name="La Salle Green" Code="#087830" />
+    <Color Name="Sea blue" Code="#006994" />
+    <Color Name="Violet-blue" Code="#324ab2" />
+    <Color Name="Grape" Code="#6f2da8" />
+    <Color Name="Auburn, Brown, Red-brown" Code="#a52a2a" />
+    <Color Name="New Car" Code="#214fc6" />
+    <Color Name="Cyber Grape" Code="#58427c" />
+    <Color Name="Red (Munsell)" Code="#f2003c" />
+    <Color Name="Medium Persian blue, Sapphire blue" Code="#0067a5" />
+    <Color Name="Tropical rain forest" Code="#00755e" />
+    <Color Name="Debian red" Code="#d70a53" />
+    <Color Name="Deep coffee" Code="#704241" />
+    <Color Name="Purple Heart" Code="#69359c" />
+    <Color Name="Boysenberry" Code="#873260" />
+    <Color Name="Ruddy" Code="#ff0028" />
+    <Color Name="Candy apple red" Code="#ff0800" />
+    <Color Name="Gray-asparagus" Code="#465945" />
+    <Color Name="Rose ebony" Code="#674846" />
+    <Color Name="Skobeloff" Code="#007474" />
+    <Color Name="Dark spring green" Code="#177245" />
+    <Color Name="B'dazzled Blue" Code="#2e5894" />
+    <Color Name="Mexican pink" Code="#e4007c" />
+    <Color Name="Cerulean blue" Code="#2a52be" />
+    <Color Name="Russet" Code="#80461b" />
+    <Color Name="Carmine red" Code="#ff0038" />
+    <Color Name="Bole, Medium Tuscan red" Code="#79443b" />
+    <Color Name="Cardinal" Code="#c41e3a" />
+    <Color Name="Electric crimson" Code="#ff003f" />
+    <Color Name="Medium taupe" Code="#674c47" />
+    <Color Name="Pine green" Code="#01796f" />
+    <Color Name="Honolulu blue" Code="#006db0" />
+    <Color Name="Denim" Code="#1560bd" />
+    <Color Name="Saddle brown" Code="#8b4513" />
+    <Color Name="Deep magenta" Code="#cc00cc" />
+    <Color Name="Crimson" Code="#dc143c" />
+    <Color Name="Islamic green" Code="#009000" />
+    <Color Name="Raspberry" Code="#e30b5d" />
+    <Color Name="Davy's grey" Code="#555555" />
+    <Color Name="Field drab" Code="#6c541e" />
+    <Color Name="Fire engine red" Code="#ce2029" />
+    <Color Name="American rose" Code="#ff033e" />
+    <Color Name="Umber" Code="#635147" />
+    <Color Name="Coffee, Tuscan brown" Code="#6f4e37" />
+    <Color Name="Folly" Code="#ff004f" />
+    <Color Name="Cordovan" Code="#893f45" />
+    <Color Name="Bright maroon, Maroon (Crayola)" Code="#c32148" />
+    <Color Name="Lapis lazuli" Code="#26619c" />
+    <Color Name="Electric purple" Code="#bf00ff" />
+    <Color Name="India green" Code="#138808" />
+    <Color Name="Deep ruby" Code="#843f5b" />
+    <Color Name="Medium violet-red, Red-violet" Code="#c71585" />
+    <Color Name="Feldgrau" Code="#4d5d53" />
+    <Color Name="Chinese red" Code="#aa381e" />
+    <Color Name="Smokey topaz" Code="#933d41" />
+    <Color Name="Tuscan red" Code="#7c4848" />
+    <Color Name="Napier green" Code="#2a8000" />
+    <Color Name="Ruby" Code="#e0115f" />
+    <Color Name="French blue" Code="#0072bb" />
+    <Color Name="Antique bronze" Code="#665d1e" />
+    <Color Name="Wenge" Code="#645452" />
+    <Color Name="Brown (traditional)" Code="#964b00" />
+    <Color Name="Ebony" Code="#555d50" />
+    <Color Name="Teal" Code="#008080" />
+    <Color Name="Scarlet (Crayola), Tractor red" Code="#fd0e35" />
+    <Color Name="Vivid orchid" Code="#cc00ff" />
+    <Color Name="Dogwood rose" Code="#d71868" />
+    <Color Name="CG Blue" Code="#007aa5" />
+    <Color Name="Bright pink, Rose" Code="#ff007f" />
+    <Color Name="Teal green" Code="#00827f" />
+    <Color Name="Chestnut" Code="#954535" />
+    <Color Name="True Blue" Code="#0073cf" />
+    <Color Name="Lust" Code="#e62020" />
+    <Color Name="Celadon Blue, Cerulean" Code="#007ba7" />
+    <Color Name="Fashion fuchsia, Hollywood cerise" Code="#f400a1" />
+    <Color Name="Red (pigment)" Code="#ed1c24" />
+    <Color Name="Ocean Boat Blue" Code="#0077be" />
+    <Color Name="Maroon (X11), Rich maroon" Code="#b03060" />
+    <Color Name="North Texas Green" Code="#059033" />
+    <Color Name="Blue-violet" Code="#8a2be2" />
+    <Color Name="Spanish crimson" Code="#e51a4c" />
+    <Color Name="Magenta (dye)" Code="#ca1f7b" />
+    <Color Name="Magenta (process)" Code="#ff0090" />
+    <Color Name="Metallic Seaweed" Code="#0a7e8c" />
+    <Color Name="Deep Space Sparkle" Code="#4a646c" />
+    <Color Name="Star command blue" Code="#007bbb" />
+    <Color Name="French raspberry" Code="#c72c48" />
+    <Color Name="Dark olive green" Code="#556b2f" />
+    <Color Name="Purple (X11), Veronica" Code="#a020f0" />
+    <Color Name="International orange (Golden Gate Bridge)" Code="#c0362c" />
+    <Color Name="Rust" Code="#b7410e" />
+    <Color Name="Brandeis blue" Code="#0070ff" />
+    <Color Name="Mahogany" Code="#c04000" />
+    <Color Name="Stormcloud" Code="#4f666a" />
+    <Color Name="Forest green" Code="#228b22" />
+    <Color Name="Phlox, Psychedelic purple" Code="#df00ff" />
+    <Color Name="Medium carmine, Pale carmine" Code="#af4035" />
+    <Color Name="Twilight lavender" Code="#8a496b" />
+    <Color Name="Alizarin crimson, Rose madder" Code="#e32636" />
+    <Color Name="Dark pastel red" Code="#c23b22" />
+    <Color Name="Persian red" Code="#cc3333" />
+    <Color Name="Iris" Code="#5a4fcf" />
+    <Color Name="Vivid cerise" Code="#da1d81" />
+    <Color Name="Scarlet" Code="#ff2400" />
+    <Color Name="Dark cyan" Code="#008b8b" />
+    <Color Name="Dark lavender" Code="#734f96" />
+    <Color Name="Plum (traditional)" Code="#8e4585" />
+    <Color Name="Dark orchid" Code="#9932cc" />
+    <Color Name="Rusty red" Code="#da2c43" />
+    <Color Name="Cadet" Code="#536872" />
+    <Color Name="Amazon" Code="#3b7a57" />
+    <Color Name="Dark electric blue, Payne's grey" Code="#536878" />
+    <Color Name="Fandango" Code="#b53389" />
+    <Color Name="Ferrari Red" Code="#ff2800" />
+    <Color Name="Queen blue" Code="#436b95" />
+    <Color Name="Sinopia" Code="#cb410b" />
+    <Color Name="Bronze Yellow" Code="#737000" />
+    <Color Name="Teal blue" Code="#367588" />
+    <Color Name="Medium ruby" Code="#aa4069" />
+    <Color Name="Majorelle Blue" Code="#6050dc" />
+    <Color Name="Blue (NCS)" Code="#0087bd" />
+    <Color Name="Red (RYB)" Code="#fe2712" />
+    <Color Name="Medium red-violet" Code="#bb3385" />
+    <Color Name="Razzmatazz" Code="#e3256b" />
+    <Color Name="Sap green" Code="#507d2a" />
+    <Color Name="Fern green" Code="#4f7942" />
+    <Color Name="Avocado" Code="#568203" />
+    <Color Name="Steel pink" Code="#cc3366" />
+    <Color Name="Royal purple" Code="#7851a9" />
+    <Color Name="Amaranth" Code="#e52b50" />
+    <Color Name="UCLA Blue" Code="#536895" />
+    <Color Name="Royal fuchsia" Code="#ca2c92" />
+    <Color Name="Razzmic Berry" Code="#8d4e85" />
+    <Color Name="Azure" Code="#007fff" />
+    <Color Name="Shamrock green" Code="#009e60" />
+    <Color Name="Deep Taupe" Code="#7e5e60" />
+    <Color Name="English red" Code="#ab4b52" />
+    <Color Name="Deep pink, Fluorescent pink" Code="#ff1493" />
+    <Color Name="Coconut" Code="#965a3e" />
+    <Color Name="Dim gray" Code="#696969" />
+    <Color Name="Hooker's green" Code="#49796b" />
+    <Color Name="Byzantine" Code="#bd33a4" />
+    <Color Name="Sea green" Code="#2e8b57" />
+    <Color Name="Fuchsia, Magenta" Code="#ff00ff" />
+    <Color Name="Green (NCS)" Code="#009f6b" />
+    <Color Name="Celadon Green" Code="#2f847c" />
+    <Color Name="Irresistible, Raspberry rose" Code="#b3446c" />
+    <Color Name="Telemagenta" Code="#cf3476" />
+    <Color Name="Green (pigment)" Code="#00a550" />
+    <Color Name="Jasper" Code="#d73b3e" />
+    <Color Name="Deep carmine pink" Code="#ef3038" />
+    <Color Name="Shocking pink" Code="#fc0fc0" />
+    <Color Name="Blue (Munsell)" Code="#0093af" />
+    <Color Name="Redwood, Rose vale" Code="#ab4e52" />
+    <Color Name="Cerise, Cherry" Code="#de3163" />
+    <Color Name="Raw umber" Code="#826644" />
+    <Color Name="Royal blue" Code="#4169e1" />
+    <Color Name="Blue (Crayola)" Code="#1f75fe" />
+    <Color Name="Ultramarine blue" Code="#4166f5" />
+    <Color Name="Han blue" Code="#446ccf" />
+    <Color Name="Golden brown" Code="#996515" />
+    <Color Name="CG Red" Code="#e03c31" />
+    <Color Name="Dark blue-gray" Code="#666699" />
+    <Color Name="Viridian" Code="#40826d" />
+    <Color Name="Slate blue" Code="#6a5acd" />
+    <Color Name="Bondi blue" Code="#0095b6" />
+    <Color Name="Rose taupe" Code="#905d5d" />
+    <Color Name="Brick red" Code="#cb4154" />
+    <Color Name="Coquelicot" Code="#ff3800" />
+    <Color Name="Deep chestnut" Code="#b94e48" />
+    <Color Name="Deep cerise" Code="#da3287" />
+    <Color Name="Pastel brown" Code="#836953" />
+    <Color Name="China rose" Code="#a8516e" />
+    <Color Name="Jade" Code="#00a86b" />
+    <Color Name="Burnt orange" Code="#cc5500" />
+    <Color Name="Old lavender" Code="#796878" />
+    <Color Name="Mauve taupe, Raspberry glace" Code="#915f6d" />
+    <Color Name="Rich electric blue" Code="#0892d0" />
+    <Color Name="Ginger" Code="#b06500" />
+    <Color Name="GO green" Code="#00ab66" />
+    <Color Name="Fuchsia rose" Code="#c74375" />
+    <Color Name="Green (Munsell)" Code="#00a877" />
+    <Color Name="Antique fuchsia" Code="#915c83" />
+    <Color Name="Tenné (Tawny)" Code="#cd5700" />
+    <Color Name="French bistre" Code="#856d4d" />
+    <Color Name="Cinnabar, Vermilion (cinnabar)" Code="#e34234" />
+    <Color Name="French lilac, Pomp and Power" Code="#86608e" />
+    <Color Name="Bittersweet shimmer" Code="#bf4f51" />
+    <Color Name="Smitten" Code="#c84186" />
+    <Color Name="Illuminating Emerald" Code="#319177" />
+    <Color Name="Heart Gold, Olive" Code="#808000" />
+    <Color Name="Bistre brown, Drab, Mode beige, Sand dune, Sandy t" Code="#967117" />
+    <Color Name="Persian green" Code="#00a693" />
+    <Color Name="Blue-green" Code="#0d98ba" />
+    <Color Name="Magenta (Pantone)" Code="#d0417e" />
+    <Color Name="Tufts Blue" Code="#417dc1" />
+    <Color Name="Ruber" Code="#ce4676" />
+    <Color Name="Light brown" Code="#b5651d" />
+    <Color Name="Orange-red" Code="#ff4500" />
+    <Color Name="Hot magenta" Code="#ff1dce" />
+    <Color Name="Deep lilac" Code="#9955bb" />
+    <Color Name="Sonic silver" Code="#757575" />
+    <Color Name="Spanish bistre" Code="#80755a" />
+    <Color Name="Copper rose" Code="#996666" />
+    <Color Name="Dark terra cotta" Code="#cc4e5c" />
+    <Color Name="Gold Fusion" Code="#85754e" />
+    <Color Name="Steel blue" Code="#4682b4" />
+    <Color Name="Persian rose" Code="#fe28a2" />
+    <Color Name="Alloy orange" Code="#c46210" />
+    <Color Name="Dark chestnut" Code="#986960" />
+    <Color Name="Radical Red" Code="#ff355e" />
+    <Color Name="Mulberry" Code="#c54b8c" />
+    <Color Name="Olive Drab #3" Code="#6b8e23" />
+    <Color Name="Windsor tan" Code="#ae6838" />
+    <Color Name="Tangelo" Code="#f94d00" />
+    <Color Name="Ruddy brown" Code="#bb6528" />
+    <Color Name="Toolbox" Code="#746cc0" />
+    <Color Name="Cerise pink" Code="#ec3b83" />
+    <Color Name="Dark pastel green" Code="#03c03c" />
+    <Color Name="Coral red" Code="#ff4040" />
+    <Color Name="Cedar Chest" Code="#c95a49" />
+    <Color Name="Rhythm" Code="#777696" />
+    <Color Name="AuroMetalSaurus" Code="#6e7f80" />
+    <Color Name="Lavender indigo, Navy purple" Code="#9457eb" />
+    <Color Name="Persimmon" Code="#ec5800" />
+    <Color Name="Carmine pink" Code="#eb4c42" />
+    <Color Name="Dodger blue" Code="#1e90ff" />
+    <Color Name="Dark coral" Code="#cd5b45" />
+    <Color Name="International orange (aerospace)" Code="#ff4f00" />
+    <Color Name="Shadow" Code="#8a795d" />
+    <Color Name="Green (Crayola)" Code="#1cac78" />
+    <Color Name="Flame" Code="#e25822" />
+    <Color Name="Bleu de France" Code="#318ce7" />
+    <Color Name="Orioles orange" Code="#fb4f14" />
+    <Color Name="Smoke" Code="#738276" />
+    <Color Name="Pale brown" Code="#987654" />
+    <Color Name="Medium slate blue" Code="#7b68ee" />
+    <Color Name="Slate gray" Code="#708090" />
+    <Color Name="Dirt" Code="#9b7653" />
+    <Color Name="Neon fuchsia" Code="#fe4164" />
+    <Color Name="Glaucous" Code="#6082b6" />
+    <Color Name="Spanish sky blue" Code="#00aae4" />
+    <Color Name="Indian red" Code="#cd5c5c" />
+    <Color Name="Metallic Sunburst" Code="#9c7c38" />
+    <Color Name="Spanish orange" Code="#e86100" />
+    <Color Name="Xanadu" Code="#738678" />
+    <Color Name="Camouflage green" Code="#78866b" />
+    <Color Name="Dark yellow" Code="#9b870c" />
+    <Color Name="Blast-off bronze" Code="#a57164" />
+    <Color Name="Chocolate, Cinnamon, Cocoa brown" Code="#d2691e" />
+    <Color Name="Medium vermilion, Vermilion (Plochere)" Code="#d9603b" />
+    <Color Name="Air Force blue (RAF), Rackley" Code="#5d8aa8" />
+    <Color Name="Gray, Gray, Trolley Grey" Code="#808080" />
+    <Color Name="Jungle green" Code="#29ab87" />
+    <Color Name="Dark tan" Code="#918151" />
+    <Color Name="Copper" Code="#b87333" />
+    <Color Name="Chamoisee" Code="#a0785a" />
+    <Color Name="Copper penny" Code="#ad6f69" />
+    <Color Name="Amethyst" Code="#9966cc" />
+    <Color Name="Deep fuchsia, Fuchsia (Crayola)" Code="#c154c1" />
+    <Color Name="Bazaar" Code="#98777b" />
+    <Color Name="Razzle dazzle rose" Code="#ff33cc" />
+    <Color Name="Medium orchid" Code="#ba55d3" />
+    <Color Name="Fandango pink" Code="#de5285" />
+    <Color Name="Rocket metallic" Code="#8a7f80" />
+    <Color Name="Blueberry" Code="#4f86f7" />
+    <Color Name="Jelly Bean" Code="#da614e" />
+    <Color Name="Rose bonbon" Code="#f9429e" />
+    <Color Name="Battleship grey, Old silver" Code="#848482" />
+    <Color Name="Raspberry pink" Code="#e25098" />
+    <Color Name="Giants orange" Code="#fe5a1d" />
+    <Color Name="Café au lait, French beige, Tuscan tan" Code="#a67b5b" />
+    <Color Name="Fuzzy Wuzzy" Code="#cc6666" />
+    <Color Name="French rose" Code="#f64a8a" />
+    <Color Name="Tiffany Blue" Code="#0abab5" />
+    <Color Name="Light slate gray" Code="#778899" />
+    <Color Name="Dark pink" Code="#e75480" />
+    <Color Name="Rose gold" Code="#b76e79" />
+    <Color Name="Red-orange" Code="#ff5349" />
+    <Color Name="Ube" Code="#8878c3" />
+    <Color Name="Light sea green" Code="#20b2aa" />
+    <Color Name="Mountbatten pink" Code="#997a8d" />
+    <Color Name="Ball Blue" Code="#21abcd" />
+    <Color Name="Copper red" Code="#cb6d51" />
+    <Color Name="Bright cerulean" Code="#1dacd6" />
+    <Color Name="Celestial blue" Code="#4997d0" />
+    <Color Name="Cyan (process)" Code="#00b7eb" />
+    <Color Name="Pearly purple" Code="#b768a2" />
+    <Color Name="Wild Strawberry" Code="#ff43a4" />
+    <Color Name="Dark pastel purple" Code="#966fd6" />
+    <Color Name="Medium purple" Code="#9370db" />
+    <Color Name="Ochre" Code="#cc7722" />
+    <Color Name="Dark goldenrod" Code="#b8860b" />
+    <Color Name="Kelly green" Code="#4cbb17" />
+    <Color Name="Cinereous" Code="#98817b" />
+    <Color Name="Portland Orange" Code="#ff5a36" />
+    <Color Name="Taupe gray" Code="#8b8589" />
+    <Color Name="Turkish rose" Code="#b57281" />
+    <Color Name="Medium sea green" Code="#3cb371" />
+    <Color Name="Blush" Code="#de5d83" />
+    <Color Name="Beaver" Code="#9f8170" />
+    <Color Name="Purple mountain majesty" Code="#9678b6" />
+    <Color Name="Wild orchid" Code="#d77a02" />
+    <Color Name="Deep carrot orange" Code="#e9692c" />
+    <Color Name="Rich lavender" Code="#a76bcf" />
+    <Color Name="Roman silver" Code="#838996" />
+    <Color Name="Safety orange (blaze orange)" Code="#ff6700" />
+    <Color Name="Caribbean green" Code="#00cc99" />
+    <Color Name="Lavender purple" Code="#967bb6" />
+    <Color Name="Rich lilac" Code="#b666d2" />
+    <Color Name="University of California Gold" Code="#b78727" />
+    <Color Name="United Nations blue" Code="#5b92e5" />
+    <Color Name="Cadet blue" Code="#5f9ea0" />
+    <Color Name="Violet-red" Code="#f75394" />
+    <Color Name="Green (RYB)" Code="#66b032" />
+    <Color Name="Mint" Code="#3eb489" />
+    <Color Name="Mountain Meadow" Code="#30ba8f" />
+    <Color Name="Malachite" Code="#0bda51" />
+    <Color Name="Lime green" Code="#32cd32" />
+    <Color Name="Capri, Deep sky blue" Code="#00bfff" />
+    <Color Name="Bronze" Code="#cd7f32" />
+    <Color Name="Light carmine pink" Code="#e66771" />
+    <Color Name="Tomato" Code="#ff6347" />
+    <Color Name="Robin egg blue" Code="#00cccc" />
+    <Color Name="Blue-gray" Code="#6699cc" />
+    <Color Name="Super pink" Code="#cf6ba9" />
+    <Color Name="Strawberry" Code="#fc5a8d" />
+    <Color Name="Cornflower blue" Code="#6495ed" />
+    <Color Name="Brilliant rose, Magenta (Crayola)" Code="#ff55a3" />
+    <Color Name="Dark turquoise" Code="#00ced1" />
+    <Color Name="Terra cotta" Code="#e2725b" />
+    <Color Name="Verdigris" Code="#43b3ae" />
+    <Color Name="Deer" Code="#ba8759" />
+    <Color Name="Fulvous" Code="#e48400" />
+    <Color Name="Cerulean frost" Code="#6d9bc3" />
+    <Color Name="Brink pink" Code="#fb607f" />
+    <Color Name="Spiro Disco Ball" Code="#0fc0fc" />
+    <Color Name="Peru" Code="#cd853f" />
+    <Color Name="Purple pizzazz" Code="#fe4eda" />
+    <Color Name="Burnt sienna, Light red ochre" Code="#e97451" />
+    <Color Name="Cool grey, Gray-blue" Code="#8c92ac" />
+    <Color Name="Old rose" Code="#c08081" />
+    <Color Name="Light taupe" Code="#b38b6d" />
+    <Color Name="Pumpkin" Code="#ff7518" />
+    <Color Name="English lavender" Code="#b48395" />
+    <Color Name="Pale red-violet, Pale violet-red" Code="#db7093" />
+    <Color Name="Sky magenta" Code="#cf71af" />
+    <Color Name="University of Tennessee Orange" Code="#f77f00" />
+    <Color Name="Candy pink, Tango pink" Code="#e4717a" />
+    <Color Name="Vivid sky blue" Code="#00ccff" />
+    <Color Name="Pastel red" Code="#ff6961" />
+    <Color Name="Apple green" Code="#8db600" />
+    <Color Name="Outrageous Orange" Code="#ff6e4a" />
+    <Color Name="Electric green, Green (X11 green), Lime (X11 green" Code="#00ff00" />
+    <Color Name="China pink, Thulian pink" Code="#de6fa1" />
+    <Color Name="Air superiority blue" Code="#72a0c1" />
+    <Color Name="SAE/ECE Amber" Code="#ff7e00" />
+    <Color Name="Citron" Code="#9fa91f" />
+    <Color Name="Harvest Gold" Code="#da9100" />
+    <Color Name="Tangerine" Code="#f28500" />
+    <Color Name="Orange" Code="#ff7f00" />
+    <Color Name="Opera mauve" Code="#b784a7" />
+    <Color Name="Little boy blue" Code="#6ca0dc" />
+    <Color Name="Light crimson" Code="#f56991" />
+    <Color Name="Dark pastel blue" Code="#779ecb" />
+    <Color Name="Asparagus" Code="#87a96b" />
+    <Color Name="Bittersweet" Code="#fe6f5e" />
+    <Color Name="UFO Green" Code="#3cd070" />
+    <Color Name="Lavender (floral)" Code="#b57edc" />
+    <Color Name="Wild Watermelon" Code="#fc6c85" />
+    <Color Name="Manatee" Code="#979aaa" />
+    <Color Name="Emerald, Paris Green" Code="#50c878" />
+    <Color Name="Deep mauve, French mauve" Code="#d473d4" />
+    <Color Name="Iceberg" Code="#71a6d2" />
+    <Color Name="Cadmium orange" Code="#ed872d" />
+    <Color Name="Orchid" Code="#da70d6" />
+    <Color Name="New York pink" Code="#d7837f" />
+    <Color Name="Moonstone blue" Code="#73a9c2" />
+    <Color Name="Grullo" Code="#a99a86" />
+    <Color Name="Rosy brown" Code="#bc8f8f" />
+    <Color Name="Tiger's eye" Code="#e08d3c" />
+    <Color Name="Copper (Crayola), Pale copper" Code="#da8a67" />
+    <Color Name="Lemon curry" Code="#cca01d" />
+    <Color Name="Puce" Code="#cc8899" />
+    <Color Name="Hot pink" Code="#ff69b4" />
+    <Color Name="Dark orange" Code="#ff8c00" />
+    <Color Name="Brass" Code="#b5a642" />
+    <Color Name="Cadet grey" Code="#91a3b0" />
+    <Color Name="Rose quartz" Code="#aa98a9" />
+    <Color Name="Rose pink" Code="#ff66cc" />
+    <Color Name="Persian orange" Code="#d99058" />
+    <Color Name="Carrot orange" Code="#ed9121" />
+    <Color Name="Pale taupe" Code="#bc987e" />
+    <Color Name="Coral" Code="#ff7f50" />
+    <Color Name="Princeton orange" Code="#ff8f00" />
+    <Color Name="Mango Tango" Code="#ff8243" />
+    <Color Name="Camel, Desert, Fallow, Lion, Wood brown" Code="#c19a6b" />
+    <Color Name="Shimmering Blush" Code="#d98695" />
+    <Color Name="Mantis" Code="#74c365" />
+    <Color Name="Gamboge" Code="#e49b0f" />
+    <Color Name="Dollar bill" Code="#85bb65" />
+    <Color Name="Satin sheen gold" Code="#cba135" />
+    <Color Name="Light coral" Code="#f08080" />
+    <Color Name="Ceil" Code="#92a1cf" />
+    <Color Name="Limerick" Code="#9dc209" />
+    <Color Name="Antique brass" Code="#cd9575" />
+    <Color Name="Turquoise" Code="#30d5c8" />
+    <Color Name="Heliotrope" Code="#df73ff" />
+    <Color Name="Bright turquoise" Code="#08e8de" />
+    <Color Name="Guppie green, Spring green" Code="#00ff7f" />
+    <Color Name="Medium spring green" Code="#00fa9a" />
+    <Color Name="Tuscany" Code="#c09999" />
+    <Color Name="Congo pink, Coral pink, Tea rose (orange)" Code="#f88379" />
+    <Color Name="Orange (RYB)" Code="#fb9902" />
+    <Color Name="Goldenrod" Code="#daa520" />
+    <Color Name="Eucalyptus" Code="#44d7a8" />
+    <Color Name="Pastel purple" Code="#b39eb5" />
+    <Color Name="Sheen Green" Code="#8fd400" />
+    <Color Name="Blue Bell" Code="#a2a2d0" />
+    <Color Name="Medium turquoise" Code="#48d1cc" />
+    <Color Name="Ruddy pink" Code="#e18e96" />
+    <Color Name="Olivine" Code="#9ab973" />
+    <Color Name="Harlequin" Code="#3fff00" />
+    <Color Name="Dark gray" Code="#a9a9a9" />
+    <Color Name="Neon green" Code="#39ff14" />
+    <Color Name="Light pastel purple" Code="#b19cd9" />
+    <Color Name="Dark sea green" Code="#8fbc8f" />
+    <Color Name="Orange peel" Code="#ff9f00" />
+    <Color Name="Bright lavender" Code="#bf94e4" />
+    <Color Name="Persian pink" Code="#f77fbe" />
+    <Color Name="Salmon" Code="#ff8c69" />
+    <Color Name="Shocking pink (Crayola), Ultra pink" Code="#ff6fff" />
+    <Color Name="French sky blue" Code="#77b5fe" />
+    <Color Name="Tulip" Code="#ff878d" />
+    <Color Name="Dark salmon" Code="#e9967a" />
+    <Color Name="Android Green" Code="#a4c639" />
+    <Color Name="Deep saffron" Code="#ff9933" />
+    <Color Name="Silver chalice" Code="#acacac" />
+    <Color Name="Yellow-green" Code="#9acd32" />
+    <Color Name="Charm pink, Light Thulian pink" Code="#e68fac" />
+    <Color Name="Gold (metallic)" Code="#d4af37" />
+    <Color Name="Pistachio" Code="#93c572" />
+    <Color Name="Urobilin" Code="#e1ad21" />
+    <Color Name="Orange (web color)" Code="#ffa500" />
+    <Color Name="Pastel violet" Code="#cb99c9" />
+    <Color Name="Wild blue yonder" Code="#a2add0" />
+    <Color Name="Vegas gold" Code="#c5b358" />
+    <Color Name="Chrome yellow" Code="#ffa700" />
+    <Color Name="Lavender magenta, Violet" Code="#ee82ee" />
+    <Color Name="Old gold" Code="#cfb53b" />
+    <Color Name="Fuchsia pink" Code="#ff77ff" />
+    <Color Name="Tickle Me Pink" Code="#fc89ac" />
+    <Color Name="Dark khaki" Code="#bdb76b" />
+    <Color Name="Indian yellow" Code="#e3a857" />
+    <Color Name="Pink Sherbet" Code="#f78fa7" />
+    <Color Name="Maya blue" Code="#73c2fb" />
+    <Color Name="Dark tangerine" Code="#ffa812" />
+    <Color Name="Turquoise blue" Code="#00ffef" />
+    <Color Name="Ecru, Sand" Code="#c2b280" />
+    <Color Name="Light medium orchid" Code="#d39bcb" />
+    <Color Name="Earth yellow" Code="#e1a95f" />
+    <Color Name="Laurel green" Code="#a9ba9d" />
+    <Color Name="Atomic tangerine, Pink-orange" Code="#ff9966" />
+    <Color Name="Lilac" Code="#c8a2c8" />
+    <Color Name="Dark sky blue" Code="#8cbed6" />
+    <Color Name="Pale magenta" Code="#f984e5" />
+    <Color Name="Khaki" Code="#c3b091" />
+    <Color Name="Flamingo pink" Code="#fc8eac" />
+    <Color Name="Orchid pink" Code="#f28dcd" />
+    <Color Name="Aqua, Cyan, Electric cyan" Code="#00ffff" />
+    <Color Name="Pastel green" Code="#77dd77" />
+    <Color Name="Wisteria" Code="#c9a0dc" />
+    <Color Name="Light fuchsia pink" Code="#f984ef" />
+    <Color Name="Neon Carrot" Code="#ffa343" />
+    <Color Name="Medium aquamarine" Code="#66ddaa" />
+    <Color Name="Salmon pink" Code="#ff91a4" />
+    <Color Name="Mauvelous" Code="#ef98aa" />
+    <Color Name="Carolina blue" Code="#99badd" />
+    <Color Name="Sandy brown" Code="#f4a460" />
+    <Color Name="Bright green" Code="#66ff00" />
+    <Color Name="Silver pink" Code="#c4aead" />
+    <Color Name="Eton blue" Code="#96c8a2" />
+    <Color Name="Fawn" Code="#e5aa70" />
+    <Color Name="Baker-Miller pink, Schauss pink" Code="#ff91af" />
+    <Color Name="UCLA Gold" Code="#ffb300" />
+    <Color Name="Tumbleweed" Code="#deaa88" />
+    <Color Name="Cambridge Blue" Code="#a3c1ad" />
+    <Color Name="Pastel pink" Code="#dea5a4" />
+    <Color Name="Bright ube" Code="#d19fe8" />
+    <Color Name="Meat brown" Code="#e5b73b" />
+    <Color Name="Light salmon pink" Code="#ff9999" />
+    <Color Name="Light salmon" Code="#ffa07a" />
+    <Color Name="Tan" Code="#d2b48c" />
+    <Color Name="Kobi" Code="#e79fc4" />
+    <Color Name="Lawn green" Code="#7cfc00" />
+    <Color Name="Medium lavender magenta, Pale plum, Plum" Code="#dda0dd" />
+    <Color Name="Ash grey" Code="#b2beb5" />
+    <Color Name="Selective yellow" Code="#ffba00" />
+    <Color Name="Pastel magenta" Code="#f49ac2" />
+    <Color Name="Vivid tangerine" Code="#ffa089" />
+    <Color Name="Yellow Orange" Code="#ffae42" />
+    <Color Name="Rajah" Code="#fbab60" />
+    <Color Name="Pale cerulean" Code="#9bc4e2" />
+    <Color Name="Pale chestnut" Code="#ddadaf" />
+    <Color Name="Chartreuse" Code="#7fff00" />
+    <Color Name="Sky blue" Code="#87ceeb" />
+    <Color Name="Amber, Fluorescent orange" Code="#ffbf00" />
+    <Color Name="Golden poppy" Code="#fcc200" />
+    <Color Name="Pearl Aqua" Code="#88d8c0" />
+    <Color Name="Pastel orange" Code="#ffb347" />
+    <Color Name="Burlywood" Code="#deb887" />
+    <Color Name="Light sky blue" Code="#87cefa" />
+    <Color Name="Baby blue" Code="#89cff0" />
+    <Color Name="Gray (X11 gray)" Code="#bebebe" />
+    <Color Name="Light cornflower blue" Code="#93ccea" />
+    <Color Name="Yellow (Munsell)" Code="#efcc00" />
+    <Color Name="Citrine" Code="#e4d00a" />
+    <Color Name="Pastel blue" Code="#aec6cf" />
+    <Color Name="Light orchid" Code="#e6a8d7" />
+    <Color Name="Silver" Code="#c0c0c0" />
+    <Color Name="Silver sand" Code="#bfc1c2" />
+    <Color Name="Mikado yellow" Code="#ffc40c" />
+    <Color Name="Light steel blue" Code="#b0c4de" />
+    <Color Name="Medium sky blue" Code="#80daeb" />
+    <Color Name="Deep lemon" Code="#f5c71a" />
+    <Color Name="Dark vanilla" Code="#d1bea8" />
+    <Color Name="Bitter lemon" Code="#cae00d" />
+    <Color Name="Saffron" Code="#f4c430" />
+    <Color Name="Pink pearl" Code="#e7accf" />
+    <Color Name="Turquoise green" Code="#a0d6b4" />
+    <Color Name="Jonquil" Code="#f4ca16" />
+    <Color Name="Pale silver" Code="#c9c0bb" />
+    <Color Name="Baby blue eyes" Code="#a1caf1" />
+    <Color Name="June bud" Code="#bdda57" />
+    <Color Name="Lavender rose" Code="#fba0e3" />
+    <Color Name="Mellow apricot" Code="#f8b878" />
+    <Color Name="Tangerine yellow, USC Gold, Yandex" Code="#ffcc00" />
+    <Color Name="Pale gold" Code="#e6be8a" />
+    <Color Name="Carnation pink" Code="#ffa6c9" />
+    <Color Name="Lavender gray" Code="#c4c3d0" />
+    <Color Name="Nadeshiko pink" Code="#f6adc6" />
+    <Color Name="Spring bud" Code="#a7fc00" />
+    <Color Name="Pale cornflower blue" Code="#abcdef" />
+    <Color Name="Screamin' Green" Code="#76ff7a" />
+    <Color Name="Pale robin egg blue" Code="#96ded1" />
+    <Color Name="Rich brilliant lavender" Code="#f1a7fe" />
+    <Color Name="Light green" Code="#90ee90" />
+    <Color Name="Mauve" Code="#e0b0ff" />
+    <Color Name="Yellow (NCS)" Code="#ffd300" />
+    <Color Name="Pear" Code="#d1e231" />
+    <Color Name="Lavender pink" Code="#fbaed2" />
+    <Color Name="Teal deer" Code="#99e6b3" />
+    <Color Name="Thistle" Code="#d8bfd8" />
+    <Color Name="Peridot" Code="#e6e200" />
+    <Color Name="Sunglow" Code="#ffcc33" />
+    <Color Name="French lime" Code="#9efd38" />
+    <Color Name="Granny Smith Apple" Code="#a8e4a0" />
+    <Color Name="Moss green" Code="#addfad" />
+    <Color Name="Inchworm" Code="#b2ec5d" />
+    <Color Name="Gold (Golden)" Code="#ffd700" />
+    <Color Name="Sandstorm" Code="#ecd540" />
+    <Color Name="School bus yellow" Code="#ffd800" />
+    <Color Name="Celadon" Code="#ace1af" />
+    <Color Name="Cameo pink" Code="#efbbcc" />
+    <Color Name="Medium spring bud" Code="#c9dc87" />
+    <Color Name="Light blue" Code="#add8e6" />
+    <Color Name="Light pink" Code="#ffb6c1" />
+    <Color Name="Columbia blue" Code="#9bddff" />
+    <Color Name="Pastel gray" Code="#cfcfc4" />
+    <Color Name="Non-photo blue" Code="#a4dded" />
+    <Color Name="Cherry blossom pink" Code="#ffb7c5" />
+    <Color Name="Titanium yellow" Code="#eee600" />
+    <Color Name="Soap" Code="#cec8ef" />
+    <Color Name="Melon" Code="#fdbcb4" />
+    <Color Name="Green-yellow" Code="#adff2f" />
+    <Color Name="Bitter lime, Lime" Code="#bfff00" />
+    <Color Name="Beau blue, Pale aqua" Code="#bcd4e6" />
+    <Color Name="Golden yellow" Code="#ffdf00" />
+    <Color Name="Arylide yellow, Hansa yellow" Code="#e9d66b" />
+    <Color Name="Languid lavender" Code="#d6cadd" />
+    <Color Name="Topaz" Code="#ffc87c" />
+    <Color Name="Straw" Code="#e4d96f" />
+    <Color Name="Desert sand" Code="#edc9af" />
+    <Color Name="Baby pink, Tea rose (rose)" Code="#f4c2c2" />
+    <Color Name="Dandelion" Code="#f0e130" />
+    <Color Name="Lavender blue, Periwinkle" Code="#ccccff" />
+    <Color Name="Pale green" Code="#98fb98" />
+    <Color Name="Powder blue" Code="#b0e0e6" />
+    <Color Name="Electric lime, Fluorescent yellow" Code="#ccff00" />
+    <Color Name="Light gray" Code="#d3d3d3" />
+    <Color Name="Dust storm" Code="#e5ccc9" />
+    <Color Name="Cotton candy" Code="#ffbcd9" />
+    <Color Name="Brilliant lavender, Electric lavender" Code="#f4bbff" />
+    <Color Name="Aquamarine" Code="#7fffd4" />
+    <Color Name="Pink" Code="#ffc0cb" />
+    <Color Name="Mint green" Code="#98ff98" />
+    <Color Name="Electric blue" Code="#7df9ff" />
+    <Color Name="Bubble gum" Code="#ffc1cc" />
+    <Color Name="Blizzard Blue" Code="#ace5ee" />
+    <Color Name="Naples yellow, Royal yellow, Stil de grain yellow" Code="#fada5e" />
+    <Color Name="Peach-orange" Code="#ffcc99" />
+    <Color Name="Queen pink" Code="#e8ccd7" />
+    <Color Name="Deep peach, Peach (Crayola)" Code="#ffcba4" />
+    <Color Name="Fresh Air" Code="#a6e7ff" />
+    <Color Name="Banana yellow" Code="#ffe135" />
+    <Color Name="Mustard" Code="#ffdb58" />
+    <Color Name="Flax" Code="#eedc82" />
+    <Color Name="Aureolin" Code="#fdee00" />
+    <Color Name="Magic mint" Code="#aaf0d1" />
+    <Color Name="Timberwolf" Code="#dbd7d2" />
+    <Color Name="Buff" Code="#f0dc82" />
+    <Color Name="Apricot" Code="#fbceb1" />
+    <Color Name="Chartreuse (traditional)" Code="#dfff00" />
+    <Color Name="Canary yellow, Yellow (process)" Code="#ffef00" />
+    <Color Name="Pale lavender" Code="#dcd0ff" />
+    <Color Name="Yellow rose" Code="#fff000" />
+    <Color Name="Lemon lime" Code="#e3ff00" />
+    <Color Name="Bone" Code="#e3dac9" />
+    <Color Name="Jasmine, Mellow yellow" Code="#f8de7e" />
+    <Color Name="Pale blue, Pale turquoise" Code="#afeeee" />
+    <Color Name="Deep champagne, Sunset, Tuscan" Code="#fad6a5" />
+    <Color Name="Gainsboro" Code="#dcdcdc" />
+    <Color Name="Cadmium yellow" Code="#fff600" />
+    <Color Name="Waterspout" Code="#a4f4f9" />
+    <Color Name="Feldspar, Light apricot" Code="#fdd5b1" />
+    <Color Name="Classic rose" Code="#fbcce7" />
+    <Color Name="Lemon" Code="#fff700" />
+    <Color Name="Khaki (X11) (Light khaki), Light khaki" Code="#f0e68c" />
+    <Color Name="Wheat" Code="#f5deb3" />
+    <Color Name="Corn, Maize" Code="#fbec5d" />
+    <Color Name="Pearl" Code="#eae0c8" />
+    <Color Name="Tea green" Code="#d0f0c0" />
+    <Color Name="Almond" Code="#efdecd" />
+    <Color Name="Shampoo" Code="#ffcff1" />
+    <Color Name="Peach puff" Code="#ffdab9" />
+    <Color Name="Peach-yellow" Code="#fadfad" />
+    <Color Name="Vanilla ice" Code="#f3d9df" />
+    <Color Name="Yellow" Code="#ffff00" />
+    <Color Name="Navajo white" Code="#ffdead" />
+    <Color Name="Medium champagne, Vanilla" Code="#f3e5ab" />
+    <Color Name="Pale goldenrod" Code="#eee8aa" />
+    <Color Name="Flavescent" Code="#f7e98e" />
+    <Color Name="Pale pink" Code="#fadadd" />
+    <Color Name="Platinum" Code="#e5e4e2" />
+    <Color Name="Lemon yellow" Code="#fff44f" />
+    <Color Name="Unbleached silk" Code="#ffddca" />
+    <Color Name="Midori" Code="#e3f988" />
+    <Color Name="Pale spring bud" Code="#ecebbd" />
+    <Color Name="Yellow (RYB)" Code="#fefe33" />
+    <Color Name="Banana Mania" Code="#fae7b5" />
+    <Color Name="Icterine" Code="#fcf75e" />
+    <Color Name="Peach" Code="#ffe5b4" />
+    <Color Name="Daffodil" Code="#ffff31" />
+    <Color Name="Piggy pink" Code="#fddde6" />
+    <Color Name="Electric yellow" Code="#ffff33" />
+    <Color Name="Celeste, Italian sky blue" Code="#b2ffff" />
+    <Color Name="Lavender, Lavender mist" Code="#e6e6fa" />
+    <Color Name="Bisque" Code="#ffe4c4" />
+    <Color Name="Lemon meringue" Code="#f6eabe" />
+    <Color Name="Champagne" Code="#f7e7ce" />
+    <Color Name="Lumber" Code="#ffe4cd" />
+    <Color Name="Glitter" Code="#e6e8fa" />
+    <Color Name="Eggshell" Code="#f0ead6" />
+    <Color Name="Pink lace" Code="#ffddf4" />
+    <Color Name="Misty rose" Code="#ffe4e1" />
+    <Color Name="Aero blue" Code="#c9ffe5" />
+    <Color Name="Antique white, Moccasin" Code="#faebd7" />
+    <Color Name="Blond" Code="#faf0be" />
+    <Color Name="Laser Lemon, Unmellow Yellow" Code="#ffff66" />
+    <Color Name="Blanched Almond" Code="#ffebcd" />
+    <Color Name="Isabelline" Code="#f4f0ec" />
+    <Color Name="Papaya whip" Code="#ffefd5" />
+    <Color Name="Pastel yellow" Code="#fdfd96" />
+    <Color Name="Linen" Code="#faf0e6" />
+    <Color Name="Beige" Code="#f5f5dc" />
+    <Color Name="Anti-flash white" Code="#f2f3f4" />
+    <Color Name="Nyanza" Code="#e9ffdb" />
+    <Color Name="White smoke" Code="#f5f5f5" />
+    <Color Name="Lavender blush" Code="#fff0f5" />
+    <Color Name="Light goldenrod yellow" Code="#fafad2" />
+    <Color Name="Old lace" Code="#fdf5e6" />
+    <Color Name="Light cyan" Code="#e0ffff" />
+    <Color Name="Lemon chiffon" Code="#fffacd" />
+    <Color Name="Alice blue" Code="#f0f8ff" />
+    <Color Name="Magnolia" Code="#f8f4ff" />
+    <Color Name="Cornsilk" Code="#fff8dc" />
+    <Color Name="Seashell" Code="#fff5ee" />
+    <Color Name="Bubbles" Code="#e7feff" />
+    <Color Name="Cosmic latte" Code="#fff8e7" />
+    <Color Name="Cream" Code="#fffdd0" />
+    <Color Name="Ghost white" Code="#f8f8ff" />
+    <Color Name="Honeydew" Code="#f0fff0" />
+    <Color Name="Floral white" Code="#fffaf0" />
+    <Color Name="Azure mist/web" Code="#f0ffff" />
+    <Color Name="Mint cream" Code="#f5fffa" />
+    <Color Name="Light yellow" Code="#ffffe0" />
+    <Color Name="Snow" Code="#fffafa" />
+    <Color Name="Ivory" Code="#fffff0" />
+    <Color Name="Baby powder" Code="#fefefa" />
+    <Color Name="White" Code="#ffffff" />
+</Group>
+<Group Name="ISO14726 Color marking on pipe" Code="ISO14726" >
+    <Color Name="Black" Code="#1e1e1e" />
+    <Color Name="Blue" Code="#007cb0" />
+    <Color Name="Brown" Code="#9d622d" />
+    <Color Name="Green" Code="#61993d" />
+    <Color Name="Grey" Code="#8c969d" />
+    <Color Name="Maroon" Code="#5e2f26" />
+    <Color Name="Orange" Code="#f67828" />
+    <Color Name="Silver" Code="#a1a1a0" />
+    <Color Name="Red" Code="#a72920" />
+    <Color Name="Violet" Code="#816183" />
+    <Color Name="White" Code="#f1ece1" />
+    <Color Name="Yellow Ochre" Code="#f6b600" />
+</Group>
+<Group Name="BS 1710 British pipe marking standard" Code="BS1710" >
+    <Color Name="Green" Code="#6a6c3b" />
+    <Color Name="Light Green" Code="#c6c93e" />
+    <Color Name="Silver Grey" Code="#c7c7bf" />
+    <Color Name="Brown" Code="#73503c" />
+    <Color Name="Yellow Ochre" Code="#cfa672" />
+    <Color Name="Pink" Code="#e1c1c4" />
+    <Color Name="Purple" Code="#5d5387" />
+    <Color Name="Violet" Code="#7f7b9c" />
+    <Color Name="Light Blue" Code="#6fa5d4" />
+    <Color Name="Blue" Code="#007a9f" />
+    <Color Name="Black" Code="#1e1e1e" />
+    <Color Name="Orange" Code="#ef8e59" />
+    <Color Name="Emerald Green" Code="#2c9368" />
+    <Color Name="Salmon Pink" Code="#e5bdb5" />
+    <Color Name="Dark Mauve" Code="#764a59" />
+    <Color Name="Crimson" Code="#853e3c" />
+    <Color Name="Safety Red" Code="#bd443c" />
+    <Color Name="Yellow" Code="#e9c201" />
+    <Color Name="White" Code="#f9fae8" />
+</Group>
+<Group Name="W3C US Federal Standard 595 Paint Spec" Code="FS595" >
+    <Color Name="w3-highway-brown" Code="#633517" />
+    <Color Name="w3-highway-red" Code="#a6001a" />
+    <Color Name="w3-highway-orange" Code="#e06000" />
+    <Color Name="w3-highway-schoolbus" Code="#ee9600" />
+    <Color Name="w3-highway-yellow" Code="#ffab00" />
+    <Color Name="w3-highway-green" Code="#004d33" />
+    <Color Name="w3-highway-blue" Code="#00477e" />
+    <Color Name="w3-safety-red" Code="#bd1e24" />
+    <Color Name="w3-safety-orange" Code="#e97600" />
+    <Color Name="w3-safety-yellow" Code="#f6c700" />
+    <Color Name="w3-safety-green" Code="#007256" />
+    <Color Name="w3-safety-blue" Code="#0067a7" />
+    <Color Name="w3-safety-purple" Code="#964f8e" />
+    <Color Name="FS 10032" Code="#2a1610" />
+    <Color Name="FS 10045" Code="#523f3e" />
+    <Color Name="FS 10049 Maroon 81352, ANA 510" Code="#421814" />
+    <Color Name="FS 10055 DoT Highway Brown" Code="#633517" />
+    <Color Name="FS 10075" Code="#592e29" />
+    <Color Name="FS 10076 Coast Guard Deck Red, Metallic Red-Brown" Code="#712617" />
+    <Color Name="FS 10080 Seal Brown, NASA Safety Brown" Code="#553a28" />
+    <Color Name="FS 10091 Dark Oak" Code="#773517" />
+    <Color Name="FS 10115" Code="#9e5d38" />
+    <Color Name="FS 10219" Code="#926f5d" />
+    <Color Name="FS 10233 Cocoa Brown, National Parks Service 1" Code="#a46d63" />
+    <Color Name="FS 10260" Code="#cba46a" />
+    <Color Name="FS 10266 Middlestone" Code="#aa824e" />
+    <Color Name="FS 10324" Code="#af8d81" />
+    <Color Name="FS 10371 Buff, TT-E-489" Code="#c78d59" />
+    <Color Name="FS 11086 DoT Highway Red" Code="#a6001a" />
+    <Color Name="FS 11105 OSHA Safety Red, DoT Red" Code="#a60117" />
+    <Color Name="FS 11120 OSHA Safety Red" Code="#bd1e24" />
+    <Color Name="FS 11136 Insignia Red, Carmine Red" Code="#9b0a18" />
+    <Color Name="FS 11140 OSHA Safety Red" Code="#a7071c" />
+    <Color Name="FS 11302" Code="#c8372e" />
+    <Color Name="FS 11310 Post Office Red" Code="#b44441" />
+    <Color Name="FS 11328" Code="#b83347" />
+    <Color Name="FS 11350 Coast Guard Buoy Red" Code="#a93d43" />
+    <Color Name="FS 11400" Code="#d33723" />
+    <Color Name="FS 11630" Code="#e5b6b9" />
+    <Color Name="FS 11670 Peach" Code="#f7cab9" />
+    <Color Name="FS 12160 Orange-Brown" Code="#ac543b" />
+    <Color Name="FS 12197 International Orange, ANA 508" Code="#ce3500" />
+    <Color Name="FS 12199 Coast Guard Red #40" Code="#e62200" />
+    <Color Name="FS 12215" Code="#d34b0c" />
+    <Color Name="FS 12243 DoT Highway Orange" Code="#e06000" />
+    <Color Name="FS 12246 OSHA Safety Orange" Code="#dc4a00" />
+    <Color Name="FS 12250 Coast Guard Orange" Code="#db4e3b" />
+    <Color Name="FS 12300 OSHA Safety Orange" Code="#e97600" />
+    <Color Name="FS 12473" Code="#eb6602" />
+    <Color Name="FS 12648" Code="#ecbf9e" />
+    <Color Name="FS 13275 Post Office Yellow" Code="#b4823a" />
+    <Color Name="FS 13415 School Bus Yellow" Code="#ee9600" />
+    <Color Name="FS 13432" Code="#f49600" />
+    <Color Name="FS 13507 DoT Highway Yellow" Code="#ffab00" />
+    <Color Name="FS 13522" Code="#ceb6a0" />
+    <Color Name="FS 13523" Code="#dbb883" />
+    <Color Name="FS 13531 Beige" Code="#d3b6a4" />
+    <Color Name="FS 13538 DoT Highway Yellow, ANA 506" Code="#f8a300" />
+    <Color Name="FS 13578 Warm Gray" Code="#dcc2a4" />
+    <Color Name="FS 13591 OSHA Safety Yellow" Code="#f6c700" />
+    <Color Name="FS 13594 Aircraft Cream, ANA 507" Code="#f0c282" />
+    <Color Name="FS 13596" Code="#e5bc7f" />
+    <Color Name="FS 13613 Buff" Code="#f0c8a6" />
+    <Color Name="FS 13618 Postal Service Cream" Code="#f5c964" />
+    <Color Name="FS 13637" Code="#e0a816" />
+    <Color Name="FS 13655 OSHA Safety Yellow, ANA 505" Code="#ffbb00" />
+    <Color Name="FS 13670 Yellow-Green" Code="#ded560" />
+    <Color Name="FS 13690 Park Service Cream" Code="#ead1b5" />
+    <Color Name="FS 13695 Ivory, Forest Service" Code="#f6cb82" />
+    <Color Name="FS 13711" Code="#eecdae" />
+    <Color Name="FS 14036" Code="#172e29" />
+    <Color Name="FS 14050 Army Green, NATO Green" Code="#343730" />
+    <Color Name="FS 14052 Marine Green #23" Code="#35352b" />
+    <Color Name="FS 14056" Code="#29332f" />
+    <Color Name="FS 14062 Deep Green" Code="#0f482e" />
+    <Color Name="FS 14064" Code="#3f3b2f" />
+    <Color Name="FS 14066 DoT Highway Green" Code="#004d33" />
+    <Color Name="FS 14077" Code="#383e37" />
+    <Color Name="FS 14079" Code="#434333" />
+    <Color Name="FS 14081 Sikorsky Green" Code="#525347" />
+    <Color Name="FS 14084" Code="#2d271a" />
+    <Color Name="FS 14087" Code="#2e271a" />
+    <Color Name="FS 14090" Code="#006539" />
+    <Color Name="FS 14097" Code="#53593e" />
+    <Color Name="FS 14109 DoT Highway Green" Code="#005139" />
+    <Color Name="FS 14110 NASA Safety Medium Green" Code="#18622d" />
+    <Color Name="FS 14115" Code="#006d4e" />
+    <Color Name="FS 14120 OSHA Safety Green" Code="#007256" />
+    <Color Name="FS 14158" Code="#5f6c6d" />
+    <Color Name="FS 14159" Code="#686d64" />
+    <Color Name="FS 14187 Oxygen Tank Green, ANA 503" Code="#457725" />
+    <Color Name="FS 14193 Coast Guard Green" Code="#2f9254" />
+    <Color Name="FS 14223" Code="#528060" />
+    <Color Name="FS 14241" Code="#7d9792" />
+    <Color Name="FS 14255" Code="#8f8156" />
+    <Color Name="FS 14257" Code="#8b845c" />
+    <Color Name="FS 14260 OSHA Safety Green" Code="#569376" />
+    <Color Name="FS 14272" Code="#6f947a" />
+    <Color Name="FS 14277" Code="#819290" />
+    <Color Name="FS 14325" Code="#79a196" />
+    <Color Name="FS 14449" Code="#a2b398" />
+    <Color Name="FS 14491" Code="#a7b8aa" />
+    <Color Name="FS 14516" Code="#b1beb5" />
+    <Color Name="FS 14533" Code="#abb593" />
+    <Color Name="FS 14672 Army Admin Vehicles" Code="#d1d2bf" />
+    <Color Name="FS 15042 Sea Blue, Teal Blue, ANA 623" Code="#002d30" />
+    <Color Name="FS 15044 Dark Blue, Insignia Blue, ANA 502" Code="#172035" />
+    <Color Name="FS 15045 Strata Blue, Air Force Blue, ANA 516" Code="#122b3e" />
+    <Color Name="FS 15048 Post Office Dark Blue" Code="#3c485c" />
+    <Color Name="FS 15050 Post Office Box" Code="#123057" />
+    <Color Name="FS 15052 Post Office Medium Blue" Code="#3a5174" />
+    <Color Name="FS 15055" Code="#3e476a" />
+    <Color Name="FS 15056" Code="#16216a" />
+    <Color Name="FS 15065 DoT Highway Blue" Code="#00477e" />
+    <Color Name="FS 15080 Handicap Blue" Code="#0f4267" />
+    <Color Name="FS 15090 DoT Highway Blue" Code="#004472" />
+    <Color Name="FS 15092 OSHA Safety Blue" Code="#0067a7" />
+    <Color Name="FS 15095 Post Office Light Blue" Code="#3b6ba5" />
+    <Color Name="FS 15102 OSHA Safety Blue, ANA 501" Code="#09568d" />
+    <Color Name="FS 15107" Code="#557792" />
+    <Color Name="FS 15123 Bright Blue" Code="#2c5da3" />
+    <Color Name="FS 15125" Code="#006088" />
+    <Color Name="FS 15177 Clear Blue" Code="#547495" />
+    <Color Name="FS 15180 Blue, 85285" Code="#0065b1" />
+    <Color Name="FS 15182 Coast Guard Blue" Code="#0073ad" />
+    <Color Name="FS 15187" Code="#0090c7" />
+    <Color Name="FS 15193 Light Blue" Code="#4a808f" />
+    <Color Name="FS 15200" Code="#47add5" />
+    <Color Name="FS 15450" Code="#8eb1d6" />
+    <Color Name="FS 15526" Code="#adbbcc" />
+    <Color Name="FS 16076 Coast Guard Deck Gray" Code="#5b606a" />
+    <Color Name="FS 16081 Dark Gray, ANA 513" Code="#47484a" />
+    <Color Name="FS 16099 Coast Guard Blue Gray" Code="#494f58" />
+    <Color Name="FS 16160" Code="#806947" />
+    <Color Name="FS 16165" Code="#706a5d" />
+    <Color Name="FS 16187 Mechanic Gray Navy Standard" Code="#647489" />
+    <Color Name="FS 16251" Code="#848288" />
+    <Color Name="FS 16307 Machinery Gray" Code="#95928f" />
+    <Color Name="FS 16314" Code="#929396" />
+    <Color Name="FS 16350" Code="#908472" />
+    <Color Name="FS 16357" Code="#a79e92" />
+    <Color Name="FS 16360" Code="#afa396" />
+    <Color Name="FS 16376" Code="#a19d99" />
+    <Color Name="FS 16405 Parchment" Code="#c3b4a4" />
+    <Color Name="FS 16440 Light Gray 85285, 81352" Code="#b5afaf" />
+    <Color Name="FS 16473 Aircraft Gray, NASA, ANA 512" Code="#a2a7ad" />
+    <Color Name="FS 16480 Canada 501-109" Code="#adbab5" />
+    <Color Name="FS 16492 Dawn Gray" Code="#bfb9bb" />
+    <Color Name="FS 16515 Boeing Gray 707" Code="#c2bfc6" />
+    <Color Name="FS 16555" Code="#cebca6" />
+    <Color Name="FS 17038 OSHA Black, ANA 515, 622" Code="#0b0b0d" />
+    <Color Name="FS 17043" Code="#8e763e" />
+    <Color Name="FS 17100" Code="#683c72" />
+    <Color Name="FS 17142 OSHA Safety Purple" Code="#994680" />
+    <Color Name="FS 17155 OSHA Safety Purple" Code="#964f8e" />
+    <Color Name="FS 17178 Silver/ International Aluminum" Code="#92909a" />
+    <Color Name="FS 17773 Blue White" Code="#e3e3e4" />
+    <Color Name="FS 17778" Code="#f0e1d3" />
+    <Color Name="FS 17855" Code="#f4dfc5" />
+    <Color Name="FS 17860 Coast Guard White" Code="#ece6ea" />
+    <Color Name="FS 17865 Hawker Beechcraft White" Code="#e2e5e3" />
+    <Color Name="FS 17875 Insignia White, ANA 511" Code="#f0e9ee" />
+    <Color Name="FS 17877 Coast Guard White" Code="#e5efe9" />
+    <Color Name="FS 17886 Bone White" Code="#f6eae6" />
+    <Color Name="FS 17925 Untinted White" Code="#faeff5" />
+    <Color Name="FS 20040" Code="#42332a" />
+    <Color Name="FS 20045" Code="#544040" />
+    <Color Name="FS 20059 Forest Service Sign Standard" Code="#503832" />
+    <Color Name="FS 20061" Code="#603335" />
+    <Color Name="FS 20062" Code="#493937" />
+    <Color Name="FS 20065 Brown 356" Code="#594f47" />
+    <Color Name="FS 20068 Madeira 1957" Code="#5d5343" />
+    <Color Name="FS 20090 Highland 480" Code="#685240" />
+    <Color Name="FS 20095" Code="#705b4b" />
+    <Color Name="FS 20100" Code="#85482b" />
+    <Color Name="FS 20109 F.S. Seminal Brown" Code="#833e33" />
+    <Color Name="FS 20117" Code="#7c503a" />
+    <Color Name="FS 20122" Code="#6b462f" />
+    <Color Name="FS 20140" Code="#7c5e50" />
+    <Color Name="FS 20150 Coyote 476/498" Code="#776550" />
+    <Color Name="FS 20152" Code="#8c372e" />
+    <Color Name="FS 20155 Light Brown 493" Code="#7d5947" />
+    <Color Name="FS 20170 Olive Mohave" Code="#7e6c5b" />
+    <Color Name="FS 20180 Tan 499" Code="#7f7260" />
+    <Color Name="FS 20206" Code="#967070" />
+    <Color Name="FS 20219" Code="#92705c" />
+    <Color Name="FS 20220 Light Coyote 481" Code="#8e7c6c" />
+    <Color Name="FS 20227" Code="#9b7d6f" />
+    <Color Name="FS 20233" Code="#a56f68" />
+    <Color Name="FS 20252 Rose" Code="#b47160" />
+    <Color Name="FS 20260" Code="#cda367" />
+    <Color Name="FS 20266" Code="#a8844c" />
+    <Color Name="FS 20270 Urban Tan 478" Code="#9d8c85" />
+    <Color Name="FS 20313" Code="#ad8d84" />
+    <Color Name="FS 20318" Code="#a8937e" />
+    <Color Name="FS 20372 Tan" Code="#b19b8b" />
+    <Color Name="FS 20400" Code="#cd9a71" />
+    <Color Name="FS 20450" Code="#c7a595" />
+    <Color Name="FS 20460 Mushroom" Code="#c0b6a2" />
+    <Color Name="FS 20475 Saudi Color #11, (SANG)" Code="#cdb090" />
+    <Color Name="FS 21105" Code="#b20013" />
+    <Color Name="FS 21136" Code="#9a141d" />
+    <Color Name="FS 21158" Code="#bc465a" />
+    <Color Name="FS 21302" Code="#c53633" />
+    <Color Name="FS 21400" Code="#d3341f" />
+    <Color Name="FS 21433" Code="#cd9284" />
+    <Color Name="FS 21575" Code="#e6b4a7" />
+    <Color Name="FS 21643" Code="#eeccba" />
+    <Color Name="FS 21667" Code="#efcbb1" />
+    <Color Name="FS 21668" Code="#efc9ca" />
+    <Color Name="FS 21670" Code="#f3c8b8" />
+    <Color Name="FS 22144" Code="#a7452e" />
+    <Color Name="FS 22190" Code="#d82907" />
+    <Color Name="FS 22203" Code="#bd5232" />
+    <Color Name="FS 22246" Code="#de511c" />
+    <Color Name="FS 22276" Code="#c96c55" />
+    <Color Name="FS 22356" Code="#db7868" />
+    <Color Name="FS 22510" Code="#ff6600" />
+    <Color Name="FS 22516 Light Orange Brown" Code="#df9471" />
+    <Color Name="FS 22519 Rosewood" Code="#dcaf9a" />
+    <Color Name="FS 22544" Code="#f89243" />
+    <Color Name="FS 22563 Beachwood" Code="#ddb79e" />
+    <Color Name="FS 22630 Buff" Code="#eabfa7" />
+    <Color Name="FS 22648 Buff" Code="#f1c3a8" />
+    <Color Name="FS 23275" Code="#ba843d" />
+    <Color Name="FS 23420 Khaki 475" Code="#7d776a" />
+    <Color Name="FS 23430 Khaki P1" Code="#9a8e79" />
+    <Color Name="FS 23435 Light Khaki 494" Code="#9c917d" />
+    <Color Name="FS 23448" Code="#bb9e7a" />
+    <Color Name="FS 23522" Code="#ceb5a0" />
+    <Color Name="FS 23525 Desert Sand 500/503" Code="#bfb4ac" />
+    <Color Name="FS 23530 Light Tan 479" Code="#b4a6a0" />
+    <Color Name="FS 23531 Light Mushroom Navy" Code="#d3b8a5" />
+    <Color Name="FS 23538" Code="#fda800" />
+    <Color Name="FS 23564" Code="#dec5a0" />
+    <Color Name="FS 23578" Code="#dac3a7" />
+    <Color Name="FS 23594" Code="#f1c386" />
+    <Color Name="FS 23613 Buff" Code="#edc6a3" />
+    <Color Name="FS 23617" Code="#ddc3b0" />
+    <Color Name="FS 23619" Code="#e7c6a3" />
+    <Color Name="FS 23640 Yellow 13655" Code="#f7b800" />
+    <Color Name="FS 23655" Code="#ffc000" />
+    <Color Name="FS 23685" Code="#eadba7" />
+    <Color Name="FS 23690" Code="#e8cfb4" />
+    <Color Name="FS 23695 Forest Service Sign Standard" Code="#f7cb85" />
+    <Color Name="FS 23697 Sunglow" Code="#f4ce88" />
+    <Color Name="FS 23711" Code="#f2d2b1" />
+    <Color Name="FS 23717" Code="#eed4b8" />
+    <Color Name="FS 23722" Code="#ecd2ac" />
+    <Color Name="FS 23727" Code="#f1d8ab" />
+    <Color Name="FS 23785" Code="#f3cd46" />
+    <Color Name="FS 23793" Code="#f8e28f" />
+    <Color Name="FS 23814" Code="#e5dfa0" />
+    <Color Name="FS 24052 Marine Green #23" Code="#3b3b33" />
+    <Color Name="FS 24064" Code="#423e33" />
+    <Color Name="FS 24070 Army Green 491" Code="#3c4541" />
+    <Color Name="FS 24079" Code="#4a493d" />
+    <Color Name="FS 24084" Code="#383125" />
+    <Color Name="FS 24087" Code="#373024" />
+    <Color Name="FS 24091" Code="#574f4f" />
+    <Color Name="FS 24097" Code="#545a42" />
+    <Color Name="FS 24098" Code="#5c5734" />
+    <Color Name="FS 24108" Code="#345b47" />
+    <Color Name="FS 24111 Dark Green 355" Code="#4c594a" />
+    <Color Name="FS 24112 Green 474" Code="#536158" />
+    <Color Name="FS 24120 Marine OD Green" Code="#685a3a" />
+    <Color Name="FS 24148" Code="#546a6e" />
+    <Color Name="FS 24158" Code="#606b6e" />
+    <Color Name="FS 24159" Code="#6c7067" />
+    <Color Name="FS 24165 Foliage Green 502/504" Code="#686b69" />
+    <Color Name="FS 24172" Code="#61705e" />
+    <Color Name="FS 24201" Code="#847761" />
+    <Color Name="FS 24210 Light Green 354" Code="#7e755e" />
+    <Color Name="FS 24226" Code="#7a8377" />
+    <Color Name="FS 24227" Code="#748669" />
+    <Color Name="FS 24233" Code="#798a8d" />
+    <Color Name="FS 24241" Code="#7f9894" />
+    <Color Name="FS 24260" Code="#61947c" />
+    <Color Name="FS 24272 MIL-P-24441 Primer" Code="#6a9076" />
+    <Color Name="FS 24277" Code="#819190" />
+    <Color Name="FS 24300" Code="#82988f" />
+    <Color Name="FS 24325" Code="#77a095" />
+    <Color Name="FS 24373" Code="#99a590" />
+    <Color Name="FS 24410" Code="#a0ada4" />
+    <Color Name="FS 24417" Code="#a9aea0" />
+    <Color Name="FS 24424" Code="#acab99" />
+    <Color Name="FS 24432" Code="#abada2" />
+    <Color Name="FS 24441" Code="#aab29c" />
+    <Color Name="FS 24449" Code="#a0b195" />
+    <Color Name="FS 24466" Code="#9fb39f" />
+    <Color Name="FS 24491" Code="#a6b9ad" />
+    <Color Name="FS 24504" Code="#abb7a4" />
+    <Color Name="FS 24516 Clipper Blue" Code="#b1bcb2" />
+    <Color Name="FS 24518" Code="#abb7ac" />
+    <Color Name="FS 24525" Code="#b2bca8" />
+    <Color Name="FS 24533 Seafoam Green, Navy" Code="#acb693" />
+    <Color Name="FS 24552" Code="#cdc486" />
+    <Color Name="FS 24554" Code="#d3ceb9" />
+    <Color Name="FS 24558" Code="#bcc8b0" />
+    <Color Name="FS 24583" Code="#c6d4b6" />
+    <Color Name="FS 24585 Postal Green" Code="#c9dac7" />
+    <Color Name="FS 24664" Code="#c0d1bf" />
+    <Color Name="FS 24670" Code="#cfd5cc" />
+    <Color Name="FS 24672" Code="#d3d5c0" />
+    <Color Name="FS 25042 Blue Sea, ANA 606" Code="#262f39" />
+    <Color Name="FS 25045" Code="#1d3044" />
+    <Color Name="FS 25049" Code="#3c3b40" />
+    <Color Name="FS 25051 Army Blue 450" Code="#383e58" />
+    <Color Name="FS 25053 Royal Blue" Code="#253b5a" />
+    <Color Name="FS 25056" Code="#16226c" />
+    <Color Name="FS 25060 Army Blue 451" Code="#3a435d" />
+    <Color Name="FS 25102" Code="#205485" />
+    <Color Name="FS 25109" Code="#436480" />
+    <Color Name="FS 25177" Code="#576f94" />
+    <Color Name="FS 25183" Code="#1c70ae" />
+    <Color Name="FS 25184" Code="#447998" />
+    <Color Name="FS 25189" Code="#687d8d" />
+    <Color Name="FS 25190" Code="#5883a3" />
+    <Color Name="FS 25193" Code="#508190" />
+    <Color Name="FS 25230 Electrical Blue" Code="#5490c4" />
+    <Color Name="FS 25237" Code="#79838f" />
+    <Color Name="FS 25240" Code="#748cb9" />
+    <Color Name="FS 25299" Code="#6f9c9d" />
+    <Color Name="FS 25352" Code="#889ba0" />
+    <Color Name="FS 25414" Code="#8fa7ad" />
+    <Color Name="FS 25440 Admiral Blue" Code="#85afc7" />
+    <Color Name="FS 25488" Code="#99b4da" />
+    <Color Name="FS 25526 Pastel Blue" Code="#b1bcce" />
+    <Color Name="FS 25550" Code="#cdd6e9" />
+    <Color Name="FS 25622" Code="#d0d2d3" />
+    <Color Name="FS 25630 Carl Vinson Blue" Code="#dad3d8" />
+    <Color Name="FS 26008 Exterior Deck Gray" Code="#464850" />
+    <Color Name="FS 26044" Code="#2f353f" />
+    <Color Name="FS 26081 Sea Plane Gray, ANA 625" Code="#4b4c50" />
+    <Color Name="FS 26120" Code="#54433e" />
+    <Color Name="FS 26122" Code="#615b5f" />
+    <Color Name="FS 26132 Slate Gray" Code="#636269" />
+    <Color Name="FS 26134 Gray, Filing Cabinet" Code="#686566" />
+    <Color Name="FS 26152" Code="#666971" />
+    <Color Name="FS 26173 Ocean Gray, NAVSEA" Code="#757684" />
+    <Color Name="FS 26176 Ocean Gray" Code="#6b7283" />
+    <Color Name="FS 26187" Code="#70757d" />
+    <Color Name="FS 26231" Code="#7f8089" />
+    <Color Name="FS 26250" Code="#82858a" />
+    <Color Name="FS 26251" Code="#88868c" />
+    <Color Name="FS 26255 Dark Gray 509" Code="#80838d" />
+    <Color Name="FS 26260 Urban Gray 501/505" Code="#848584" />
+    <Color Name="FS 26270 Interior Haze Gray" Code="#878892" />
+    <Color Name="FS 26280" Code="#8d8c90" />
+    <Color Name="FS 26290 Gray 26270" Code="#8c8f98" />
+    <Color Name="FS 26293" Code="#908f97" />
+    <Color Name="FS 26295 Gray 510" Code="#9d9fae" />
+    <Color Name="FS 26306 Sand Gray" Code="#9c8d88" />
+    <Color Name="FS 26307 Bulkhead Machinery Gray #30" Code="#94918d" />
+    <Color Name="FS 26314" Code="#919397" />
+    <Color Name="FS 26329" Code="#8e9aa3" />
+    <Color Name="FS 26357" Code="#a49d96" />
+    <Color Name="FS 26360" Code="#aea396" />
+    <Color Name="FS 26373 Light Gray #37" Code="#a4a3ad" />
+    <Color Name="FS 26380 Medium Gray 508" Code="#9fa5b3" />
+    <Color Name="FS 26400 Yellow Gray" Code="#d0c0ad" />
+    <Color Name="FS 26405" Code="#bdafa1" />
+    <Color Name="FS 26408" Code="#beb7b1" />
+    <Color Name="FS 26420 DLA" Code="#b3afac" />
+    <Color Name="FS 26424" Code="#c1b2b0" />
+    <Color Name="FS 26440" Code="#b2acae" />
+    <Color Name="FS 26480 Canada 501-109" Code="#aebbb5" />
+    <Color Name="FS 26492" Code="#bfbabd" />
+    <Color Name="FS 26493 Pearl Gray" Code="#bcb8c0" />
+    <Color Name="FS 26496 Green Gray" Code="#b4b0ac" />
+    <Color Name="FS 26521" Code="#cab6af" />
+    <Color Name="FS 26555" Code="#d1bfa9" />
+    <Color Name="FS 26559 Parchment" Code="#c7beb7" />
+    <Color Name="FS 26586" Code="#d1c2b0" />
+    <Color Name="FS 26595" Code="#c6c0bb" />
+    <Color Name="FS 26622" Code="#cbc2c1" />
+    <Color Name="FS 26630 Light Gray 507" Code="#cbcfd9" />
+    <Color Name="FS 27038 ANA 514" Code="#1c1d22" />
+    <Color Name="FS 27040 Filing Cabinet Black" Code="#222227" />
+    <Color Name="FS 27041 Black" Code="#39383a" />
+    <Color Name="FS 27043 Gold" Code="#967d46" />
+    <Color Name="FS 27142" Code="#9a477d" />
+    <Color Name="FS 27144" Code="#515fc1" />
+    <Color Name="FS 27722" Code="#e5d9d5" />
+    <Color Name="FS 27769 Parchment" Code="#e6d3c4" />
+    <Color Name="FS 27778 Candlelight" Code="#efe1d5" />
+    <Color Name="FS 27780" Code="#f2e5df" />
+    <Color Name="FS 27855" Code="#e8ddba" />
+    <Color Name="FS 27875 ANA 626" Code="#f2ebf0" />
+    <Color Name="FS 27880" Code="#fbeeec" />
+    <Color Name="FS 27885 White 506" Code="#f3f2e7" />
+    <Color Name="FS 27886" Code="#f9ece7" />
+    <Color Name="FS 27925" Code="#f9f0f7" />
+    <Color Name="FS 28913" Code="#ff0900" />
+    <Color Name="FS 28915" Code="#ff4b00" />
+    <Color Name="FS 30040" Code="#524641" />
+    <Color Name="FS 30045" Code="#584645" />
+    <Color Name="FS 30051 Brown 383 Camo" Code="#594d45" />
+    <Color Name="FS 30097 Earth Brown Camo" Code="#5e4d43" />
+    <Color Name="FS 30099 Earth Brown" Code="#685347" />
+    <Color Name="FS 30108 Walnut Brown" Code="#60443b" />
+    <Color Name="FS 30109 Dull Red, ANA 618" Code="#874840" />
+    <Color Name="FS 30111 Maroon Olympic Russet, Park Service Brown" Code="#724a46" />
+    <Color Name="FS 30117 International Brown" Code="#7f5745" />
+    <Color Name="FS 30118 Field Drab Camo, ANA 617" Code="#705a43" />
+    <Color Name="FS 30140 International Brown" Code="#7e5d4d" />
+    <Color Name="FS 30145 Butternut Stain" Code="#81634e" />
+    <Color Name="FS 30160" Code="#7c424f" />
+    <Color Name="FS 30166" Code="#864b45" />
+    <Color Name="FS 30206" Code="#976f6f" />
+    <Color Name="FS 30215" Code="#96674a" />
+    <Color Name="FS 30219 Sierra Tan, ANA 628" Code="#987563" />
+    <Color Name="FS 30227" Code="#9b7d72" />
+    <Color Name="FS 30233" Code="#a46f67" />
+    <Color Name="FS 30252 Rust Red" Code="#b47360" />
+    <Color Name="FS 30257 Earth Yellow" Code="#bd8e60" />
+    <Color Name="FS 30266 Tan, ANA 615" Code="#a98652" />
+    <Color Name="FS 30277 Sand" Code="#9e8a75" />
+    <Color Name="FS 30279 Desert Sand, ANA 616" Code="#b19083" />
+    <Color Name="FS 30313 Desert Sand" Code="#b08e84" />
+    <Color Name="FS 30315 Desert Sand CAMO" Code="#ae8e83" />
+    <Color Name="FS 30318" Code="#ab957f" />
+    <Color Name="FS 30324 Desert Sand" Code="#b09185" />
+    <Color Name="FS 30372" Code="#af9a8a" />
+    <Color Name="FS 30450 Beige" Code="#caa898" />
+    <Color Name="FS 31090 Earth Red CAMO" Code="#79533d" />
+    <Color Name="FS 31136 International Red, CARC Aircraft Red, ANA 619" Code="#a0333a" />
+    <Color Name="FS 31158 International Light Red" Code="#bd4255" />
+    <Color Name="FS 31400" Code="#d04032" />
+    <Color Name="FS 31433" Code="#d28586" />
+    <Color Name="FS 31575" Code="#e4b2a3" />
+    <Color Name="FS 31638" Code="#f0acb7" />
+    <Color Name="FS 31643" Code="#ebc9b9" />
+    <Color Name="FS 31667 Tan" Code="#f0cbb2" />
+    <Color Name="FS 31668" Code="#ebc8c9" />
+    <Color Name="FS 31669" Code="#f5c9d1" />
+    <Color Name="FS 31670" Code="#f2c9bb" />
+    <Color Name="FS 32169" Code="#af5438" />
+    <Color Name="FS 32246 Navy Torpedo" Code="#e85e31" />
+    <Color Name="FS 32276" Code="#ce705a" />
+    <Color Name="FS 32356" Code="#db7868" />
+    <Color Name="FS 32473" Code="#e77543" />
+    <Color Name="FS 32516" Code="#dc946f" />
+    <Color Name="FS 32540 Navair Flat Orange #1" Code="#e28563" />
+    <Color Name="FS 32544" Code="#fb9756" />
+    <Color Name="FS 32555" Code="#fda85e" />
+    <Color Name="FS 32630" Code="#e8bda4" />
+    <Color Name="FS 32648" Code="#f1c4a5" />
+    <Color Name="FS 33070 Olive Drab CAMO" Code="#595142" />
+    <Color Name="FS 33105 Field Drab Camo" Code="#745d46" />
+    <Color Name="FS 33245 Earth Yellow Camo" Code="#ac7e54" />
+    <Color Name="FS 33303 Sand Camo" Code="#a9947b" />
+    <Color Name="FS 33434" Code="#d69c50" />
+    <Color Name="FS 33440 Green Gold Stain" Code="#9f825b" />
+    <Color Name="FS 33446 Tan 686A Camo" Code="#b49d80" />
+    <Color Name="FS 33448" Code="#bea07d" />
+    <Color Name="FS 33481" Code="#d1af4d" />
+    <Color Name="FS 33510 Dark Sandstone Camo" Code="#bcab90" />
+    <Color Name="FS 33522 Tan" Code="#cfb69f" />
+    <Color Name="FS 33531 Sand" Code="#d2b7a7" />
+    <Color Name="FS 33538 International Yellow, Traffic Yellow, ANA 614" Code="#ffaa07" />
+    <Color Name="FS 33564" Code="#dac39c" />
+    <Color Name="FS 33578" Code="#d9c2a7" />
+    <Color Name="FS 33613" Code="#eec6a5" />
+    <Color Name="FS 33617 Sand, TT-P-47" Code="#e1c7b7" />
+    <Color Name="FS 33637" Code="#edb750" />
+    <Color Name="FS 33655" Code="#ffbf00" />
+    <Color Name="FS 33685" Code="#e8d8a6" />
+    <Color Name="FS 33690 Very Light Sand" Code="#eed2b5" />
+    <Color Name="FS 33695" Code="#fad08d" />
+    <Color Name="FS 33696" Code="#ffcf6b" />
+    <Color Name="FS 33711" Code="#efcfae" />
+    <Color Name="FS 33717 Tan" Code="#edd3ba" />
+    <Color Name="FS 33722" Code="#ecd1af" />
+    <Color Name="FS 33727" Code="#f1d7ac" />
+    <Color Name="FS 33793" Code="#f9e58c" />
+    <Color Name="FS 33798" Code="#fadea4" />
+    <Color Name="FS 33814" Code="#e6e3a0" />
+    <Color Name="FS 34031 Aircraft Green Camo" Code="#4a4444" />
+    <Color Name="FS 34052 Marine Green #23" Code="#484743" />
+    <Color Name="FS 34058 Dark Blue Green" Code="#2f4f52" />
+    <Color Name="FS 34064 Olive Drab 85285" Code="#514d4b" />
+    <Color Name="FS 34079 Army Forest Green, ANA 631" Code="#4c4d43" />
+    <Color Name="FS 34082 Dark green Camo" Code="#535640" />
+    <Color Name="FS 34083 Air Force Forest Green" Code="#504e44" />
+    <Color Name="FS 34084 Dark green Camo" Code="#49433c" />
+    <Color Name="FS 34086 Army Forest Green Camo" Code="#54504b" />
+    <Color Name="FS 34088 Olive Drab CARC" Code="#473f37" />
+    <Color Name="FS 34089 Light Green CAMO" Code="#63613e" />
+    <Color Name="FS 34090" Code="#14764e" />
+    <Color Name="FS 34092 Gunship Green, ANA 612" Code="#46554f" />
+    <Color Name="FS 34094 Green 383 Camo" Code="#4a5444" />
+    <Color Name="FS 34095 Field Green" Code="#4c5037" />
+    <Color Name="FS 34096" Code="#545447" />
+    <Color Name="FS 34097 Field Green ANA 627" Code="#575c45" />
+    <Color Name="FS 34098" Code="#635d41" />
+    <Color Name="FS 34102 Dark Green" Code="#565845" />
+    <Color Name="FS 34108 International Dark Green, Navy Torpedo" Code="#39604b" />
+    <Color Name="FS 34127 Light Green CAMO" Code="#645f40" />
+    <Color Name="FS 34128" Code="#586553" />
+    <Color Name="FS 34129 Navair Flat Green #2" Code="#4c4e43" />
+    <Color Name="FS 34130 Munsell Color 10Y3/3" Code="#5d583c" />
+    <Color Name="FS 34138" Code="#517845" />
+    <Color Name="FS 34148" Code="#586c6e" />
+    <Color Name="FS 34151 Interior Green TT-P-1757, ANA 611" Code="#65623c" />
+    <Color Name="FS 34158 Blue Drab" Code="#5f6b6e" />
+    <Color Name="FS 34159" Code="#676c63" />
+    <Color Name="FS 34160 Foliage Green" Code="#686664" />
+    <Color Name="FS 34170 Navair Flat Green #1" Code="#4f5149" />
+    <Color Name="FS 34201" Code="#827660" />
+    <Color Name="FS 34226 NASA Primer" Code="#798175" />
+    <Color Name="FS 34227" Code="#748567" />
+    <Color Name="FS 34230" Code="#4c934f" />
+    <Color Name="FS 34233" Code="#788a8f" />
+    <Color Name="FS 34241" Code="#809993" />
+    <Color Name="FS 34258" Code="#87885e" />
+    <Color Name="FS 34259" Code="#847536" />
+    <Color Name="FS 34272" Code="#6c9178" />
+    <Color Name="FS 34277 Sea Mist Green" Code="#7e918f" />
+    <Color Name="FS 34300" Code="#81978f" />
+    <Color Name="FS 34325" Code="#769e92" />
+    <Color Name="FS 34350 Forest Service Green" Code="#6fc7b0" />
+    <Color Name="FS 34373 Sagebrush" Code="#98a48d" />
+    <Color Name="FS 34410" Code="#99a9a1" />
+    <Color Name="FS 34414" Code="#b1baaa" />
+    <Color Name="FS 34424 ANA 610" Code="#acac9a" />
+    <Color Name="FS 34432" Code="#a9aca0" />
+    <Color Name="FS 34441" Code="#a8b09a" />
+    <Color Name="FS 34449 International Light Green" Code="#9fb396" />
+    <Color Name="FS 34491" Code="#aabaab" />
+    <Color Name="FS 34504" Code="#afbaa8" />
+    <Color Name="FS 34516" Code="#afbcb1" />
+    <Color Name="FS 34518" Code="#abb8b0" />
+    <Color Name="FS 34524" Code="#b5bc98" />
+    <Color Name="FS 34533" Code="#aeba99" />
+    <Color Name="FS 34540" Code="#99ca85" />
+    <Color Name="FS 34552" Code="#d0c58a" />
+    <Color Name="FS 34554 Public Building Standard" Code="#ceccb7" />
+    <Color Name="FS 34558 International Light Green" Code="#bac7ad" />
+    <Color Name="FS 34583" Code="#bcb9a0" />
+    <Color Name="FS 34666" Code="#d7e0a8" />
+    <Color Name="FS 34670" Code="#ccd2c9" />
+    <Color Name="FS 34672 Pastel Blue" Code="#d1d3be" />
+    <Color Name="FS 35042 Sea Blue, ANA 607" Code="#373a42" />
+    <Color Name="FS 35044 Aircraft Insignia Blue, ANA 605" Code="#363848" />
+    <Color Name="FS 35045" Code="#324052" />
+    <Color Name="FS 35056" Code="#24357d" />
+    <Color Name="FS 35109 International Light Blue" Code="#37647e" />
+    <Color Name="FS 35164 Navy Blue 212, ANA 608" Code="#646e83" />
+    <Color Name="FS 35177" Code="#587594" />
+    <Color Name="FS 35180" Code="#056cb9" />
+    <Color Name="FS 35183" Code="#1373af" />
+    <Color Name="FS 35189" Code="#637d8b" />
+    <Color Name="FS 35190" Code="#5683a5" />
+    <Color Name="FS 35193" Code="#4c8392" />
+    <Color Name="FS 35231 ANA 609" Code="#7284b7" />
+    <Color Name="FS 35237 Blue Gray" Code="#7c8592" />
+    <Color Name="FS 35240" Code="#748fbd" />
+    <Color Name="FS 35250 UN Flag Blue" Code="#4e9bd7" />
+    <Color Name="FS 35260 Forest Service Blue" Code="#45abc9" />
+    <Color Name="FS 35275" Code="#2699a9" />
+    <Color Name="FS 35299" Code="#6b9a99" />
+    <Color Name="FS 35352" Code="#899da4" />
+    <Color Name="FS 35414 Blue Green" Code="#94a8ab" />
+    <Color Name="FS 35450" Code="#88acd1" />
+    <Color Name="FS 35466" Code="#7bc2e7" />
+    <Color Name="FS 35488" Code="#98b0d2" />
+    <Color Name="FS 35526" Code="#afbacc" />
+    <Color Name="FS 35550" Code="#c9d2e4" />
+    <Color Name="FS 35622" Code="#c8cfce" />
+    <Color Name="FS 35630" Code="#d8d2d6" />
+    <Color Name="FS 36076 Navy Gray #2, Dark Gray" Code="#4a4c57" />
+    <Color Name="FS 36081 Deep Gray, F-4 Aircraft" Code="#4e4f54" />
+    <Color Name="FS 36099 Dark Blue Gray" Code="#525660" />
+    <Color Name="FS 36118 Gunship Gray, ANA 603" Code="#5b5e6a" />
+    <Color Name="FS 36152" Code="#686b73" />
+    <Color Name="FS 36170 Camouflage Gray" Code="#5c5c5b" />
+    <Color Name="FS 36173 Ocean Gray, NAVSEA" Code="#747683" />
+    <Color Name="FS 36176 Ocean Gray" Code="#6b7282" />
+    <Color Name="FS 36231 International Gray, Aircraft Gray #23, ANA 621" Code="#7e7e87" />
+    <Color Name="FS 36251" Code="#848388" />
+    <Color Name="FS 36270 Haze Gray" Code="#858691" />
+    <Color Name="FS 36280" Code="#8c8b90" />
+    <Color Name="FS 36293" Code="#8f8d96" />
+    <Color Name="FS 36300 Aircraft Gray Camo" Code="#9495a5" />
+    <Color Name="FS 36306" Code="#a2928d" />
+    <Color Name="FS 36307 Bulkhead Gray" Code="#979392" />
+    <Color Name="FS 36314" Code="#929396" />
+    <Color Name="FS 36320" Code="#8f94a6" />
+    <Color Name="FS 36357" Code="#a59d97" />
+    <Color Name="FS 36373" Code="#a6a6af" />
+    <Color Name="FS 36375 Medium Gray" Code="#9fa1b2" />
+    <Color Name="FS 36405" Code="#c1b3a4" />
+    <Color Name="FS 36415 Beige Gray Stain" Code="#c1aa97" />
+    <Color Name="FS 36424" Code="#beafac" />
+    <Color Name="FS 36440 Light Gray 81352, ANA 602, 620" Code="#b0aaad" />
+    <Color Name="FS 36463" Code="#aaa8af" />
+    <Color Name="FS 36473" Code="#a6aab1" />
+    <Color Name="FS 36480 Canada 501-109" Code="#aab7b2" />
+    <Color Name="FS 36492" Code="#bcb6be" />
+    <Color Name="FS 36495" Code="#cac8d2" />
+    <Color Name="FS 36521" Code="#cebab2" />
+    <Color Name="FS 36555 Beige" Code="#d0bca4" />
+    <Color Name="FS 36559" Code="#c4bab1" />
+    <Color Name="FS 36586" Code="#cfc2b5" />
+    <Color Name="FS 36595" Code="#c8c0bd" />
+    <Color Name="FS 36622" Code="#d0c6c7" />
+    <Color Name="FS 36628" Code="#d4cfd5" />
+    <Color Name="FS 36642" Code="#e7cec2" />
+    <Color Name="FS 37030 Black Camo" Code="#373538" />
+    <Color Name="FS 37031 Interior Aircraft Black" Code="#343337" />
+    <Color Name="FS 37038 International Black, Navy #3 Black, ANA 604" Code="#343236" />
+    <Color Name="FS 37056" Code="#493f3e" />
+    <Color Name="FS 37100" Code="#6e4177" />
+    <Color Name="FS 37142" Code="#974a80" />
+    <Color Name="FS 37144" Code="#815c89" />
+    <Color Name="FS 37150" Code="#dacac3" />
+    <Color Name="FS 37200" Code="#97939a" />
+    <Color Name="FS 37722" Code="#e9dbd5" />
+    <Color Name="FS 37769" Code="#dfccbf" />
+    <Color Name="FS 37778" Code="#f0dfd0" />
+    <Color Name="FS 37855 Eggshell, Ivory" Code="#f5e4c8" />
+    <Color Name="FS 37875 International White, Aircraft White, Insignia White, ANA 601" Code="#f1eaee" />
+    <Color Name="FS 37886" Code="#f7eae4" />
+    <Color Name="FS 37925" Code="#fbf1fb" />
+    <Color Name="FS 38901" Code="#00a43b" />
+    <Color Name="FS 38903" Code="#ff5400" />
+    <Color Name="FS 38905" Code="#ff0d21" />
+    <Color Name="FS 38907" Code="#ffbf00" />
+</Group>
+<Group Name="BIM Color" Code="BIM" >
+    <Color Name="White" Code="#f1ece1" />
+    <Color Name="Black" Code="#1e1e1e" />
+    <Color Name="Blue" Code="#08085a" />
+    <Color Name="Red" Code="#a72920" />
+    <Color Name="Green" Code="#63b521" />
+    <Color Name="Yellow" Code="#ffe700" />
+    <Color Name="Brown" Code="#d88e2d" />
+    <Color Name="Pink" Code="#eea5a7" />
+    <Color Name="Silver" Code="#a1a1a0" />
+    <Color Name="Grey" Code="#8c969d" />
+    <Color Name="Dark Grey" Code="#a9a9a9" />
+    <Color Name="Maroon" Code="#5e2f26" />
+    <Color Name="Magenta" Code="#ff0090" />
+    <Color Name="Orange" Code="#f67828" />
+    <Color Name="Gold" Code="#bf8d38" />
+    <Color Name="Violet" Code="#816183" />
+    <Color Name="Cyan" Code="#00b7eb" />
+    <Color Name="International Orange" Code="#c95138" />
+    <Color Name="Golden Gate Bridge" Code="#c0362c" />
+    <Color Name="Safety Blue" Code="#106d9f" />
+    <Color Name="Safety Green" Code="#5aa27c" />
+    <Color Name="Safety Red" Code="#ab3f3b" />
+    <Color Name="Safety Yellow" Code="#ffd21f" />
+    <Color Name="Signal Blue" Code="#1e2460" />
+    <Color Name="Signal Green" Code="#31743" />
+    <Color Name="Signal Red" Code="#b13737" />
+    <Color Name="Signal Yellow" Code="#e5be01" />
+</Group>
+<Group Name="PANTONE" Code="PANTONE" >
+    <Color Name="Egret" Code="#F0EEE2" />
+    <Color Name="Vanila Ice" Code="#F0EED9" />
+    <Color Name="Antique White" Code="#F0E9D5" />
+    <Color Name="Papyrus" Code="#F3EDD9" />
+    <Color Name="Butter cream" Code="#EFE0CD" />
+    <Color Name="Glass Green" Code="#EDEED3" />
+    <Color Name="Water Lily" Code="#DFE7D6" />
+    <Color Name="Sylvan Green" Code="#E8E9C8" />
+    <Color Name="Winter White" Code="#F1EBD3" />
+    <Color Name="Afterglow" Code="#F3ECCB" />
+    <Color Name="Bright White" Code="#F4F3EE" />
+    <Color Name="Snow White" Code="#F2F0EB" />
+    <Color Name="Pastel Parchment" Code="#E7DED8" />
+    <Color Name="Gardenia" Code="#F1ECE4" />
+    <Color Name="Pristine" Code="#F1EBDC" />
+    <Color Name="Ethereal Green" Code="#ECEACC" />
+    <Color Name="Pastel Yellow" Code="#F2E6AE" />
+    <Color Name="Transparent Yellow" Code="#F5EDC2" />
+    <Color Name="Wax Yellow" Code="#EFECB2" />
+    <Color Name="Elfin Yellow" Code="#EFEC9B" />
+    <Color Name="Whisper White" Code="#EEEAD9" />
+    <Color Name="Tender Yellow" Code="#EEEEB6" />
+    <Color Name="Ecru" Code="#F3E2CF" />
+    <Color Name="Pearled Ivory" Code="#F1E4D1" />
+    <Color Name="Bridal Blush" Code="#EEE5DF" />
+    <Color Name="Angel Wing" Code="#F3E4DB" />
+    <Color Name="Cream Pink" Code="#F3E5DB" />
+    <Color Name="Powder Puff" Code="#F4E7DA" />
+    <Color Name="Rosewater" Code="#F5DED9" />
+    <Color Name="Petal Pink" Code="#F4E8E2" />
+    <Color Name="Delicacy" Code="#F3E9E6" />
+    <Color Name="Shrinking Violet" Code="#F2E4E6" />
+    <Color Name="Brilliant White" Code="#EDF1FE" />
+    <Color Name="Cloud Dancer" Code="#F0F0EC" />
+    <Color Name="Star White" Code="#EDEEE7" />
+    <Color Name="Marshmallow" Code="#EFEFE6" />
+    <Color Name="Lily White" Code="#E7E6DF" />
+    <Color Name="Mystic Blue" Code="#E6E8E1" />
+    <Color Name="Bit of Blue" Code="#E6ECE8" />
+    <Color Name="Billowing Sail" Code="#DEE9E5" />
+    <Color Name="Blanc de Blanc" Code="#E9EBE7" />
+    <Color Name="Tofu" Code="#E8E3D9" />
+    <Color Name="Summer Shower" Code="#E7EDE4" />
+    <Color Name="Ice" Code="#E3E9DE" />
+    <Color Name="Light est Sky" Code="#E7EEE4" />
+    <Color Name="Hint of Mint" Code="#DEEDE5" />
+    <Color Name="White Swan" Code="#E3D9C7" />
+    <Color Name="White Asparagus" Code="#E4DECA" />
+    <Color Name="Bone White" Code="#D9D4C2" />
+    <Color Name="Meadow Mist" Code="#D4DDC3" />
+    <Color Name="Canary Green" Code="#D5DFC9" />
+    <Color Name="Ambrosia" Code="#D2E7C9" />
+    <Color Name="Patina Green" Code="#B4E7AE" />
+    <Color Name="White cap Gray" Code="#E2D8C9" />
+    <Color Name="Asparagus Green" Code="#D6D4BA" />
+    <Color Name="Lime Cream" Code="#DCE7BB" />
+    <Color Name="Sea foam Green" Code="#CBD7B0" />
+    <Color Name="White Jade" Code="#D3DAAF" />
+    <Color Name="Gleam" Code="#C1D4AD" />
+    <Color Name="Butterfly" Code="#CBDEA2" />
+    <Color Name="Light Gray" Code="#DAD9CA" />
+    <Color Name="Hay" Code="#D1CCA1" />
+    <Color Name="Mellow Green" Code="#D0D38B" />
+    <Color Name="Daiquiri Green" Code="#C9D67B" />
+    <Color Name="Pale Lime Yellow" Code="#E7E9A2" />
+    <Color Name="Young Wheat" Code="#E1E2A6" />
+    <Color Name="Citron" Code="#DCDD98" />
+    <Color Name="Luminary Green" Code="#E2E9A5" />
+    <Color Name="Charlock" Code="#E6E78C" />
+    <Color Name="Eggnog" Code="#ECE2D4" />
+    <Color Name="Angora" Code="#E0D4BC" />
+    <Color Name="Green Essence" Code="#E8EAC8" />
+    <Color Name="Dusty Yellow" Code="#D6CF9C" />
+    <Color Name="Lemon Grass" Code="#DCD593" />
+    <Color Name="Canary Yellow" Code="#DFDB80" />
+    <Color Name="Aurora" Code="#F0DD5E" />
+    <Color Name="Blazing Yellow" Code="#F8E824" />
+    <Color Name="Seed pearl" Code="#E6DCC5" />
+    <Color Name="White Smoke" Code="#EDDFCA" />
+    <Color Name="Navajo" Code="#F0E0C4" />
+    <Color Name="Vanilla" Code="#F5E5C3" />
+    <Color Name="Almond Oil" Code="#F2E6C0" />
+    <Color Name="Cornhusk" Code="#F5DBB4" />
+    <Color Name="Double Cream" Code="#F3E1AD" />
+    <Color Name="Mellow Yellow" Code="#EFDC9C" />
+    <Color Name="Lemonade" Code="#F1E79C" />
+    <Color Name="French Vanilla" Code="#F0E2A4" />
+    <Color Name="Sunshine" Code="#FCE285" />
+    <Color Name="Lemon Drop" Code="#F7D976" />
+    <Color Name="Yellow Cream" Code="#F0DA71" />
+    <Color Name="LimeLight " Code="#EEE87C" />
+    <Color Name="Sunny Lime" Code="#E2ED87" />
+    <Color Name="Buttercup" Code="#F7E13F" />
+    <Color Name="Cloud Cream" Code="#E8DEC6" />
+    <Color Name="Rutabaga" Code="#EBDFBC" />
+    <Color Name="Sun Kiss" Code="#EBD4BE" />
+    <Color Name="Dawn" Code="#EED7BB" />
+    <Color Name="Alabaster Gleam" Code="#EFDEBD" />
+    <Color Name="Autumn Blonde" Code="#EFD5B1" />
+    <Color Name="Vanilla Custard" Code="#F1E1BC" />
+    <Color Name="Apricot Gelato" Code="#F3D5A9" />
+    <Color Name="Golden Fleece" Code="#F5D19F" />
+    <Color Name="Pale Banana" Code="#F9E39A" />
+    <Color Name="Popcorn" Code="#F8E191" />
+    <Color Name="Golden Haze" Code="#FAD996" />
+    <Color Name="Lamb's Wool" Code="#EAD8B6" />
+    <Color Name="Nude" Code="#F2D5BA" />
+    <Color Name="Tender Peach" Code="#F7D6B8" />
+    <Color Name="Alesan" Code="#F3D0B4" />
+    <Color Name="Pale Peach" Code="#FDD3BC" />
+    <Color Name="Bleached Apricot" Code="#FBCFAE" />
+    <Color Name="Golden Straw" Code="#E7BD8F" />
+    <Color Name="Novelle Peach" Code="#E8D3BF" />
+    <Color Name="Mother of Pearl" Code="#EBD9C6" />
+    <Color Name="Pastel Rose Tan" Code="#E7D0BC" />
+    <Color Name="Linen" Code="#EDD6C1" />
+    <Color Name="Vanilla Cream" Code="#F4DDCA" />
+    <Color Name="Scallop Shell" Code="#F8D9C9" />
+    <Color Name="Peach Purée" Code="#F1D1B9" />
+    <Color Name="Sheer Pink" Code="#F4E9DF" />
+    <Color Name="Pink Champagne" Code="#EFDCCD" />
+    <Color Name="Dew" Code="#F0E3D5" />
+    <Color Name="Silver Peony" Code="#E8D3C8" />
+    <Color Name="Pearl Blush" Code="#F2D1C6" />
+    <Color Name="Soft Pink" Code="#F3DBCE" />
+    <Color Name="Veiled Rose" Code="#F8D2C7" />
+    <Color Name="Pearl" Code="#F3DCD8" />
+    <Color Name="Heavenly Pink" Code="#F6E3E4" />
+    <Color Name="Blushing Bride" Code="#F9D7DD" />
+    <Color Name="Tapioca" Code="#E0D1BD" />
+    <Color Name="Pink Tint" Code="#DCCCBD" />
+    <Color Name="Crystal Pink" Code="#EFD4D1" />
+    <Color Name="Pink Dogwood" Code="#F7D4D3" />
+    <Color Name="Crystal Rose" Code="#FCC8C8" />
+    <Color Name="Mauve Morn" Code="#EADBD9" />
+    <Color Name="Almost Mauve" Code="#EADFDD" />
+    <Color Name="Mauve Chalk" Code="#E4D2D1" />
+    <Color Name="Light Lilac" Code="#E0C9D3" />
+    <Color Name="Primrose Pink" Code="#EDD8DB" />
+    <Color Name="Cradle Pink" Code="#ECD1DE" />
+    <Color Name="Barely Pink" Code="#F7DCE0" />
+    <Color Name="Vaporous Gray" Code="#E2E2DA" />
+    <Color Name="Blue wash" Code="#E2E7E1" />
+    <Color Name="Spa Blue" Code="#D9E4E1" />
+    <Color Name="Barely Blue" Code="#DFE2E1" />
+    <Color Name="SkyLight " Code="#CEE5E3" />
+    <Color Name="Pastel Blue" Code="#C0D7D9" />
+    <Color Name="Clearwater" Code="#AAD5DC" />
+    <Color Name="StarLight Blue" Code="#B5CFD8" />
+    <Color Name="Whispering Blue" Code="#CBDEDE" />
+    <Color Name="Blue Blush" Code="#D7DDDA" />
+    <Color Name="Wan Blue" Code="#CEDEDF" />
+    <Color Name="Chalk Blue" Code="#CAD9D6" />
+    <Color Name="Icicle" Code="#DDDFD1" />
+    <Color Name="Turtle dove" Code="#E1DAC9" />
+    <Color Name="Murmur" Code="#D4DCD5" />
+    <Color Name="Morning Mist" Code="#CCDFD9" />
+    <Color Name="Blue Glass" Code="#C6E1DF" />
+    <Color Name="Soothing Sea" Code="#C6EAE4" />
+    <Color Name="Sprout Green" Code="#CCDAD5" />
+    <Color Name="Blue Flower" Code="#D1DCD7" />
+    <Color Name="Whisper Green" Code="#E1E6D8" />
+    <Color Name="Opal Blue" Code="#C4DFD6" />
+    <Color Name="Aqua Glass" Code="#D4EADF" />
+    <Color Name="MoonLight Jade" Code="#C3E5DA" />
+    <Color Name="Fair Aqua" Code="#BFE5DC" />
+    <Color Name="Bleached Aqua" Code="#B7E1DD" />
+    <Color Name="Clearly Aqua" Code="#CDE2D4" />
+    <Color Name="Glacier" Code="#C0D8D2" />
+    <Color Name="Dusty Aqua" Code="#C3DFD0" />
+    <Color Name="Bay" Code="#BDE7D8" />
+    <Color Name="Hushed Green" Code="#DCEDE7" />
+    <Color Name="Zephyr Blue" Code="#D4DCD3" />
+    <Color Name="Honeydew" Code="#BCE3D3" />
+    <Color Name="Silver Green" Code="#D6D6C4" />
+    <Color Name="Milky Green" Code="#CEDBCF" />
+    <Color Name="Fairest Jade" Code="#DEE6D9" />
+    <Color Name="Frost" Code="#DDE4D8" />
+    <Color Name="Phantom Green" Code="#DCE3D7" />
+    <Color Name="Moonbeam" Code="#D4CEC5" />
+    <Color Name="White Sand" Code="#DDD7D2" />
+    <Color Name="Dewkist" Code="#C2CFBF" />
+    <Color Name="Sea crest" Code="#BFD1B0" />
+    <Color Name="Pastel Green" Code="#B2D3B2" />
+    <Color Name="Green Ash" Code="#9DDAAB" />
+    <Color Name="Fog Green" Code="#C4CEB5" />
+    <Color Name="Tender Greens" Code="#C6D0B6" />
+    <Color Name="Reed" Code="#C1D4A5" />
+    <Color Name="Paradise Green" Code="#B3E69E" />
+    <Color Name="Pistachio Green" Code="#AAD49E" />
+    <Color Name="Lily Green" Code="#C3CF96" />
+    <Color Name="Shadow Lime" Code="#D4E09B" />
+    <Color Name="Lettuce Green" Code="#BFD58E" />
+    <Color Name="Sap Green" Code="#AFCE7F" />
+    <Color Name="Lima Bean" Code="#DFD48B" />
+    <Color Name="Oatmeal" Code="#CEC5B6" />
+    <Color Name="Gray Morn" Code="#CAC2B5" />
+    <Color Name="Green Glow" Code="#B1CD62" />
+    <Color Name="Frozen Dew" Code="#DAD2B7" />
+    <Color Name="Pale Green" Code="#CBCE90" />
+    <Color Name="Lime Sherbet" Code="#D2D789" />
+    <Color Name="Celery Green" Code="#C7CC79" />
+    <Color Name="Sharp Green" Code="#C9E77A" />
+    <Color Name="Wild Lime" Code="#C6D663" />
+    <Color Name="Lime Punch" Code="#BDD622" />
+    <Color Name="Fog" Code="#D4C9B6" />
+    <Color Name="Aloe Wash" Code="#D0D2B3" />
+    <Color Name="Moth" Code="#D4CFB1" />
+    <Color Name="Chino Green" Code="#DCCFAA" />
+    <Color Name="Garden Glade" Code="#DFD9A8" />
+    <Color Name="Golden Mist" Code="#D5CF93" />
+    <Color Name="Endive" Code="#D6D081" />
+    <Color Name="Chardonnay" Code="#E2D993" />
+    <Color Name="Acacia" Code="#DBD164" />
+    <Color Name="Limeade" Code="#D3D85D" />
+    <Color Name="Green Sheen" Code="#DDD154" />
+    <Color Name="Sulphur Spring" Code="#D2D614" />
+    <Color Name="Putty" Code="#D6CDB0" />
+    <Color Name="Sea Mist" Code="#D9CCA6" />
+    <Color Name="Custard" Code="#E8D88C" />
+    <Color Name="Raffia" Code="#DDC887" />
+    <Color Name="Cream Gold" Code="#E1C563" />
+    <Color Name="Maize" Code="#EFD044" />
+    <Color Name="Lemon" Code="#F0C520" />
+    <Color Name="Primrose Yellow" Code="#F3CE5A" />
+    <Color Name="Dandelion" Code="#FFD829" />
+    <Color Name="Summer Melon" Code="#ECD7B0" />
+    <Color Name="Banana Crepe" Code="#E8D3A8" />
+    <Color Name="SunLight " Code="#EED79E" />
+    <Color Name="Snapdragon" Code="#FFD876" />
+    <Color Name="Aspen Gold" Code="#FFD75D" />
+    <Color Name="Vibrant Yellow" Code="#FFDC1D" />
+    <Color Name="Lemon Chrome" Code="#FFC500" />
+    <Color Name="Birch" Code="#E0D8C8" />
+    <Color Name="Sandshell" Code="#DBCEBC" />
+    <Color Name="Parchment" Code="#DFD2BE" />
+    <Color Name="Reed Yellow" Code="#DDCCA2" />
+    <Color Name="Chamomile" Code="#ECD4AA" />
+    <Color Name="Italian Straw" Code="#EBD4A1" />
+    <Color Name="Straw" Code="#E3CB92" />
+    <Color Name="Cornsilk" Code="#EDC274" />
+    <Color Name="Flax" Code="#FFCA80" />
+    <Color Name="Golden Cream" Code="#F4BD68" />
+    <Color Name="Sunset Gold" Code="#F8C56B" />
+    <Color Name="Banana Cream" Code="#FFD174" />
+    <Color Name="Amber Yellow" Code="#F8B759" />
+    <Color Name="Pale Marigold" Code="#FFC869" />
+    <Color Name="Banana" Code="#FDBD53" />
+    <Color Name="Crème Brûlée" Code="#DCCCB4" />
+    <Color Name="Oyster White" Code="#D8CCB3" />
+    <Color Name="Bleached Sand" Code="#DDCEB4" />
+    <Color Name="Biscotti" Code="#E0CDB1" />
+    <Color Name="Gray Sand" Code="#EAD4B7" />
+    <Color Name="Ivory Cream" Code="#DEC6AB" />
+    <Color Name="Frosted Almond" Code="#D9C6B0" />
+    <Color Name="Appleblossom" Code="#E4C4A8" />
+    <Color Name="Mellow Buff" Code="#DFC1A0" />
+    <Color Name="Honey Peach" Code="#DFC09C" />
+    <Color Name="Wheat" Code="#E2C7A5" />
+    <Color Name="Almond Cream" Code="#F5C9A8" />
+    <Color Name="Desert Dust" Code="#E4BD8E" />
+    <Color Name="Cream Blush" Code="#FAC69D" />
+    <Color Name="Apricot Ice" Code="#FAC19C" />
+    <Color Name="Prairie Sunset" Code="#FFC1A0" />
+    <Color Name="Caramel Cream" Code="#F3C199" />
+    <Color Name="Peach Fuzz" Code="#FFC196" />
+    <Color Name="Buff" Code="#EBC596" />
+    <Color Name="Impala" Code="#FAD397" />
+    <Color Name="Creampuff" Code="#FFD3AF" />
+    <Color Name="Apricot Cream" Code="#F1BF88" />
+    <Color Name="Sunburst" Code="#F8C58D" />
+    <Color Name="Apricot Sherbet" Code="#FBD09D" />
+    <Color Name="Brown Rice" Code="#C7BBA4" />
+    <Color Name="Sand Dollar" Code="#DFCEBD" />
+    <Color Name="Whisper Pink" Code="#DDCDC0" />
+    <Color Name="Cream Tan" Code="#E5C9B7" />
+    <Color Name="Bisque" Code="#EAC6B1" />
+    <Color Name="Bellini" Code="#F2C9AF" />
+    <Color Name="English Rose" Code="#F5C7C2" />
+    <Color Name="Tropical Peach" Code="#FEC7B4" />
+    <Color Name="Pale Dogwood" Code="#EFD1C4" />
+    <Color Name="Shell" Code="#E6D6CB" />
+    <Color Name="Cloud Pink" Code="#F0D3C9" />
+    <Color Name="Creole Pink" Code="#F5D9CE" />
+    <Color Name="Chintz Rose" Code="#F0C8C0" />
+    <Color Name="Seashell Pink" Code="#F5C9C3" />
+    <Color Name="Peach Blush" Code="#E6CFC7" />
+    <Color Name="Impatiens Pink" Code="#FEC6BD" />
+    <Color Name="Gossamer Pink" Code="#F8C6C0" />
+    <Color Name="Rose Quartz" Code="#F7CAC9" />
+    <Color Name="Chalk Pink" Code="#E7C8CC" />
+    <Color Name="Rose Shadow" Code="#F7C4CF" />
+    <Color Name="Potpourri" Code="#E8CACA" />
+    <Color Name="Strawberry Cream" Code="#F4C6C4" />
+    <Color Name="Almond Blossom" Code="#F3C0C8" />
+    <Color Name="Orchid Pink" Code="#F1BDCA" />
+    <Color Name="Pale Lilac" Code="#E2CACE" />
+    <Color Name="Parfait Pink" Code="#EAC4CE" />
+    <Color Name="Pink Mist" Code="#E9C1D1" />
+    <Color Name="Pink Lady" Code="#EEC4D6" />
+    <Color Name="Lilac Snow" Code="#E0C8D9" />
+    <Color Name="Orchid Ice" Code="#E2D5DE" />
+    <Color Name="Crystal Gray" Code="#D9CFC7" />
+    <Color Name="Orchid Tint" Code="#DDD4DB" />
+    <Color Name="Lilac Ash" Code="#D7CDCC" />
+    <Color Name="Gray Lilac" Code="#D7CCCF" />
+    <Color Name="Orchid Hush" Code="#CEC4D2" />
+    <Color Name="Lavender Fog" Code="#D3C6D7" />
+    <Color Name="Illusion Blue" Code="#CBD5DC" />
+    <Color Name="Lilac Hint" Code="#D3D2DC" />
+    <Color Name="Nimbus Cloud" Code="#D5D5D8" />
+    <Color Name="Arctic Ice" Code="#C2C9D7" />
+    <Color Name="Dawn Blue" Code="#C9CDCB" />
+    <Color Name="Ballad Blue" Code="#BECDD9" />
+    <Color Name="Foggy Dew" Code="#D0D4CD" />
+    <Color Name="Baby Blue" Code="#B5C7D5" />
+    <Color Name="Silver Birch" Code="#D0CEC2" />
+    <Color Name="Ice Flow" Code="#C7D3D4" />
+    <Color Name="Misty Blue" Code="#C1D0CE" />
+    <Color Name="Blue Glow" Code="#B0D2DB" />
+    <Color Name="Crystal Blue" Code="#A3CADC" />
+    <Color Name="Pale Blue" Code="#C6D8D5" />
+    <Color Name="Plume" Code="#A5D1D7" />
+    <Color Name="Blue Light " Code="#A7DDDC" />
+    <Color Name="Blue Tint" Code="#A0D9D7" />
+    <Color Name="Rainy Day" Code="#CDC7BB" />
+    <Color Name="Pale Aqua" Code="#C1CDC2" />
+    <Color Name="Icy Morn" Code="#AED1CF" />
+    <Color Name="Pastel Turquoise" Code="#98C4C4" />
+    <Color Name="Aruba Blue" Code="#87D9D4" />
+    <Color Name="Yucca" Code="#9FD9CB" />
+    <Color Name="Beach Glass" Code="#96E0CD" />
+    <Color Name="Ice Green" Code="#80D5C0" />
+    <Color Name="Cabbage" Code="#88D9BE" />
+    <Color Name="Gossamer Green" Code="#AFCDBC" />
+    <Color Name="Bird's Egg Green" Code="#A7D0BA" />
+    <Color Name="Almost Aqua" Code="#CDD6C2" />
+    <Color Name="Spray" Code="#BFD6BC" />
+    <Color Name="Misty Jade" Code="#BEDAC8" />
+    <Color Name="Brook Green" Code="#AADECA" />
+    <Color Name="Celadon Tint" Code="#CDD0C0" />
+    <Color Name="Green Tint" Code="#C4CDBE" />
+    <Color Name="Green Lily" Code="#BFCEBF" />
+    <Color Name="Celadon" Code="#B8CDBA" />
+    <Color Name="Mist Green" Code="#A7CEB9" />
+    <Color Name="Bok Choy" Code="#B7C7AE" />
+    <Color Name="Silver Gray" Code="#C5BDB5" />
+    <Color Name="Pumice Stone" Code="#C6BEB4" />
+    <Color Name="Overcast" Code="#C5BFAC" />
+    <Color Name="Castle Wall" Code="#CCC5AE" />
+    <Color Name="Celadon Green" Code="#B3C0A0" />
+    <Color Name="Foam Green" Code="#B3C79C" />
+    <Color Name="Nile Green" Code="#A7C696" />
+    <Color Name="Arcadian Green" Code="#A1C58D" />
+    <Color Name="Greengage" Code="#88C28A" />
+    <Color Name="Summer Green" Code="#7AD57E" />
+    <Color Name="Tidal Foam" Code="#BCB69E" />
+    <Color Name="Lint" Code="#B6BA97" />
+    <Color Name="Seedling" Code="#BECA9C" />
+    <Color Name="Nile" Code="#B1BA82" />
+    <Color Name="Opaline Green" Code="#A4C67D" />
+    <Color Name="Jade Lime" Code="#A5C87C" />
+    <Color Name="Bright Lime Green" Code="#9CC263" />
+    <Color Name="Bog" Code="#B9B796" />
+    <Color Name="Beechnut" Code="#C2C087" />
+    <Color Name="Green Banana" Code="#B7BB6A" />
+    <Color Name="Bright Chart Reuse" Code="#AFBC4C" />
+    <Color Name="Tender Shoots" Code="#B9CD40" />
+    <Color Name="Lime Green" Code="#9DC131" />
+    <Color Name="Green Haze" Code="#CDC9A6" />
+    <Color Name="Dried Moss" Code="#CBBB7E" />
+    <Color Name="Shadow Green" Code="#D0C582" />
+    <Color Name="Muted Lime" Code="#D4CB7F" />
+    <Color Name="Celery" Code="#D1C453" />
+    <Color Name="Cement" Code="#C3B9A4" />
+    <Color Name="Hemp" Code="#C4B380" />
+    <Color Name="Bamboo" Code="#D3B350" />
+    <Color Name="Super Lemon" Code="#E9C248" />
+    <Color Name="Sulphur" Code="#DFB71C" />
+    <Color Name="Empire Yellow" Code="#F3D000" />
+    <Color Name="Cyber Yellow" Code="#FCD100" />
+    <Color Name="Pampas" Code="#D2BD7F" />
+    <Color Name="Dusky Citron" Code="#E5CD80" />
+    <Color Name="Misted Yellow" Code="#DAB864" />
+    <Color Name="Yolk Yellow" Code="#E3B151" />
+    <Color Name="Buff Yellow" Code="#F3C36E" />
+    <Color Name="Mimosa" Code="#EEBF56" />
+    <Color Name="Daffodil" Code="#FFC650" />
+    <Color Name="Freesia" Code="#F4C32A" />
+    <Color Name="Parsnip" Code="#D8C695" />
+    <Color Name="Jojoba" Code="#DEC282" />
+    <Color Name="Sahara Sun" Code="#E2C28A" />
+    <Color Name="Beeswax" Code="#ECA84E" />
+    <Color Name="Golden Rod" Code="#E7AA27" />
+    <Color Name="Citrus" Code="#FAAD29" />
+    <Color Name="Spectra Yellow" Code="#F9BA11" />
+    <Color Name="Champagne Beige" Code="#BBA38B" />
+    <Color Name="Gravel" Code="#CBC2A2" />
+    <Color Name="Cocoon" Code="#CEB880" />
+    <Color Name="Rattan" Code="#D5B371" />
+    <Color Name="Ochre" Code="#D7AC5E" />
+    <Color Name="New Wheat" Code="#D9B57F" />
+    <Color Name="Golden Apricot" Code="#E0AB5F" />
+    <Color Name="Amber" Code="#EFAE55" />
+    <Color Name="Marigold" Code="#FCAD51" />
+    <Color Name="Warm Apricot" Code="#FFB763" />
+    <Color Name="Saffron" Code="#FFA800" />
+    <Color Name="Peyote" Code="#C7BEB1" />
+    <Color Name="Oyster Gray" Code="#CEC3B1" />
+    <Color Name="Wood Ash" Code="#D5C8AD" />
+    <Color Name="Boulder" Code="#D3BE9A" />
+    <Color Name="Pebble" Code="#CFBB9B" />
+    <Color Name="Marzipan" Code="#DCC39D" />
+    <Color Name="Almond Buff" Code="#D2B894" />
+    <Color Name="Beige" Code="#D4B896" />
+    <Color Name="Winter Wheat" Code="#E6C6A0" />
+    <Color Name="Apricot Illusion" Code="#E8C8A8" />
+    <Color Name="Sheepskin" Code="#DEB993" />
+    <Color Name="Desert Mist" Code="#E1B488" />
+    <Color Name="Buff Orange" Code="#FFBD7B" />
+    <Color Name="Apricot Nectar" Code="#EDAA76" />
+    <Color Name="Salmon Buff" Code="#FCB07F" />
+    <Color Name="Pumpkin" Code="#F7A46C" />
+    <Color Name="Zinnia" Code="#FFA61B" />
+    <Color Name="Smoke Gray" Code="#CCB8A3" />
+    <Color Name="Shifting Sand" Code="#D7C2AC" />
+    <Color Name="Frappé" Code="#D1B7A1" />
+    <Color Name="Toasted Almond" Code="#D5B59D" />
+    <Color Name="AmberLight " Code="#E0BB9F" />
+    <Color Name="Peach Parfait" Code="#F8C2AA" />
+    <Color Name="Peach Nougat" Code="#E7AF91" />
+    <Color Name="Coral Sands" Code="#EEAD88" />
+    <Color Name="Beach Sand" Code="#F9C198" />
+    <Color Name="Peach" Code="#F4AF88" />
+    <Color Name="Peach Nectar" Code="#FFBA9D" />
+    <Color Name="Apricot Wash" Code="#F9B387" />
+    <Color Name="Peach Cobbler" Code="#FFB480" />
+    <Color Name="Mushroom" Code="#BFACA2" />
+    <Color Name="Rose Dust" Code="#CEB3A6" />
+    <Color Name="Peach Whip" Code="#DEC1B9" />
+    <Color Name="Cameo Rose" Code="#D8B7A9" />
+    <Color Name="Evening Sand" Code="#E2BAAD" />
+    <Color Name="Pale Blush" Code="#E6C0B3" />
+    <Color Name="Rose Cloud" Code="#DEB4A4" />
+    <Color Name="Spanish Villa" Code="#E1BBA9" />
+    <Color Name="Dusty Pink" Code="#E1AC9A" />
+    <Color Name="Coral Pink" Code="#EAAD9C" />
+    <Color Name="Salmon" Code="#F8AC97" />
+    <Color Name="Peach Bud" Code="#FCB5A8" />
+    <Color Name="Peach Melba" Code="#FABEB1" />
+    <Color Name="Peach Pearl" Code="#FBB8A6" />
+    <Color Name="Apricot Blush" Code="#FBB2A8" />
+    <Color Name="Rose Smoke" Code="#D7BAB1" />
+    <Color Name="Silver Pink" Code="#DDB5B3" />
+    <Color Name="Powder Pink" Code="#EBB7B6" />
+    <Color Name="Blossom" Code="#F0B2AC" />
+    <Color Name="Peaches N' Cream" Code="#F4A8A3" />
+    <Color Name="Quartz Pink" Code="#F0ABAD" />
+    <Color Name="Lotus" Code="#E3C3C1" />
+    <Color Name="Peachskin" Code="#DFB8B5" />
+    <Color Name="Coral Blush" Code="#E6B6BB" />
+    <Color Name="Candy Pink" Code="#F5B3C0" />
+    <Color Name="Pink Nectar" Code="#D9AAB5" />
+    <Color Name="Cameo Pink" Code="#DCABB8" />
+    <Color Name="Prism Pink" Code="#F1A4C3" />
+    <Color Name="Lilac Sachet" Code="#EAB0CA" />
+    <Color Name="Sweet Lilac" Code="#E8B9D1" />
+    <Color Name="Fragrant Lilac" Code="#CDAEBD" />
+    <Color Name="Winsome Orchid" Code="#D5BACC" />
+    <Color Name="Pink Lavender" Code="#DAB3CD" />
+    <Color Name="Pastel Lavender" Code="#D9A4C6" />
+    <Color Name="Orchid Bloom" Code="#C8AFD0" />
+    <Color Name="Orchid Petal" Code="#C0B2CB" />
+    <Color Name="Hushed Violet" Code="#D3C3C1" />
+    <Color Name="Iris" Code="#BDB2BF" />
+    <Color Name="Pastel Lilac" Code="#BDB0D0" />
+    <Color Name="Lilac Marble" Code="#C4BCC1" />
+    <Color Name="Evening Haze" Code="#BEB9C9" />
+    <Color Name="Lavender Blue" Code="#C4C0D2" />
+    <Color Name="Thistle" Code="#BCB7CA" />
+    <Color Name="Purple Heather" Code="#BAB8D4" />
+    <Color Name="Wind Chime" Code="#C9C5C3" />
+    <Color Name="Glacier Gray" Code="#C8CBCB" />
+    <Color Name="Gray Violet" Code="#C1C4C3" />
+    <Color Name="Gray Dawn" Code="#B8BFCA" />
+    <Color Name="Heather" Code="#B8C2D8" />
+    <Color Name="Skyway" Code="#AEC0D5" />
+    <Color Name="Cashmere Blue" Code="#A8BBD2" />
+    <Color Name="Blue Bell" Code="#96B5D7" />
+    <Color Name="Lunar Rock" Code="#C8C8C9" />
+    <Color Name="Vapor Blue" Code="#BFBEBE" />
+    <Color Name="Pearl Blue" Code="#AFBABF" />
+    <Color Name="Celestial Blue" Code="#A5B7C7" />
+    <Color Name="Powder Blue" Code="#95B1D2" />
+    <Color Name="Cloud Blue" Code="#A4B8BA" />
+    <Color Name="Winter Sky" Code="#A8BFCC" />
+    <Color Name="Aqua Marine" Code="#9CC3D4" />
+    <Color Name="Sky Blue" Code="#8CBCD4" />
+    <Color Name="Moonstruck" Code="#C6C3BA" />
+    <Color Name="Silver Lining" Code="#C1BBB0" />
+    <Color Name="Mercury" Code="#BCC2BA" />
+    <Color Name="Metal" Code="#B6BDB8" />
+    <Color Name="Sky Gray" Code="#BDC9C6" />
+    <Color Name="Smoke" Code="#BCC6C0" />
+    <Color Name="Ether" Code="#A2B9BB" />
+    <Color Name="Stratosphere" Code="#9BBFCA" />
+    <Color Name="Aquatic" Code="#98C1CA" />
+    <Color Name="Porcelain Blue" Code="#91BFCA" />
+    <Color Name="Petit four" Code="#87C4D6" />
+    <Color Name="Bachelor Button" Code="#48BCD8" />
+    <Color Name="Blue Fox" Code="#B9C0BA" />
+    <Color Name="Surf Spray" Code="#AEC5BE" />
+    <Color Name="Eggshell Blue" Code="#9FCBC6" />
+    <Color Name="Canal Blue" Code="#9BC2C6" />
+    <Color Name="Aqua Sky" Code="#7EC9C8" />
+    <Color Name="Angel Blue" Code="#82C8CE" />
+    <Color Name="Blue Radiance" Code="#61CAD3" />
+    <Color Name="Harbor Gray" Code="#A8C2B9" />
+    <Color Name="Silver" Code="#A7A8A7" />
+    <Color Name="Holiday" Code="#7EC3B3" />
+    <Color Name="Bermuda" Code="#58CAB2" />
+    <Color Name="Cockatoo" Code="#58CEBA" />
+    <Color Name="Silt Green" Code="#ABC1B4" />
+    <Color Name="Aqua Foam" Code="#ADC5B4" />
+    <Color Name="Ocean Wave" Code="#92C8B7" />
+    <Color Name="Cascade" Code="#79C1B1" />
+    <Color Name="Lucite Green" Code="#7BCBB6" />
+    <Color Name="Opal" Code="#6FCEB6" />
+    <Color Name="Electric Green" Code="#36C1A5" />
+    <Color Name="Sea Foam" Code="#B6C1B1" />
+    <Color Name="Subtle Green" Code="#B4CCBC" />
+    <Color Name="Grayed Jade" Code="#9ABEA9" />
+    <Color Name="Neptune Green" Code="#80BCA0" />
+    <Color Name="Pelican" Code="#C1BBAB" />
+    <Color Name="Alfalfa" Code="#B8B8A2" />
+    <Color Name="Cameo Green" Code="#A7C0AB" />
+    <Color Name="Spruce stone" Code="#9DBF9A" />
+    <Color Name="Meadow" Code="#8EB993" />
+    <Color Name="Peapod" Code="#7EAF81" />
+    <Color Name="Zephyr Green" Code="#79AF80" />
+    <Color Name="Absinthe Green" Code="#71B580" />
+    <Color Name="Spring Bud" Code="#70D2A2" />
+    <Color Name="Spring Bouquet" Code="#71D28C" />
+    <Color Name="Abbey Stone" Code="#AAA694" />
+    <Color Name="Dove" Code="#B1ABA5" />
+    <Color Name="Green Flash" Code="#75C853" />
+    <Color Name="Spray Green" Code="#B0A893" />
+    <Color Name="Sage Green" Code="#B1AB84" />
+    <Color Name="Tarragon" Code="#A2AD76" />
+    <Color Name="Leaf Green" Code="#A1AF6B" />
+    <Color Name="Herbal Garden" Code="#97AD5C" />
+    <Color Name="Parrot Green" Code="#8FB052" />
+    <Color Name="Greenery" Code="#89AF4C" />
+    <Color Name="Eucalyptus" Code="#B0AA93" />
+    <Color Name="Pale Olive Green" Code="#B3AB83" />
+    <Color Name="Winter Pear" Code="#AFB282" />
+    <Color Name="Weeping Willow" Code="#B0AF79" />
+    <Color Name="Sweet Pea" Code="#A2A867" />
+    <Color Name="Linden Green" Code="#C2BE6C" />
+    <Color Name="Palm" Code="#AFB059" />
+    <Color Name="Green Oasis" Code="#ACB252" />
+    <Color Name="Apple Green" Code="#B3B43E" />
+    <Color Name="Jasmine Green" Code="#83C945" />
+    <Color Name="Citronelle" Code="#B5AC20" />
+    <Color Name="Leek Green" Code="#B7B277" />
+    <Color Name="Golden Green" Code="#BCB364" />
+    <Color Name="Cress Green" Code="#BFAE47" />
+    <Color Name="Warm Olive" Code="#C5B235" />
+    <Color Name="Ashes of Roses" Code="#B5ADAB" />
+    <Color Name="Silver Fern" Code="#BCAC7F" />
+    <Color Name="Southern Moss" Code="#C0AA6C" />
+    <Color Name="Olivenite" Code="#C2AA62" />
+    <Color Name="Oil Yellow" Code="#C4A549" />
+    <Color Name="Lemon Curry" Code="#CBA120" />
+    <Color Name="Ceylon Yellow" Code="#D4AC39" />
+    <Color Name="Pale Gold" Code="#D5AC76" />
+    <Color Name="Sauterne" Code="#C39F4F" />
+    <Color Name="Chinese Yellow" Code="#C5963B" />
+    <Color Name="Golden Yellow" Code="#C68B17" />
+    <Color Name="Old Gold" Code="#EDAC13" />
+    <Color Name="Mineral Yellow" Code="#D39D41" />
+    <Color Name="Artisan's Gold" Code="#E8A23B" />
+    <Color Name="Golden Glow" Code="#DD9B36" />
+    <Color Name="Cadmium Yellow" Code="#F19D28" />
+    <Color Name="Radiant Yellow" Code="#F89B24" />
+    <Color Name="Gold Fusion" Code="#FFAD00" />
+    <Color Name="Safari" Code="#BCAB90" />
+    <Color Name="Taos Taupe" Code="#C0AB83" />
+    <Color Name="Fall Leaf" Code="#CAAA6C" />
+    <Color Name="Honey Gold" Code="#D4A04E" />
+    <Color Name="Chamois" Code="#F6B067" />
+    <Color Name="Buttersco h" Code="#E09640" />
+    <Color Name="Dark Cheddar" Code="#E2831C" />
+    <Color Name="Apricot" Code="#EF9337" />
+    <Color Name="Flame Orange" Code="#FA8B26" />
+    <Color Name="Blazing Orange" Code="#FFA84E" />
+    <Color Name="Bright Marigold" Code="#FF8F00" />
+    <Color Name="Candied Ginger" Code="#C0A786" />
+    <Color Name="Warm Sand" Code="#C5AE91" />
+    <Color Name="Sesame" Code="#BDA78E" />
+    <Color Name="Pale Khaki" Code="#C2B292" />
+    <Color Name="Mojave Desert" Code="#C9B796" />
+    <Color Name="Lattè" Code="#C8AA85" />
+    <Color Name="Sand" Code="#CDA981" />
+    <Color Name="Clay" Code="#D5A475" />
+    <Color Name="Gold Earth" Code="#DC9C69" />
+    <Color Name="Apricot Tan" Code="#DF9762" />
+    <Color Name="Canteloupe" Code="#FFA77B" />
+    <Color Name="Musk melon" Code="#EE9561" />
+    <Color Name="Mock Orange" Code="#FFA76B" />
+    <Color Name="Tangerine" Code="#F5925B" />
+    <Color Name="Autumn Glory" Code="#FF8C12" />
+    <Color Name="Feather Gray" Code="#BBB1A2" />
+    <Color Name="Oxford Tan" Code="#B8AA97" />
+    <Color Name="Doeskin" Code="#C1AF9C" />
+    <Color Name="MoonLight " Code="#C3AF9E" />
+    <Color Name="Cuban Sand" Code="#C7AA91" />
+    <Color Name="Rugby Tan" Code="#C8A895" />
+    <Color Name="Maple Sugar" Code="#CBA590" />
+    <Color Name="Sirocco" Code="#C49F87" />
+    <Color Name="Pink Sand" Code="#E0AE97" />
+    <Color Name="Almost Apricot" Code="#E6B49C" />
+    <Color Name="Dusty Coral" Code="#D29D83" />
+    <Color Name="Peach Bloom" Code="#DC9C7C" />
+    <Color Name="Coral Reef" Code="#FAA785" />
+    <Color Name="Canyon Sunset" Code="#E49478" />
+    <Color Name="Shell Coral" Code="#EA9877" />
+    <Color Name="Cadmium Orange" Code="#F59570" />
+    <Color Name="Coral Cloud" Code="#E5B1A6" />
+    <Color Name="Peach Amber" Code="#F89E92" />
+    <Color Name="Papaya Punch" Code="#FDA187" />
+    <Color Name="Desert Flower" Code="#FF9C8A" />
+    <Color Name="Mahogany Rose" Code="#C6A292" />
+    <Color Name="Misty Rose" Code="#CDA79D" />
+    <Color Name="Mellow Rose" Code="#DDA8A0" />
+    <Color Name="Peach Beige" Code="#D5A398" />
+    <Color Name="Shrimp" Code="#DF9A88" />
+    <Color Name="Peach Pink" Code="#F89885" />
+    <Color Name="Pale Mauve" Code="#C7A6A4" />
+    <Color Name="Bridal Rose" Code="#D8A3A3" />
+    <Color Name="Blush" Code="#D1969B" />
+    <Color Name="CandleLight Peach" Code="#F7A19D" />
+    <Color Name="Conch Shell" Code="#FA8F9B" />
+    <Color Name="Salmon Rose" Code="#FF8C95" />
+    <Color Name="Pink Icing" Code="#EFA1A6" />
+    <Color Name="Peony" Code="#ECA1AC" />
+    <Color Name="Flamingo Pink" Code="#F498A1" />
+    <Color Name="Burnished Lilac" Code="#C5AEB2" />
+    <Color Name="Zephyr" Code="#CBA2A8" />
+    <Color Name="Sea Pink" Code="#E199AC" />
+    <Color Name="Morning Glory" Code="#EE85A4" />
+    <Color Name="Geranium Pink" Code="#F492A1" />
+    <Color Name="Dawn Pink" Code="#C0A3B0" />
+    <Color Name="Orchid Smoke" Code="#D294AC" />
+    <Color Name="Rose bloom" Code="#E48EB2" />
+    <Color Name="Begonia Pink" Code="#ED9BBF" />
+    <Color Name="Sachet Pink" Code="#F38BB2" />
+    <Color Name="Aurora Pink" Code="#E782A9" />
+    <Color Name="Keepsake Lilac" Code="#C3A9B1" />
+    <Color Name="Violet Ice" Code="#C4B0B3" />
+    <Color Name="Fuchsia Pink" Code="#E18BB8" />
+    <Color Name="Lilac Chiffon" Code="#DF9FC8" />
+    <Color Name="Mauve Mist" Code="#C5A0B6" />
+    <Color Name="Orchid" Code="#D399C7" />
+    <Color Name="Orchid Bouquet" Code="#D1ADCF" />
+    <Color Name="Lavender Frost" Code="#BAA9BE" />
+    <Color Name="Fair Orchid" Code="#C2ABC1" />
+    <Color Name="Lavendula" Code="#BDA4CB" />
+    <Color Name="Cloud Gray" Code="#B7A9AC" />
+    <Color Name="Misty Lilac" Code="#BDB6C5" />
+    <Color Name="Lavender" Code="#B3A6D0" />
+    <Color Name="Cosmic Sky" Code="#ADADC6" />
+    <Color Name="Languid Lavender" Code="#A3A3BC" />
+    <Color Name="Kentucky Blue" Code="#A5B5CF" />
+    <Color Name="Serenity" Code="#91A8D0" />
+    <Color Name="Placid Blue" Code="#8DADD5" />
+    <Color Name="Vista Blue" Code="#84A3D7" />
+    <Color Name="Storm Gray" Code="#B3B8B5" />
+    <Color Name="Dream Blue" Code="#A0BDD0" />
+    <Color Name="Blue Fog" Code="#99AABB" />
+    <Color Name="Cerulean" Code="#99B4D4" />
+    <Color Name="High rise" Code="#AEB2B5" />
+    <Color Name="Angel Falls" Code="#A3BDD3" />
+    <Color Name="Alaskan Blue" Code="#6FABD3" />
+    <Color Name="Quarry" Code="#9AA3A7" />
+    <Color Name="Sterling Blue" Code="#A3BAC3" />
+    <Color Name="Forget Me Not" Code="#8EADBD" />
+    <Color Name="Air Blue" Code="#7BAEC9" />
+    <Color Name="Ethereal Blue" Code="#5DA7D0" />
+    <Color Name="Milky Blue" Code="#70A8BA" />
+    <Color Name="Blue Grotto" Code="#5EADD0" />
+    <Color Name="Norse Blue" Code="#50A6C9" />
+    <Color Name="Silver Cloud" Code="#BAB4AC" />
+    <Color Name="Chateau Gray" Code="#BAB1A8" />
+    <Color Name="Puritan Gray" Code="#A4ADAB" />
+    <Color Name="Mirage Gray" Code="#A7AEAC" />
+    <Color Name="Pigeon" Code="#ACB2AD" />
+    <Color Name="Gray Mist" Code="#9CAEAC" />
+    <Color Name="Blue Haze" Code="#9EB9B6" />
+    <Color Name="Marine Blue" Code="#74ADB7" />
+    <Color Name="Aqua Sea" Code="#6DAFB1" />
+    <Color Name="Aqua" Code="#64A3AE" />
+    <Color Name="River Blue" Code="#3AAFCC" />
+    <Color Name="Capri" Code="#43BCCB" />
+    <Color Name="Blue Curacao" Code="#03BAC6" />
+    <Color Name="Aqua Gray" Code="#A3B0A7" />
+    <Color Name="Aquifer" Code="#88ACAA" />
+    <Color Name="Aqua Haze" Code="#85B9BA" />
+    <Color Name="Nile Blue" Code="#74A8AB" />
+    <Color Name="Blue Turquoise" Code="#58B4B1" />
+    <Color Name="Pool Blue" Code="#6CBFBA" />
+    <Color Name="Florida Keys" Code="#50BEA9" />
+    <Color Name="Aqua Green" Code="#00BBA0" />
+    <Color Name="Atlantis" Code="#00B4A1" />
+    <Color Name="Waterfall" Code="#3DAEA2" />
+    <Color Name="Turquoise" Code="#48B6AA" />
+    <Color Name="Bright Green" Code="#009E5D" />
+    <Color Name="Mineral Gray" Code="#B0B5AA" />
+    <Color Name="Frosty Green" Code="#A2B4A4" />
+    <Color Name="Dusty Jade Green" Code="#7AB7A3" />
+    <Color Name="Biscay Green" Code="#51C3A5" />
+    <Color Name="Mint Leaf" Code="#00B692" />
+    <Color Name="Lichen" Code="#9AC0AD" />
+    <Color Name="Spearmint" Code="#62BDA1" />
+    <Color Name="Hemlock" Code="#97C1A2" />
+    <Color Name="Ming" Code="#7CB189" />
+    <Color Name="Jade Cream" Code="#63B991" />
+    <Color Name="Pussywillow Gray" Code="#B1AFA5" />
+    <Color Name="Agate Gray" Code="#B5B6A5" />
+    <Color Name="Swamp" Code="#ADB497" />
+    <Color Name="Laurel Green" Code="#AABA9F" />
+    <Color Name="Smoke Green" Code="#A6BCA3" />
+    <Color Name="Fair Green" Code="#93AE87" />
+    <Color Name="Quiet Green" Code="#A0BE98" />
+    <Color Name="Light Grass Green" Code="#7BB287" />
+    <Color Name="Irish Green" Code="#48C076" />
+    <Color Name="Moss Gray" Code="#A9A790" />
+    <Color Name="Reseda" Code="#A3B093" />
+    <Color Name="Forest Shade" Code="#8CAA7B" />
+    <Color Name="Green Tea" Code="#81A668" />
+    <Color Name="Shamrock" Code="#73A36A" />
+    <Color Name="Grass Green" Code="#7AB268" />
+    <Color Name="Bud Green" Code="#77B361" />
+    <Color Name="Paloma" Code="#A09D9A" />
+    <Color Name="Desert Sage" Code="#A5AC99" />
+    <Color Name="Tendril" Code="#8BA16C" />
+    <Color Name="London Fog" Code="#A49F92" />
+    <Color Name="Tea" Code="#9A9C85" />
+    <Color Name="Mistletoe" Code="#859C7B" />
+    <Color Name="Green Eyes" Code="#7B9369" />
+    <Color Name="Jade Green" Code="#759463" />
+    <Color Name="Macaw Green" Code="#9CB23A" />
+    <Color Name="Meadow Green" Code="#6D9454" />
+    <Color Name="Kiwi" Code="#7BAA56" />
+    <Color Name="Foliage" Code="#729E51" />
+    <Color Name="Sage" Code="#90926B" />
+    <Color Name="Fern" Code="#979D60" />
+    <Color Name="Dark Citron" Code="#9EA84A" />
+    <Color Name="Spinach Green" Code="#8C994A" />
+    <Color Name="Gray Green" Code="#A49A78" />
+    <Color Name="Cedar" Code="#918F63" />
+    <Color Name="Moss" Code="#9B9954" />
+    <Color Name="Oasis" Code="#A3A24B" />
+    <Color Name="Elm" Code="#A3A085" />
+    <Color Name="Willow" Code="#9A8D50" />
+    <Color Name="Golden Olive" Code="#AC963E" />
+    <Color Name="Slate Green" Code="#9B9476" />
+    <Color Name="Khaki" Code="#A18F5F" />
+    <Color Name="Antique Gold" Code="#B7A161" />
+    <Color Name="Burnished Gold" Code="#A89954" />
+    <Color Name="Green Sulphur" Code="#AE8E2F" />
+    <Color Name="Goat" Code="#A89E91" />
+    <Color Name="Rich Gold" Code="#C7B26F" />
+    <Color Name="Antique Moss" Code="#BA9E1B" />
+    <Color Name="Olive Oil" Code="#A98B30" />
+    <Color Name="Simply Taupe" Code="#AEA093" />
+    <Color Name="Croissant" Code="#C2A77F" />
+    <Color Name="Curry" Code="#BB9B6A" />
+    <Color Name="Taffy" Code="#C69B68" />
+    <Color Name="Tinsel" Code="#C3974E" />
+    <Color Name="Honey" Code="#B89037" />
+    <Color Name="Bright Gold" Code="#D1A04E" />
+    <Color Name="Harvest Gold" Code="#B48938" />
+    <Color Name="Narcissus" Code="#C19044" />
+    <Color Name="Nugget Gold" Code="#CA9927" />
+    <Color Name="Tawny Olive" Code="#C49527" />
+    <Color Name="Arrow wood" Code="#BB8A20" />
+    <Color Name="Incense" Code="#AE987B" />
+    <Color Name="Sunflower" Code="#D39031" />
+    <Color Name="Pure Cashmere" Code="#ADA396" />
+    <Color Name="Plaza Taupe" Code="#AB9F8E" />
+    <Color Name="Tuffet" Code="#A59987" />
+    <Color Name="Aluminum" Code="#9F9789" />
+    <Color Name="Twill" Code="#ACA084" />
+    <Color Name="Olive Gray" Code="#A89B7B" />
+    <Color Name="Sponge" Code="#A49976" />
+    <Color Name="Antelope" Code="#AC915E" />
+    <Color Name="Mustard Gold" Code="#B29054" />
+    <Color Name="Amber Gold" Code="#BD904C" />
+    <Color Name="Yam" Code="#D38B41" />
+    <Color Name="Golden Nugget" Code="#DE9C59" />
+    <Color Name="Honey Yellow" Code="#CA9354" />
+    <Color Name="Oak Buff" Code="#D19E62" />
+    <Color Name="Nugget" Code="#CF8A49" />
+    <Color Name="Topaz" Code="#D08242" />
+    <Color Name="Light Taupe" Code="#B09F8B" />
+    <Color Name="Nomad" Code="#B5A088" />
+    <Color Name="Tuscany" Code="#C09885" />
+    <Color Name="Café Crème" Code="#C89885" />
+    <Color Name="Roebuck" Code="#B89583" />
+    <Color Name="Sandstorm" Code="#BF8C68" />
+    <Color Name="Orange Ochre" Code="#DC783B" />
+    <Color Name="Russet Orange" Code="#E37723" />
+    <Color Name="Sun Orange" Code="#F38338" />
+    <Color Name="Harvest Pumpkin" Code="#D5672E" />
+    <Color Name="String" Code="#AFA69C" />
+    <Color Name="Natural" Code="#B0947F" />
+    <Color Name="Cornstalk" Code="#AA9478" />
+    <Color Name="Brush" Code="#B99B86" />
+    <Color Name="Warm Taupe" Code="#B79987" />
+    <Color Name="Nougat" Code="#BBA086" />
+    <Color Name="Macaroon" Code="#B58C72" />
+    <Color Name="Lark" Code="#B99D73" />
+    <Color Name="Copper" Code="#CB8661" />
+    <Color Name="Prairie Sand" Code="#B79967" />
+    <Color Name="Toasted Nut" Code="#C38867" />
+    <Color Name="Sandstone" Code="#C89070" />
+    <Color Name="Coral Haze" Code="#E59280" />
+    <Color Name="Muted Clay" Code="#D29583" />
+    <Color Name="Toast" Code="#CD9B7A" />
+    <Color Name="Pheasant" Code="#C88765" />
+    <Color Name="Doe" Code="#BB9269" />
+    <Color Name="Tan" Code="#BD9A76" />
+    <Color Name="Biscuit" Code="#B6865D" />
+    <Color Name="Coral Gold" Code="#D8855D" />
+    <Color Name="Copper Tan" Code="#E08D63" />
+    <Color Name="Brandied Melon" Code="#D08060" />
+    <Color Name="Butterum" Code="#C68D62" />
+    <Color Name="Buckskin" Code="#D28F54" />
+    <Color Name="Autumn Sunset" Code="#F48C57" />
+    <Color Name="Dusty Orange" Code="#E47F55" />
+    <Color Name="Golden Ochre" Code="#C97B45" />
+    <Color Name="Coral Rose" Code="#F0754B" />
+    <Color Name="Amber glow" Code="#DC7A43" />
+    <Color Name="Persimmon Orange" Code="#F4782E" />
+    <Color Name="Bird of Paradise" Code="#FF8D51" />
+    <Color Name="Orange Peel" Code="#FA7F39" />
+    <Color Name="Nectarine" Code="#FF8A59" />
+    <Color Name="Carrot" Code="#FC713F" />
+    <Color Name="Vermillion Orange" Code="#FD6839" />
+    <Color Name="Vibrant Orange" Code="#FF7625" />
+    <Color Name="Atmosphere" Code="#A59990" />
+    <Color Name="Cobblestone" Code="#A99B8C" />
+    <Color Name="Stucco" Code="#A78F81" />
+    <Color Name="Chanterelle" Code="#A68B77" />
+    <Color Name="Almondine" Code="#AC9283" />
+    <Color Name="Cork" Code="#BB8874" />
+    <Color Name="Sunburn" Code="#B57358" />
+    <Color Name="Canyon Clay" Code="#CF8577" />
+    <Color Name="Almond" Code="#A9774D" />
+    <Color Name="Coral Almond" Code="#E29A92" />
+    <Color Name="Carnelian" Code="#D07A5E" />
+    <Color Name="Caramel" Code="#C27A52" />
+    <Color Name="Langoustino" Code="#CA6D58" />
+    <Color Name="Arabesque" Code="#D16E51" />
+    <Color Name="Melon" Code="#F88966" />
+    <Color Name="Apricot Buff" Code="#CE7D4D" />
+    <Color Name="Burnt Orange" Code="#C76632" />
+    <Color Name="Flamingo" Code="#DF7153" />
+    <Color Name="Nasturtium" Code="#FB6648" />
+    <Color Name="Firecracker" Code="#F26C49" />
+    <Color Name="Jaffa Orange" Code="#DA6F3C" />
+    <Color Name="Mandarin Orange" Code="#EB6C38" />
+    <Color Name="Golden Poppy" Code="#F26B37" />
+    <Color Name="Bark" Code="#A99591" />
+    <Color Name="Adobe Rose" Code="#BC9E98" />
+    <Color Name="Shadow Gray" Code="#BDA6A1" />
+    <Color Name="Fawn" Code="#AE9591" />
+    <Color Name="Rose Tan" Code="#D09894" />
+    <Color Name="Cameo Brown" Code="#C28C82" />
+    <Color Name="Rosette" Code="#CC8A86" />
+    <Color Name="Lobster Bisque" Code="#E1958D" />
+    <Color Name="Rose Dawn" Code="#C5887E" />
+    <Color Name="Terra Cotta" Code="#D38277" />
+    <Color Name="Burnt Coral" Code="#EC8C80" />
+    <Color Name="Crabapple" Code="#D87D70" />
+    <Color Name="Coral" Code="#EC7766" />
+    <Color Name="Camellia" Code="#F47361" />
+    <Color Name="Fresh Salmon" Code="#FF836C" />
+    <Color Name="Fusion Coral" Code="#FF8673" />
+    <Color Name="Persimmon" Code="#F47A6A" />
+    <Color Name="Living Coral" Code="#FF7263" />
+    <Color Name="Brandied Apricot" Code="#CA868B" />
+    <Color Name="Mauveglow" Code="#D1878D" />
+    <Color Name="Tea Rose" Code="#DD717A" />
+    <Color Name="Lantana" Code="#DB7F7B" />
+    <Color Name="Peach Blossom" Code="#E08185" />
+    <Color Name="Shell Pink" Code="#F58281" />
+    <Color Name="Sugar Coral" Code="#F17079" />
+    <Color Name="Georgia Peach" Code="#F77475" />
+    <Color Name="Sphinx" Code="#AF9B96" />
+    <Color Name="Deauville Mauve" Code="#AF9193" />
+    <Color Name="Lilas" Code="#B98B98" />
+    <Color Name="Polignac" Code="#C1899A" />
+    <Color Name="Wild Rose" Code="#CF859A" />
+    <Color Name="Strawberry Ice" Code="#E6888F" />
+    <Color Name="Confetti" Code="#E5768D" />
+    <Color Name="Strawberry Pink" Code="#F87C8F" />
+    <Color Name="Pink Lemonade" Code="#F57491" />
+    <Color Name="Woodrose" Code="#B28F90" />
+    <Color Name="Orchid Haze" Code="#B2869C" />
+    <Color Name="Mauve Orchid" Code="#B58098" />
+    <Color Name="Wild Orchid" Code="#D976A2" />
+    <Color Name="Pink Carnation" Code="#EE7BA1" />
+    <Color Name="Azalea Pink" Code="#E66898" />
+    <Color Name="Cashmere Rose" Code="#CF859F" />
+    <Color Name="Moonlite Mauve" Code="#D392B3" />
+    <Color Name="Smoky Grape" Code="#BA8DB0" />
+    <Color Name="Crocus" Code="#C580AE" />
+    <Color Name="Opera Mauve" Code="#CD81B3" />
+    <Color Name="Cyclamen" Code="#DB8ABE" />
+    <Color Name="Mauve Shadows" Code="#B89BA6" />
+    <Color Name="Sea Fog" Code="#A894A0" />
+    <Color Name="Lavender Mist" Code="#B192A9" />
+    <Color Name="Lavender Herb" Code="#B48FAC" />
+    <Color Name="Violet" Code="#C182B7" />
+    <Color Name="Violet Tulle" Code="#C294C0" />
+    <Color Name="African Violet" Code="#B187B8" />
+    <Color Name="Lupine" Code="#C19EC3" />
+    <Color Name="Regal Orchid" Code="#AA8CB0" />
+    <Color Name="Sheer Lilac" Code="#BB97C5" />
+    <Color Name="Opal Gray" Code="#A7A09E" />
+    <Color Name="Ash" Code="#A29D9C" />
+    <Color Name="Gull Gray" Code="#A8A1A5" />
+    <Color Name="Wisteria" Code="#A299B1" />
+    <Color Name="Heirloom Lilac" Code="#9B95B1" />
+    <Color Name="Viola" Code="#A892BB" />
+    <Color Name="Violet Tulip" Code="#9C90C4" />
+    <Color Name="Dapple Gray" Code="#A09FAA" />
+    <Color Name="Lavender Aura" Code="#9F9AAA" />
+    <Color Name="Eventide" Code="#939DB7" />
+    <Color Name="Lavender Lustre" Code="#8D9EC3" />
+    <Color Name="Easter Egg" Code="#919CCC" />
+    <Color Name="Grapemist" Code="#869ACB" />
+    <Color Name="Thistle Down" Code="#949ABD" />
+    <Color Name="Sweet Lavender" Code="#9D9DC4" />
+    <Color Name="Dusty Blue" Code="#8C9DAE" />
+    <Color Name="Ashley Blue" Code="#879AAC" />
+    <Color Name="Forever Blue" Code="#899DBB" />
+    <Color Name="Della Robbia Blue" Code="#7A9ECB" />
+    <Color Name="Allure" Code="#708FB4" />
+    <Color Name="Cornflower Blue" Code="#7594CA" />
+    <Color Name="Provence" Code="#668FC6" />
+    <Color Name="Arona" Code="#869BA3" />
+    <Color Name="Stone Blue" Code="#819CA6" />
+    <Color Name="Dusk Blue" Code="#7A9FBD" />
+    <Color Name="Heritage Blue" Code="#629BC1" />
+    <Color Name="Little Boy Blue" Code="#6EA2D7" />
+    <Color Name="Bonnie Blue" Code="#55A1D1" />
+    <Color Name="Drizzle" Code="#9E9D99" />
+    <Color Name="Abyss" Code="#8C9C9C" />
+    <Color Name="Slate" Code="#8D9EA0" />
+    <Color Name="Tourmaline" Code="#88A2AB" />
+    <Color Name="Cameo Blue" Code="#78A0A9" />
+    <Color Name="Blue Mist" Code="#61ACC4" />
+    <Color Name="Horizon Blue" Code="#31A1C2" />
+    <Color Name="Delphinium Blue" Code="#629AAF" />
+    <Color Name="Maui Blue" Code="#53A3B7" />
+    <Color Name="Cyan Blue" Code="#0CA3C7" />
+    <Color Name="Aquarius" Code="#3CAFD6" />
+    <Color Name="Blue Atoll" Code="#00B3D8" />
+    <Color Name="Stillwater" Code="#6EA2AD" />
+    <Color Name="Reef Waters" Code="#6E9FA7" />
+    <Color Name="Limestone" Code="#999C99" />
+    <Color Name="Silver Blue" Code="#899999" />
+    <Color Name="Mineral Blue" Code="#6F9191" />
+    <Color Name="Porcelain" Code="#559BA2" />
+    <Color Name="Scuba Blue" Code="#00ADC4" />
+    <Color Name="Peacock Blue" Code="#00A2B2" />
+    <Color Name="Bluebird" Code="#009EB0" />
+    <Color Name="Blue Surf" Code="#91A8A2" />
+    <Color Name="Wasabi" Code="#70A59C" />
+    <Color Name="Canton" Code="#6EA09E" />
+    <Color Name="Dusty Turquoise" Code="#699EA1" />
+    <Color Name="Sea Blue" Code="#4C9B93" />
+    <Color Name="Meadow brook" Code="#599C9F" />
+    <Color Name="Baltic" Code="#219A9D" />
+    <Color Name="Ceramic" Code="#00ABA9" />
+    <Color Name="Jadeite" Code="#8FA198" />
+    <Color Name="Agate Green" Code="#609E99" />
+    <Color Name="Lagoon" Code="#499E98" />
+    <Color Name="Sea Green" Code="#0F9B86" />
+    <Color Name="Bright Aqua" Code="#2BA29A" />
+    <Color Name="Pool Green" Code="#00AF99" />
+    <Color Name="Billiard" Code="#00AB93" />
+    <Color Name="Peacock Green" Code="#00A687" />
+    <Color Name="Beryl Green" Code="#669489" />
+    <Color Name="Arcadia" Code="#00A28A" />
+    <Color Name="Marine Green" Code="#3F9F8B" />
+    <Color Name="Flint Gray" Code="#A19F99" />
+    <Color Name="Slate Gray" Code="#8B968F" />
+    <Color Name="Green Milieu" Code="#87958D" />
+    <Color Name="Lily Pad" Code="#829083" />
+    <Color Name="Iceberg Green" Code="#879A8C" />
+    <Color Name="Green Bay" Code="#7D9080" />
+    <Color Name="Feldspar" Code="#719887" />
+    <Color Name="Green Spruce" Code="#589D7F" />
+    <Color Name="Gumdrop Green" Code="#39A989" />
+    <Color Name="Wrought Iron" Code="#979F99" />
+    <Color Name="Granite Green" Code="#85A193" />
+    <Color Name="Malachite Green" Code="#6A9685" />
+    <Color Name="Crème de Menthe" Code="#70A38C" />
+    <Color Name="Winter Green" Code="#519F81" />
+    <Color Name="Ming Green" Code="#37A175" />
+    <Color Name="Holly Green" Code="#009C75" />
+    <Color Name="Mint" Code="#00A371" />
+    <Color Name="Blarney" Code="#00A777" />
+    <Color Name="Sea grass" Code="#8F9483" />
+    <Color Name="Katydid" Code="#63BA8E" />
+    <Color Name="Shale Green" Code="#738F70" />
+    <Color Name="Green briar" Code="#46976A" />
+    <Color Name="Kelly Green" Code="#309B5D" />
+    <Color Name="Basil" Code="#839C81" />
+    <Color Name="Island Green" Code="#29B067" />
+    <Color Name="Mineral Green" Code="#799B77" />
+    <Color Name="Jadesheen" Code="#749F74" />
+    <Color Name="Peppermint" Code="#6A9A6A" />
+    <Color Name="Vibrant Green" Code="#55A85C" />
+    <Color Name="Classic Green" Code="#3CAA46" />
+    <Color Name="Poison Green" Code="#4FB763" />
+    <Color Name="Frost Gray" Code="#868486" />
+    <Color Name="Oil Green" Code="#7E866D" />
+    <Color Name="Turf Green" Code="#6E8C6A" />
+    <Color Name="Stone Green" Code="#628D66" />
+    <Color Name="Fluorite Green" Code="#648E53" />
+    <Color Name="Online Lime" Code="#47873B" />
+    <Color Name="Elephant Skin" Code="#948F88" />
+    <Color Name="Rock Ridge" Code="#8F8D83" />
+    <Color Name="Loden Frost" Code="#758C71" />
+    <Color Name="Aspen Green" Code="#7F9A73" />
+    <Color Name="Watercress" Code="#728B6A" />
+    <Color Name="Forest Green" Code="#6A8D52" />
+    <Color Name="Piquant Green" Code="#708F52" />
+    <Color Name="Epsom" Code="#819160" />
+    <Color Name="Turtle Green" Code="#7C8549" />
+    <Color Name="Peridot" Code="#809345" />
+    <Color Name="Silver Sage" Code="#938D79" />
+    <Color Name="Dusky Green" Code="#77705B" />
+    <Color Name="Mosstone" Code="#838961" />
+    <Color Name="Green Olive" Code="#8A8751" />
+    <Color Name="Laurel Oak" Code="#8F8B7B" />
+    <Color Name="Vetiver" Code="#807C6E" />
+    <Color Name="Mermaid" Code="#7F7761" />
+    <Color Name="Aloe" Code="#7E775C" />
+    <Color Name="Boa" Code="#8D8660" />
+    <Color Name="Dried Herb" Code="#857B58" />
+    <Color Name="Green Moss" Code="#857B47" />
+    <Color Name="Taupe Gray" Code="#8E7D70" />
+    <Color Name="Ecru Olive" Code="#8F7B3C" />
+    <Color Name="Golden Palm" Code="#AC8B0F" />
+    <Color Name="Amber Green" Code="#9A823A" />
+    <Color Name="Bronze Mist" Code="#9D7E3E" />
+    <Color Name="Fossil" Code="#817163" />
+    <Color Name="Fennel Seed" Code="#988152" />
+    <Color Name="Dull Gold" Code="#886F45" />
+    <Color Name="Medal Bronze" Code="#937143" />
+    <Color Name="Chai Tea" Code="#B1832F" />
+    <Color Name="Dune" Code="#9A8D7A" />
+    <Color Name="Elmwood" Code="#89775B" />
+    <Color Name="Kelp" Code="#9C8A6C" />
+    <Color Name="Antique Bronze" Code="#937E57" />
+    <Color Name="Bistre" Code="#937244" />
+    <Color Name="Spruce Yellow" Code="#BF8947" />
+    <Color Name="Chipmunk" Code="#956D48" />
+    <Color Name="Apple Cinnamon" Code="#AF865A" />
+    <Color Name="Golden Oak" Code="#C3752A" />
+    <Color Name="Honey Mustard" Code="#B88D4F" />
+    <Color Name="Inca Gold" Code="#BB7B2C" />
+    <Color Name="Seneca Rock" Code="#998F7D" />
+    <Color Name="Chinchilla" Code="#A0927C" />
+    <Color Name="Coriander" Code="#93856F" />
+    <Color Name="Lead Gray" Code="#8A7860" />
+    <Color Name="Dijon" Code="#99764B" />
+    <Color Name="Bone Brown" Code="#9A7343" />
+    <Color Name="Wood Thrush" Code="#A67C41" />
+    <Color Name="Brown Sugar" Code="#A0744C" />
+    <Color Name="Cashew" Code="#A6734B" />
+    <Color Name="Hazel" Code="#AE7450" />
+    <Color Name="Amber Brown" Code="#A9694B" />
+    <Color Name="Moon Rock" Code="#968C85" />
+    <Color Name="Fungi" Code="#8F8177" />
+    <Color Name="Praline" Code="#AD8A74" />
+    <Color Name="Camel" Code="#B1856A" />
+    <Color Name="Tawny Birch" Code="#B38870" />
+    <Color Name="Tawny Brown" Code="#AD846E" />
+    <Color Name="Café au Lait" Code="#AD826C" />
+    <Color Name="Mocha Mousse" Code="#A67965" />
+    <Color Name="Timber Wolf" Code="#8F8070" />
+    <Color Name="Silver Mink" Code="#9C8C79" />
+    <Color Name="Sepia Tint" Code="#897560" />
+    <Color Name="Amphora" Code="#9D846E" />
+    <Color Name="Tannin" Code="#A88A6E" />
+    <Color Name="Wood smoke" Code="#947865" />
+    <Color Name="Burro" Code="#A18069" />
+    <Color Name="Tobacco Brown" Code="#957151" />
+    <Color Name="Indian Tan" Code="#AF8463" />
+    <Color Name="Lion" Code="#A27452" />
+    <Color Name="Bran" Code="#A87049" />
+    <Color Name="Adobe" Code="#A4633D" />
+    <Color Name="Tawny Orange" Code="#D5826C" />
+    <Color Name="Autumn Leaf" Code="#B6694C" />
+    <Color Name="Orange Popsicle" Code="#FF7614" />
+    <Color Name="Apricot Orange" Code="#C76739" />
+    <Color Name="Scarlet Ibis" Code="#F45520" />
+    <Color Name="Pine Bark" Code="#88766A" />
+    <Color Name="Beaver Fur" Code="#997867" />
+    <Color Name="Ginger Snap" Code="#9A8073" />
+    <Color Name="Raw Umber" Code="#937261" />
+    <Color Name="Brick Dust" Code="#B37169" />
+    <Color Name="Pecan Brown" Code="#A46F53" />
+    <Color Name="Raw Sienna" Code="#BA7252" />
+    <Color Name="Ginger" Code="#C96350" />
+    <Color Name="Mango" Code="#BA6042" />
+    <Color Name="Tigerlily" Code="#E45E3E" />
+    <Color Name="Flame" Code="#F35834" />
+    <Color Name="Red Orange" Code="#F05829" />
+    <Color Name="Steeple Gray" Code="#86817C" />
+    <Color Name="Wild Dove" Code="#8E8F8F" />
+    <Color Name="Cloudburst" Code="#888484" />
+    <Color Name="Quail" Code="#99868B" />
+    <Color Name="Cinder" Code="#8C817B" />
+    <Color Name="Antler" Code="#927874" />
+    <Color Name="Wistful Mauve" Code="#956E76" />
+    <Color Name="Nostalgia Rose" Code="#A6787E" />
+    <Color Name="Ash Rose" Code="#B4827F" />
+    <Color Name="Burl wood" Code="#986F6A" />
+    <Color Name="Old Rose" Code="#B47E7A" />
+    <Color Name="Canyon Rose" Code="#B26F6A" />
+    <Color Name="Mauve wood" Code="#AC5D67" />
+    <Color Name="Desert Sand" Code="#BE7C75" />
+    <Color Name="Cedar Wood" Code="#A4695E" />
+    <Color Name="Aragon" Code="#B16657" />
+    <Color Name="Mineral Red" Code="#B25357" />
+    <Color Name="Apricot Brandy" Code="#C46B5A" />
+    <Color Name="Burnt Sienna" Code="#C65A4F" />
+    <Color Name="Cranberry" Code="#BA494D" />
+    <Color Name="Emberglow" Code="#E9685A" />
+    <Color Name="Paprika" Code="#CB4F45" />
+    <Color Name="Grenadine" Code="#DC4234" />
+    <Color Name="Mandarin Red" Code="#EC4C34" />
+    <Color Name="Cherry Tomato" Code="#EE422B" />
+    <Color Name="Fiesta" Code="#E04233" />
+    <Color Name="Elderberry" Code="#9D828C" />
+    <Color Name="Heather Rose" Code="#AD6D7F" />
+    <Color Name="Dusky Orchid" Code="#9F7685" />
+    <Color Name="Mellow Mauve" Code="#996278" />
+    <Color Name="Deco Rose" Code="#9B6069" />
+    <Color Name="Rose Wine" Code="#A6586E" />
+    <Color Name="Holly Berry" Code="#B64C5D" />
+    <Color Name="Rose of Sharon" Code="#DD5C63" />
+    <Color Name="Chrysanthemum" Code="#BC4651" />
+    <Color Name="Porcelain Rose" Code="#E8696B" />
+    <Color Name="Spiced Coral" Code="#D86060" />
+    <Color Name="Dubarry" Code="#F0636B" />
+    <Color Name="Poinsettia" Code="#CA3745" />
+    <Color Name="Hot Coral" Code="#F25A56" />
+    <Color Name="Bitter sweet" Code="#D53844" />
+    <Color Name="Poppy Red" Code="#DE353E" />
+    <Color Name="Bordeaux" Code="#9A6780" />
+    <Color Name="Dusty Rose" Code="#B97A80" />
+    <Color Name="Malaga" Code="#9F506A" />
+    <Color Name="Sunkist Coral" Code="#E76979" />
+    <Color Name="Claret Red" Code="#C64C62" />
+    <Color Name="Calypso Coral" Code="#ED6175" />
+    <Color Name="Geranium" Code="#DD3D58" />
+    <Color Name="Paradise Pink" Code="#E64661" />
+    <Color Name="Red Violet" Code="#A65A79" />
+    <Color Name="Carmine" Code="#BA476A" />
+    <Color Name="Azalea" Code="#D42B57" />
+    <Color Name="Fruit Dove" Code="#CE5B78" />
+    <Color Name="Desert Rose" Code="#D06877" />
+    <Color Name="Bubblegum" Code="#E9748E" />
+    <Color Name="Rapture Rose" Code="#D0657B" />
+    <Color Name="Camellia Rose" Code="#F06285" />
+    <Color Name="Hot Pink" Code="#EA5987" />
+    <Color Name="Fuchsia Rose" Code="#C74378" />
+    <Color Name="Fandango Pink" Code="#E05080" />
+    <Color Name="Pink Yarrow" Code="#CE3175" />
+    <Color Name="Magenta" Code="#D3407B" />
+    <Color Name="Chateau Rose" Code="#D27492" />
+    <Color Name="Shocking Pink" Code="#DC5E90" />
+    <Color Name="Lilac Rose" Code="#BE4577" />
+    <Color Name="Carmine Rose" Code="#E45790" />
+    <Color Name="Ibis Rose" Code="#CB6291" />
+    <Color Name="Zinc" Code="#938989" />
+    <Color Name="Dahlia Mauve" Code="#A65282" />
+    <Color Name="Rose Violet" Code="#C0498B" />
+    <Color Name="Super Pink" Code="#D16DA7" />
+    <Color Name="Phlox Pink" Code="#D55EA1" />
+    <Color Name="Mulberry" Code="#AA6E9A" />
+    <Color Name="Spring Crocus" Code="#BD6CA4" />
+    <Color Name="Rosebud" Code="#B95C9D" />
+    <Color Name="Bodacious" Code="#B76BA3" />
+    <Color Name="Dusty Lavender" Code="#A0749C" />
+    <Color Name="Iris Orchid" Code="#AA66A6" />
+    <Color Name="Valerian" Code="#A07B94" />
+    <Color Name="Orchid Mist" Code="#917798" />
+    <Color Name="Chalk Violet" Code="#8F7BA4" />
+    <Color Name="Hyacinth" Code="#916CA6" />
+    <Color Name="Amethyst Orchid" Code="#9368A8" />
+    <Color Name="Bougainvillea" Code="#9985BB" />
+    <Color Name="Paisley Purple" Code="#8C78B1" />
+    <Color Name="Gull" Code="#918C90" />
+    <Color Name="Nirvana" Code="#A1919B" />
+    <Color Name="Purple Ash" Code="#918496" />
+    <Color Name="Dusk" Code="#8B819A" />
+    <Color Name="Daybreak" Code="#8880A0" />
+    <Color Name="Aster Purple" Code="#7E75A8" />
+    <Color Name="Dahlia Purple" Code="#7F6FAD" />
+    <Color Name="Minimal Gray" Code="#958E9A" />
+    <Color Name="Lavender Gray" Code="#988FA2" />
+    <Color Name="Sharkskin" Code="#838487" />
+    <Color Name="Tempest" Code="#7C869D" />
+    <Color Name="Stone wash" Code="#76829C" />
+    <Color Name="Country Blue" Code="#72809C" />
+    <Color Name="Purple Impression" Code="#8690B3" />
+    <Color Name="English Manor" Code="#7282A4" />
+    <Color Name="Blue Ice" Code="#71799D" />
+    <Color Name="Colony Blue" Code="#67789B" />
+    <Color Name="Lavender Violet" Code="#777CA4" />
+    <Color Name="Persian Violet" Code="#8D8DB3" />
+    <Color Name="Jacaranda" Code="#8590C8" />
+    <Color Name="Deep Periwinkle" Code="#7A83BC" />
+    <Color Name="Persian Jewel" Code="#6D84C0" />
+    <Color Name="Blue Bonnet" Code="#6788BE" />
+    <Color Name="Infinity" Code="#6F7F9A" />
+    <Color Name="Blue Shadow" Code="#68839E" />
+    <Color Name="Faded Denim" Code="#7B90A8" />
+    <Color Name="Blue Heaven" Code="#5F7F98" />
+    <Color Name="Riviera" Code="#5779A3" />
+    <Color Name="Silver Lake Blue" Code="#638BBB" />
+    <Color Name="Ultramarine" Code="#597DBC" />
+    <Color Name="Marina" Code="#5689C9" />
+    <Color Name="Citadel" Code="#758A95" />
+    <Color Name="Niagara" Code="#5A89A5" />
+    <Color Name="Cendre Blue" Code="#447FA6" />
+    <Color Name="Azure Blue" Code="#4D90C7" />
+    <Color Name="Diva Blue" Code="#007CB8" />
+    <Color Name="Adriatic Blue" Code="#5F8C9E" />
+    <Color Name="Blue Moon" Code="#3986A3" />
+    <Color Name="Blithe" Code="#0E8AC0" />
+    <Color Name="Neutral Gray" Code="#8C8E8C" />
+    <Color Name="Monument" Code="#82888A" />
+    <Color Name="Lead" Code="#7A898F" />
+    <Color Name="Smoke Blue" Code="#6A8790" />
+    <Color Name="Larkspur" Code="#3C7D90" />
+    <Color Name="Bluejay" Code="#1E81A4" />
+    <Color Name="Vivid Blue" Code="#0088B1" />
+    <Color Name="Dresden Blue" Code="#0089BE" />
+    <Color Name="Malibu Blue" Code="#008FC5" />
+    <Color Name="Blue Danube" Code="#0088B6" />
+    <Color Name="Hawaiian Ocean" Code="#0092C1" />
+    <Color Name="Storm Blue" Code="#457B8A" />
+    <Color Name="Pagoda Blue" Code="#147E8D" />
+    <Color Name="Algiers Blue" Code="#008297" />
+    <Color Name="Caneel Bay" Code="#0087A0" />
+    <Color Name="Capri Breeze" Code="#00889C" />
+    <Color Name="Bristol Blue" Code="#569091" />
+    <Color Name="Arctic" Code="#658689" />
+    <Color Name="Teal" Code="#4A8589" />
+    <Color Name="Lake Blue" Code="#008B96" />
+    <Color Name="Teal Blue" Code="#007A79" />
+    <Color Name="Navigate" Code="#008683" />
+    <Color Name="Deep Peacock Blue" Code="#008382" />
+    <Color Name="Lapis" Code="#008988" />
+    <Color Name="Griffin" Code="#8B8E8E" />
+    <Color Name="Chinois Green" Code="#7A8A83" />
+    <Color Name="Trellis" Code="#678585" />
+    <Color Name="Oil Blue" Code="#628D89" />
+    <Color Name="Green Blue Slate" Code="#357E82" />
+    <Color Name="Latigo Bay" Code="#36908F" />
+    <Color Name="Viridian Green" Code="#009395" />
+    <Color Name="Columbia" Code="#009086" />
+    <Color Name="Dynasty Green" Code="#008F80" />
+    <Color Name="Spectra Green" Code="#009B8B" />
+    <Color Name="Porcelain Green" Code="#1A857F" />
+    <Color Name="Alhambra" Code="#008572" />
+    <Color Name="Deep Sea" Code="#4D7B74" />
+    <Color Name="Green lake" Code="#007C68" />
+    <Color Name="Deep Green" Code="#008F73" />
+    <Color Name="Vivid Green" Code="#00A080" />
+    <Color Name="Emerald" Code="#009370" />
+    <Color Name="Bottle Green" Code="#407C6C" />
+    <Color Name="Viridis" Code="#008267" />
+    <Color Name="Parakeet" Code="#008D68" />
+    <Color Name="Dark Ivy" Code="#5C7761" />
+    <Color Name="Pine Green" Code="#397A5F" />
+    <Color Name="Simply Green" Code="#009A72" />
+    <Color Name="Deep Mint" Code="#00A16F" />
+    <Color Name="Laurel Wreath" Code="#616E64" />
+    <Color Name="Jelly Bean" Code="#008555" />
+    <Color Name="Fern Green" Code="#008E47" />
+    <Color Name="Shadow" Code="#888D81" />
+    <Color Name="Sea Spray" Code="#6C7C6A" />
+    <Color Name="Deep Grass Green" Code="#568468" />
+    <Color Name="Medium Green" Code="#4F8454" />
+    <Color Name="Kashmir" Code="#6C8C67" />
+    <Color Name="Hedge Green" Code="#71856D" />
+    <Color Name="Mint Green" Code="#4E7E4D" />
+    <Color Name="Smoked Pearl" Code="#6C6B6D" />
+    <Color Name="Dill" Code="#5D714F" />
+    <Color Name="English Ivy" Code="#62845B" />
+    <Color Name="Vineyard Green" Code="#5D7252" />
+    <Color Name="Willow Bough" Code="#59754E" />
+    <Color Name="Elm Green" Code="#567254" />
+    <Color Name="Artichoke Green" Code="#496C3E" />
+    <Color Name="Cactus" Code="#506F3C" />
+    <Color Name="Treetop" Code="#4A6C31" />
+    <Color Name="Castle rock" Code="#636568" />
+    <Color Name="Mayfly" Code="#65663F" />
+    <Color Name="Pesto" Code="#585F32" />
+    <Color Name="Gunmetal" Code="#5F5F5C" />
+    <Color Name="Deep Lichen Green" Code="#6B6C5B" />
+    <Color Name="Olivine" Code="#686D54" />
+    <Color Name="Bronze Green" Code="#535F47" />
+    <Color Name="Cypress" Code="#53593E" />
+    <Color Name="Calliste Green" Code="#73794C" />
+    <Color Name="Cedar Green" Code="#616836" />
+    <Color Name="Grasshopper" Code="#727C47" />
+    <Color Name="Dark Gull Gray" Code="#625E5D" />
+    <Color Name="Four Leaf Clover" Code="#5D624E" />
+    <Color Name="Loden Green" Code="#6B7051" />
+    <Color Name="Capulet Olive" Code="#696848" />
+    <Color Name="Avocado" Code="#635D2E" />
+    <Color Name="Calla Green" Code="#696E31" />
+    <Color Name="Gargoyle" Code="#6B6A69" />
+    <Color Name="Castor Gray" Code="#6B6E68" />
+    <Color Name="Bungee Cord" Code="#6C635A" />
+    <Color Name="Dusty Olive" Code="#636355" />
+    <Color Name="Burnt Olive" Code="#68664E" />
+    <Color Name="Iguana" Code="#818455" />
+    <Color Name="Olive Branch" Code="#6B6B43" />
+    <Color Name="Woodbine" Code="#7D8033" />
+    <Color Name="Charcoal Gray" Code="#72706F" />
+    <Color Name="Stone Gray" Code="#686251" />
+    <Color Name="Covert Green" Code="#817762" />
+    <Color Name="Olive Drab" Code="#766D47" />
+    <Color Name="Fir Green" Code="#655527" />
+    <Color Name="Lizard" Code="#786943" />
+    <Color Name="Gothic Olive" Code="#7F6F4F" />
+    <Color Name="Capers" Code="#6B614B" />
+    <Color Name="Nutria" Code="#6F603A" />
+    <Color Name="Butter nut" Code="#7B633E" />
+    <Color Name="Plantation" Code="#786231" />
+    <Color Name="Dried Tobacco" Code="#987A31" />
+    <Color Name="Tapenade" Code="#7C5C22" />
+    <Color Name="Kangaroo" Code="#746045" />
+    <Color Name="Sepia" Code="#6D5840" />
+    <Color Name="Coffee Liqueúr" Code="#6C523A" />
+    <Color Name="Rubber" Code="#825E3B" />
+    <Color Name="Buckthorn Brown" Code="#A97222" />
+    <Color Name="Bronze Brown" Code="#835E2F" />
+    <Color Name="Cumin" Code="#8E6E3C" />
+    <Color Name="Golden Brown" Code="#90642A" />
+    <Color Name="Cathay Spice" Code="#9C662C" />
+    <Color Name="Shitake" Code="#766453" />
+    <Color Name="Cub" Code="#6C5C4A" />
+    <Color Name="Otter" Code="#816951" />
+    <Color Name="Ermine" Code="#856C4F" />
+    <Color Name="Bison" Code="#6B4E3A" />
+    <Color Name="Thrush" Code="#956C53" />
+    <Color Name="Toffee" Code="#76523A" />
+    <Color Name="Dachshund" Code="#76553C" />
+    <Color Name="Monk's Robe" Code="#724823" />
+    <Color Name="Brindle" Code="#857A6E" />
+    <Color Name="Walnut" Code="#7C6F62" />
+    <Color Name="Partridge" Code="#725340" />
+    <Color Name="Aztec" Code="#785646" />
+    <Color Name="Rawhide" Code="#895F49" />
+    <Color Name="Mocha Bisque" Code="#8F563A" />
+    <Color Name="Leather Brown" Code="#96562C" />
+    <Color Name="Caramel Cafe" Code="#864C24" />
+    <Color Name="Glazed Ginger" Code="#93582E" />
+    <Color Name="Sudan Brown" Code="#AB6B29" />
+    <Color Name="Cocoa Brown" Code="#6F5142" />
+    <Color Name="Carob Brown" Code="#895D4B" />
+    <Color Name="Coconut Shell" Code="#854C3B" />
+    <Color Name="Russet" Code="#916051" />
+    <Color Name="Rustic Brown" Code="#8A5242" />
+    <Color Name="Sierra" Code="#9D5F44" />
+    <Color Name="Brown Patina" Code="#88523D" />
+    <Color Name="Ginger Bread" Code="#8C4A2F" />
+    <Color Name="Rust" Code="#B55930" />
+    <Color Name="Bombay Brown" Code="#9E4F2E" />
+    <Color Name="Iron" Code="#756462" />
+    <Color Name="Deep Taupe" Code="#78615B" />
+    <Color Name="Acorn" Code="#806155" />
+    <Color Name="Clove" Code="#896256" />
+    <Color Name="Brownie" Code="#927365" />
+    <Color Name="Nutmeg" Code="#7E5B53" />
+    <Color Name="Copper Brown" Code="#996051" />
+    <Color Name="Auburn" Code="#9E5745" />
+    <Color Name="Bruschetta" Code="#A95A4C" />
+    <Color Name="Burnt Brick" Code="#A34F3C" />
+    <Color Name="Burnt Ochre" Code="#B64F33" />
+    <Color Name="Sparrow" Code="#695A5D" />
+    <Color Name="Flint" Code="#6F5660" />
+    <Color Name="Peppercorn" Code="#6B5656" />
+    <Color Name="Plum Wine" Code="#6A4753" />
+    <Color Name="Marron" Code="#6F4E4B" />
+    <Color Name="Crushed Berry" Code="#804E59" />
+    <Color Name="Wild Ginger" Code="#7E4C51" />
+    <Color Name="Cognac" Code="#8C645B" />
+    <Color Name="Mahogany" Code="#834D48" />
+    <Color Name="Apple Butter" Code="#864C4D" />
+    <Color Name="Chutney" Code="#995A4D" />
+    <Color Name="Etruscan Red" Code="#A2564C" />
+    <Color Name="Withered Rose" Code="#A46869" />
+    <Color Name="Light Mahogany" Code="#B2726A" />
+    <Color Name="Marsala" Code="#98514E" />
+    <Color Name="Baked Clay" Code="#9E5844" />
+    <Color Name="Red Ochre" Code="#923A30" />
+    <Color Name="Redwood" Code="#A65A4E" />
+    <Color Name="Tandori Spice" Code="#A14741" />
+    <Color Name="Spicy Orange" Code="#DA4427" />
+    <Color Name="Orange Rust" Code="#C55E3E" />
+    <Color Name="Chili" Code="#C05443" />
+    <Color Name="Ke hup" Code="#97372E" />
+    <Color Name="Mecca Orange" Code="#BD5D44" />
+    <Color Name="Autumn Glaze" Code="#B35841" />
+    <Color Name="Red Clay" Code="#C3472D" />
+    <Color Name="Rose Brown" Code="#825659" />
+    <Color Name="Barn Red" Code="#8D413B" />
+    <Color Name="Ginger Spice" Code="#BC614E" />
+    <Color Name="Tabasco" Code="#AF5445" />
+    <Color Name="Copper Coin" Code="#BA6851" />
+    <Color Name="Cinnabar" Code="#9E463B" />
+    <Color Name="Bossa Nova" Code="#983B36" />
+    <Color Name="Aurora Red" Code="#BC3B35" />
+    <Color Name="Molten Lava" Code="#B83A3A" />
+    <Color Name="Orange.com" Code="#DA361D" />
+    <Color Name="Rose Taupe" Code="#7F5E61" />
+    <Color Name="Renaissance Rose" Code="#8A5761" />
+    <Color Name="Nocturne" Code="#7C4C56" />
+    <Color Name="Roan Rouge" Code="#8A5056" />
+    <Color Name="Maroon" Code="#854654" />
+    <Color Name="Faded Rose" Code="#BD6364" />
+    <Color Name="Dusty Cedar" Code="#AC615F" />
+    <Color Name="Earth Red" Code="#94424E" />
+    <Color Name="Garnet Rose" Code="#AF4D58" />
+    <Color Name="Baroque Rose" Code="#B65B68" />
+    <Color Name="Slate Rose" Code="#B75A67" />
+    <Color Name="Cardinal" Code="#AD3A46" />
+    <Color Name="Baked Apple" Code="#B14647" />
+    <Color Name="Deep Sea Coral" Code="#DA605D" />
+    <Color Name="Cayenne" Code="#E04E54" />
+    <Color Name="Rococco Red" Code="#BF3742" />
+    <Color Name="Mars Red" Code="#B82D36" />
+    <Color Name="Pompeian Red" Code="#A62D30" />
+    <Color Name="Goji Berry" Code="#B91228" />
+    <Color Name="Tomato" Code="#CE2B3C" />
+    <Color Name="Tomato Puree" Code="#C43748" />
+    <Color Name="Flame Scarlet" Code="#D1232C" />
+    <Color Name="Chinese Red" Code="#BC112D" />
+    <Color Name="Fiery Red" Code="#D32023" />
+    <Color Name="Shark" Code="#6D656B" />
+    <Color Name="Black Plum" Code="#6B5664" />
+    <Color Name="Tulip wood" Code="#815366" />
+    <Color Name="Grape Nectar" Code="#915F76" />
+    <Color Name="Damson" Code="#854B64" />
+    <Color Name="Hawthorn Rose" Code="#894C5D" />
+    <Color Name="Violet Quartz" Code="#8A4661" />
+    <Color Name="Dry Rose" Code="#8F475A" />
+    <Color Name="Raspberry Wine" Code="#B33753" />
+    <Color Name="Raspberry" Code="#DA275D" />
+    <Color Name="Rouge Red" Code="#E83E64" />
+    <Color Name="Teaberry" Code="#DC3957" />
+    <Color Name="Barberry" Code="#BC1444" />
+    <Color Name="Ski Patrol" Code="#BD043B" />
+    <Color Name="Hibiscus" Code="#DC3447" />
+    <Color Name="High Risk Red" Code="#CB1E2F" />
+    <Color Name="Lollipop" Code="#CC1039" />
+    <Color Name="TwiLight Mauve" Code="#8A6D6F" />
+    <Color Name="Rose Red" Code="#C62353" />
+    <Color Name="Virtual Pink" Code="#C9004A" />
+    <Color Name="Bright Rose" Code="#C31658" />
+    <Color Name="Beaujolais" Code="#83304C" />
+    <Color Name="Raspberry Sorbet" Code="#CF376D" />
+    <Color Name="Grape Shake" Code="#896A72" />
+    <Color Name="Honeysuckle" Code="#D74F72" />
+    <Color Name="Pink Flambé" Code="#D1537D" />
+    <Color Name="Beetroot Purple" Code="#CC296E" />
+    <Color Name="Clover" Code="#8B3471" />
+    <Color Name="Cactus Flower" Code="#AC4171" />
+    <Color Name="Fuchsia Red" Code="#AE3676" />
+    <Color Name="Raspberry Rose" Code="#CC4089" />
+    <Color Name="Very Berry" Code="#BA3478" />
+    <Color Name="Fuchsia Purple" Code="#D2377A" />
+    <Color Name="Magenta Haze" Code="#9F4571" />
+    <Color Name="Baton Rouge" Code="#9A3D6E" />
+    <Color Name="Purple Wine" Code="#8C3172" />
+    <Color Name="Argyle Purple" Code="#895B78" />
+    <Color Name="Purple Gumdrop" Code="#7A586F" />
+    <Color Name="Berry Conserve" Code="#775269" />
+    <Color Name="Grape Kiss" Code="#7B4368" />
+    <Color Name="Amethyst" Code="#854D76" />
+    <Color Name="Deep Orchid" Code="#914077" />
+    <Color Name="Striking Purple" Code="#974D86" />
+    <Color Name="Purple Orchid" Code="#B14D91" />
+    <Color Name="Grapeade" Code="#83667B" />
+    <Color Name="Concord Grape" Code="#7C5179" />
+    <Color Name="Very Grape" Code="#8F6E85" />
+    <Color Name="Radiant Orchid" Code="#AF619C" />
+    <Color Name="Meadow Mauve" Code="#A6548A" />
+    <Color Name="Dahlia" Code="#864284" />
+    <Color Name="Hyacinth Violet" Code="#91498C" />
+    <Color Name="Vivid Viola" Code="#9D3B81" />
+    <Color Name="Vintage Violet" Code="#635061" />
+    <Color Name="Grape Jam" Code="#745873" />
+    <Color Name="Chinese Violet" Code="#835E82" />
+    <Color Name="Grape Compote" Code="#6E5977" />
+    <Color Name="Patrician Purple" Code="#6F4F7B" />
+    <Color Name="Purple Heart" Code="#745588" />
+    <Color Name="Crushed Grape" Code="#7A5681" />
+    <Color Name="Royal Lilac" Code="#764C8F" />
+    <Color Name="Dewberry" Code="#8C5798" />
+    <Color Name="Imperial Palace" Code="#604E79" />
+    <Color Name="Deep Lavender" Code="#785599" />
+    <Color Name="Gray Ridge" Code="#837885" />
+    <Color Name="Purple Sage" Code="#75697D" />
+    <Color Name="Mulled Grape" Code="#635770" />
+    <Color Name="Montana Grape" Code="#6C5A72" />
+    <Color Name="Purple Haze" Code="#807297" />
+    <Color Name="Passion Flower" Code="#6D5699" />
+    <Color Name="Cadet" Code="#696278" />
+    <Color Name="Heron" Code="#626280" />
+    <Color Name="TwiLight Purple" Code="#67648B" />
+    <Color Name="Corsican Blue" Code="#646094" />
+    <Color Name="Dusted Peri" Code="#6A6B9E" />
+    <Color Name="Veronica" Code="#6F6797" />
+    <Color Name="Ultra Violet" Code="#63528E" />
+    <Color Name="Purple Opulence" Code="#61569D" />
+    <Color Name="Excalibur" Code="#646167" />
+    <Color Name="Folkstone Gray" Code="#656A7A" />
+    <Color Name="Flint Stone" Code="#6C7685" />
+    <Color Name="China Blue" Code="#536578" />
+    <Color Name="Coastal Fjord" Code="#4D5D7F" />
+    <Color Name="Bijou Blue" Code="#4E5E7E" />
+    <Color Name="Coronet Blue" Code="#57718E" />
+    <Color Name="Velvet Morning" Code="#61688C" />
+    <Color Name="Du h Blue" Code="#4C658E" />
+    <Color Name="Bleached Denim" Code="#66719D" />
+    <Color Name="Marlin" Code="#545C86" />
+    <Color Name="Wedge wood" Code="#647AB3" />
+    <Color Name="Blue Yonder" Code="#5976A7" />
+    <Color Name="Blue Iris" Code="#5D5DA3" />
+    <Color Name="Violet Storm" Code="#5A619F" />
+    <Color Name="Amparo Blue" Code="#4963AB" />
+    <Color Name="Baja Blue" Code="#5D6EB2" />
+    <Color Name="Dazzling Blue" Code="#3A53A3" />
+    <Color Name="Spectrum Blue" Code="#3B3B7E" />
+    <Color Name="Steel Gray" Code="#6F6E71" />
+    <Color Name="Goblin Blue" Code="#5C6E73" />
+    <Color Name="Real Teal" Code="#3F5E74" />
+    <Color Name="Captain's Blue" Code="#57728C" />
+    <Color Name="Blue Ashes" Code="#395D76" />
+    <Color Name="Copen Blue" Code="#516B83" />
+    <Color Name="Stellar" Code="#45637D" />
+    <Color Name="MoonLight Blue" Code="#516886" />
+    <Color Name="Federal Blue" Code="#43628B" />
+    <Color Name="Deep Water" Code="#2A668F" />
+    <Color Name="Parisian Blue" Code="#537CA7" />
+    <Color Name="Regatta" Code="#497AB8" />
+    <Color Name="Star Sapphire" Code="#3A6293" />
+    <Color Name="Palace Blue" Code="#386DB1" />
+    <Color Name="Daphne" Code="#1A619D" />
+    <Color Name="Strong Blue" Code="#1F5FA4" />
+    <Color Name="Moon Mist" Code="#7F7F7C" />
+    <Color Name="French Blue" Code="#0976B5" />
+    <Color Name="Campanula" Code="#3471AD" />
+    <Color Name="Victoria Blue" Code="#195B9E" />
+    <Color Name="Blue Mirage" Code="#5F717E" />
+    <Color Name="Blue stone" Code="#546E80" />
+    <Color Name="Provincial Blue" Code="#59798F" />
+    <Color Name="Blue steel" Code="#38667F" />
+    <Color Name="Saxony Blue" Code="#27677F" />
+    <Color Name="Blue Sapphire" Code="#03577A" />
+    <Color Name="Faience" Code="#256B8D" />
+    <Color Name="Directoire Blue" Code="#0066A7" />
+    <Color Name="Brilliant Blue" Code="#0076B8" />
+    <Color Name="Blue Aster" Code="#007AB9" />
+    <Color Name="Aegean Blue" Code="#4D6E80" />
+    <Color Name="Swedish Blue" Code="#0081B1" />
+    <Color Name="Mediterranian Blue" Code="#1A79A5" />
+    <Color Name="Tapestry" Code="#406571" />
+    <Color Name="Turkish Tile" Code="#00698A" />
+    <Color Name="Cloisonné" Code="#007AB5" />
+    <Color Name="Trooper" Code="#66787B" />
+    <Color Name="Colonial Blue" Code="#2C636F" />
+    <Color Name="Caribbean Sea" Code="#00839F" />
+    <Color Name="Mosaic Blue" Code="#00728D" />
+    <Color Name="Celestial" Code="#046987" />
+    <Color Name="Blue Jewel" Code="#007DAF" />
+    <Color Name="Methyl Blue" Code="#0079AA" />
+    <Color Name="North Atlantic" Code="#526D6D" />
+    <Color Name="Stormy Sea" Code="#6E807F" />
+    <Color Name="Hydro" Code="#3D6571" />
+    <Color Name="Biscay Bay" Code="#007884" />
+    <Color Name="Harbor Blue" Code="#006B74" />
+    <Color Name="ENamel Blue" Code="#007C8F" />
+    <Color Name="Tile Blue" Code="#00858F" />
+    <Color Name="Deep Lake" Code="#006369" />
+    <Color Name="Tropical Green" Code="#008684" />
+    <Color Name="Fanfare" Code="#006C6E" />
+    <Color Name="Para sailing" Code="#00726A" />
+    <Color Name="Sedona Sage" Code="#696E6D" />
+    <Color Name="Sea Pine" Code="#4A6868" />
+    <Color Name="North Sea" Code="#386E6D" />
+    <Color Name="Bayou" Code="#23726F" />
+    <Color Name="Blue Grass" Code="#007D7A" />
+    <Color Name="Pewter" Code="#656565" />
+    <Color Name="Blue Spruce" Code="#496C66" />
+    <Color Name="Bayberry" Code="#275856" />
+    <Color Name="Alpine Green" Code="#005D55" />
+    <Color Name="Ultramarine Green" Code="#006C56" />
+    <Color Name="Silver Pine" Code="#4E6764" />
+    <Color Name="Antique Green" Code="#2B665D" />
+    <Color Name="Cadmium Green" Code="#006A5D" />
+    <Color Name="Balsam Green" Code="#536262" />
+    <Color Name="Brittany Blue" Code="#4B7F85" />
+    <Color Name="Dark Forest" Code="#52635C" />
+    <Color Name="Sagebrush Green" Code="#537470" />
+    <Color Name="Posy Green" Code="#335D53" />
+    <Color Name="Deep Jungle" Code="#336F6B" />
+    <Color Name="Tidepool" Code="#1A7068" />
+    <Color Name="Ivy" Code="#256F67" />
+    <Color Name="Fir" Code="#3C725F" />
+    <Color Name="Frosty Spruce" Code="#537F6C" />
+    <Color Name="Shady Glade" Code="#006E5B" />
+    <Color Name="Bosphorus" Code="#007558" />
+    <Color Name="Golf Green" Code="#008765" />
+    <Color Name="Smoke Pine" Code="#406356" />
+    <Color Name="Galapagos Green" Code="#2B655A" />
+    <Color Name="Pepper Green" Code="#007D5E" />
+    <Color Name="Garden Topiary" Code="#40534B" />
+    <Color Name="Duck Green" Code="#516658" />
+    <Color Name="Foliage Green" Code="#3E6F58" />
+    <Color Name="Leprechaun" Code="#2F845F" />
+    <Color Name="Amazon" Code="#197148" />
+    <Color Name="Myrtle" Code="#4E6A56" />
+    <Color Name="Comfrey" Code="#5D7A61" />
+    <Color Name="Fairway" Code="#426A4A" />
+    <Color Name="Juniper" Code="#3E7042" />
+    <Color Name="Raven" Code="#42403F" />
+    <Color Name="Gray Pinstripe" Code="#49494D" />
+    <Color Name="Garden Green" Code="#465B32" />
+    <Color Name="Jet Black" Code="#3C3838" />
+    <Color Name="Thyme" Code="#51584D" />
+    <Color Name="Beetle" Code="#555A4E" />
+    <Color Name="Black Forest" Code="#3E4C39" />
+    <Color Name="Chive" Code="#495233" />
+    <Color Name="Beluga" Code="#4B4944" />
+    <Color Name="Forest Night" Code="#424236" />
+    <Color Name="Duffel Bag" Code="#373C30" />
+    <Color Name="Kombu Green" Code="#3E4233" />
+    <Color Name="Rifle Green" Code="#414833" />
+    <Color Name="Black Ink" Code="#45443E" />
+    <Color Name="Peat" Code="#3C3A35" />
+    <Color Name="Rosin" Code="#36362C" />
+    <Color Name="Kalamanta" Code="#5F5B4C" />
+    <Color Name="Grape Leaf" Code="#504F41" />
+    <Color Name="Ivy Green" Code="#565443" />
+    <Color Name="Olive Night" Code="#535040" />
+    <Color Name="Dark Olive" Code="#574E36" />
+    <Color Name="Black Olive" Code="#49433E" />
+    <Color Name="Wren" Code="#484035" />
+    <Color Name="Teak" Code="#62523F" />
+    <Color Name="Beech" Code="#584F39" />
+    <Color Name="Military Olive" Code="#64563B" />
+    <Color Name="Demitasse" Code="#42352B" />
+    <Color Name="Chocolate Chip" Code="#6B5B4F" />
+    <Color Name="Major Brown" Code="#61574E" />
+    <Color Name="Turkish Coffee" Code="#4A403B" />
+    <Color Name="Slate Black" Code="#4E4035" />
+    <Color Name="Desert Palm" Code="#5B4834" />
+    <Color Name="Canteen" Code="#605348" />
+    <Color Name="Tarmac" Code="#5C5448" />
+    <Color Name="Chocolate Brown" Code="#4E3F3A" />
+    <Color Name="Coffee Bean" Code="#3F312E" />
+    <Color Name="French Roast" Code="#5C4440" />
+    <Color Name="Bracken" Code="#53433D" />
+    <Color Name="Java" Code="#423331" />
+    <Color Name="Dark Earth" Code="#5E4A3B" />
+    <Color Name="Breen" Code="#755831" />
+    <Color Name="After Dark " Code="#3D3636" />
+    <Color Name="Licorice" Code="#3B3334" />
+    <Color Name="Black Coffee" Code="#3C302F" />
+    <Color Name="Carafe" Code="#5B473D" />
+    <Color Name="Chestnut" Code="#57423A" />
+    <Color Name="Pinecone" Code="#60473A" />
+    <Color Name="Shopping Bag" Code="#5B4944" />
+    <Color Name="Mustang" Code="#6B4C40" />
+    <Color Name="Potting Soil" Code="#54382E" />
+    <Color Name="Cappuccino" Code="#653F35" />
+    <Color Name="Root Beer" Code="#744B41" />
+    <Color Name="Friar Brown" Code="#70483A" />
+    <Color Name="Brunette" Code="#623F33" />
+    <Color Name="Tortoise Shell" Code="#774835" />
+    <Color Name="Arabian Spice" Code="#894432" />
+    <Color Name="Picante" Code="#90412F" />
+    <Color Name="Seal Brown" Code="#483A38" />
+    <Color Name="Bitter Chocolate" Code="#50312F" />
+    <Color Name="Sable" Code="#72413D" />
+    <Color Name="Rum Raisin" Code="#583332" />
+    <Color Name="Brown Stone" Code="#5A3D3A" />
+    <Color Name="Hot Chocolate" Code="#6B3E3A" />
+    <Color Name="Andorra" Code="#5E3434" />
+    <Color Name="Madder Brown" Code="#693330" />
+    <Color Name="Sequoia" Code="#834A3A" />
+    <Color Name="Henna" Code="#7F443C" />
+    <Color Name="Russet Brown" Code="#763432" />
+    <Color Name="Deep Mahogany" Code="#573C3A" />
+    <Color Name="Mink" Code="#724840" />
+    <Color Name="Fudgesickle" Code="#63403A" />
+    <Color Name="Cherry Mahogany" Code="#66352B" />
+    <Color Name="Cinnamon" Code="#693F38" />
+    <Color Name="Puce" Code="#503837" />
+    <Color Name="Red Mahogany" Code="#62373C" />
+    <Color Name="Zinfandel" Code="#592833" />
+    <Color Name="Oxblood Red" Code="#713A3F" />
+    <Color Name="Port" Code="#693337" />
+    <Color Name="Chocolate Truffle" Code="#612F35" />
+    <Color Name="Windsor Wine" Code="#592B37" />
+    <Color Name="Burnt Russet" Code="#853A42" />
+    <Color Name="Rosewood" Code="#82373A" />
+    <Color Name="Cowhide" Code="#8C4647" />
+    <Color Name="Burnt Henna" Code="#7E3A31" />
+    <Color Name="Brick Red" Code="#8F363D" />
+    <Color Name="Red Dahlia" Code="#7D2027" />
+    <Color Name="Chili Pepper" Code="#961E2D" />
+    <Color Name="Raisin" Code="#573E45" />
+    <Color Name="Prune Purple" Code="#5B394C" />
+    <Color Name="Burgundy" Code="#67323F" />
+    <Color Name="Fudge" Code="#4A3237" />
+    <Color Name="Huckleberry" Code="#5D434A" />
+    <Color Name="Catawba Grape" Code="#5B3A41" />
+    <Color Name="Vineyard Wine" Code="#5A353B" />
+    <Color Name="Sassafras" Code="#533339" />
+    <Color Name="Decadent Chocolate" Code="#543135" />
+    <Color Name="Port Royale" Code="#532C35" />
+    <Color Name="Ruby Wine" Code="#76333A" />
+    <Color Name="Biking Red" Code="#7B242F" />
+    <Color Name="Garnet" Code="#95343E" />
+    <Color Name="Rio Red" Code="#862030" />
+    <Color Name="Ribbon Red" Code="#B52535" />
+    <Color Name="True Red" Code="#BD1B34" />
+    <Color Name="Mauve Wine" Code="#5A3645" />
+    <Color Name="Fig" Code="#512C38" />
+    <Color Name="Tawny Port" Code="#602C35" />
+    <Color Name="Cordovan" Code="#6E2D3A" />
+    <Color Name="American Beauty" Code="#A83342" />
+    <Color Name="Scarlet" Code="#B72A3E" />
+    <Color Name="Tango Red" Code="#AB0E2D" />
+    <Color Name="Crimson" Code="#AE133B" />
+    <Color Name="Formula One" Code="#BA102B" />
+    <Color Name="Lipstick Red" Code="#AE1C38" />
+    <Color Name="Deep Claret" Code="#973345" />
+    <Color Name="Red Bud" Code="#972D4A" />
+    <Color Name="Persian Red" Code="#A21442" />
+    <Color Name="Jester Red" Code="#9A1834" />
+    <Color Name="Tibetan Red" Code="#7A2C3B" />
+    <Color Name="Rumba Red" Code="#7C2438" />
+    <Color Name="Cerise" Code="#A21247" />
+    <Color Name="Hortensia" Code="#563C52" />
+    <Color Name="Prune" Code="#5D3548" />
+    <Color Name="Rhododendron" Code="#742B3F" />
+    <Color Name="Red Plum" Code="#7C2B47" />
+    <Color Name="Beet Red" Code="#7C1F3E" />
+    <Color Name="Anemone" Code="#862B4A" />
+    <Color Name="Sangria" Code="#9B2551" />
+    <Color Name="Wine tasting" Code="#482933" />
+    <Color Name="Eggplant" Code="#63414E" />
+    <Color Name="Crushed Violets" Code="#64394C" />
+    <Color Name="Grape Wine" Code="#592E42" />
+    <Color Name="Amaranth" Code="#703B55" />
+    <Color Name="Magenta Purple" Code="#6E284E" />
+    <Color Name="Purple Potion" Code="#6C2749" />
+    <Color Name="Boysenberry" Code="#87305D" />
+    <Color Name="Raspberry Radiance" Code="#812B53" />
+    <Color Name="Festival Fuchsia" Code="#A2306F" />
+    <Color Name="Italian Plum" Code="#523046" />
+    <Color Name="Potent Purple" Code="#48263A" />
+    <Color Name="Dark Purple" Code="#5A224A" />
+    <Color Name="Winter Bloom" Code="#943270" />
+    <Color Name="Wild Aster" Code="#943270" />
+    <Color Name="Wineberry" Code="#5F3D5F" />
+    <Color Name="Blackberry Wine" Code="#513549" />
+    <Color Name="Phlox" Code="#6D2E5F" />
+    <Color Name="Hollyhock" Code="#843571" />
+    <Color Name="Gloxinia" Code="#652F5D" />
+    <Color Name="Byzantium" Code="#8B3A81" />
+    <Color Name="Indigo" Code="#4C3958" />
+    <Color Name="Shadow Purple" Code="#4E334E" />
+    <Color Name="Plum Purple" Code="#543150" />
+    <Color Name="Plum" Code="#5B315E" />
+    <Color Name="Purple Passion" Code="#6C3F65" />
+    <Color Name="Grape Juice" Code="#6A2B63" />
+    <Color Name="Plum Perfect" Code="#493544" />
+    <Color Name="Deep Purple" Code="#553450" />
+    <Color Name="Wood Violet" Code="#77416D" />
+    <Color Name="Sparkling Grape" Code="#7B3879" />
+    <Color Name="Sunset Purple" Code="#734871" />
+    <Color Name="Bright Violet" Code="#7D4385" />
+    <Color Name="Majesty" Code="#5B3863" />
+    <Color Name="Grape Royale" Code="#4F2C54" />
+    <Color Name="Purple Pennant" Code="#452C4A" />
+    <Color Name="Blackberry Cordial" Code="#3F2A48" />
+    <Color Name="Meadow Violet" Code="#754D81" />
+    <Color Name="Imperial Purple" Code="#542C5D" />
+    <Color Name="Amaranth Purple" Code="#6D3C7D" />
+    <Color Name="Purple Magic" Code="#673372" />
+    <Color Name="Pansy" Code="#663E7D" />
+    <Color Name="Mysterioso" Code="#45394B" />
+    <Color Name="Sweet Grape" Code="#4B3C50" />
+    <Color Name="Purple Reign" Code="#55426A" />
+    <Color Name="Loganberry" Code="#5C4568" />
+    <Color Name="Petunia" Code="#513265" />
+    <Color Name="Crown Jewel" Code="#482D54" />
+    <Color Name="Royal Purple" Code="#5F4082" />
+    <Color Name="Nightshade" Code="#433748" />
+    <Color Name="Navy Cosmos" Code="#513B55" />
+    <Color Name="Purple Plumeria" Code="#463753" />
+    <Color Name="Gothic Grape" Code="#473851" />
+    <Color Name="Mulberry Purple" Code="#4B3F63" />
+    <Color Name="Purple Velvet" Code="#3F354D" />
+    <Color Name="Grape" Code="#453658" />
+    <Color Name="Gentian Violet" Code="#574277" />
+    <Color Name="Parachute Purple" Code="#3B2854" />
+    <Color Name="Heliotrope" Code="#503974" />
+    <Color Name="Prism Violet" Code="#513C7E" />
+    <Color Name="Plum Kitten" Code="#62585E" />
+    <Color Name="Eclipse" Code="#353148" />
+    <Color Name="Astral Aura" Code="#383153" />
+    <Color Name="Navy Blue" Code="#423E6F" />
+    <Color Name="Blue Ribbon" Code="#3B3A60" />
+    <Color Name="Deep Wisteria" Code="#494171" />
+    <Color Name="Deep Blue" Code="#46387C" />
+    <Color Name="Liberty" Code="#4E448D" />
+    <Color Name="Mazarine Blue" Code="#2B3C74" />
+    <Color Name="Shale" Code="#4B4144" />
+    <Color Name="Rabbit" Code="#5F575C" />
+    <Color Name="Dark Shadow" Code="#48494C" />
+    <Color Name="Nine Iron" Code="#48454B" />
+    <Color Name="Gray stone" Code="#4E4B5C" />
+    <Color Name="Periscope" Code="#46444C" />
+    <Color Name="Night shadow Blue" Code="#51546A" />
+    <Color Name="Peacoat" Code="#2C2E42" />
+    <Color Name="Black Iris" Code="#2C3141" />
+    <Color Name="Patriot Blue" Code="#353755" />
+    <Color Name="Crown Blue" Code="#484B65" />
+    <Color Name="Blue Indigo" Code="#48506B" />
+    <Color Name="Medieval Blue" Code="#29304E" />
+    <Color Name="Deep Cobalt" Code="#404467" />
+    <Color Name="Skipper Blue" Code="#4A4C75" />
+    <Color Name="TwiLight Blue" Code="#333C62" />
+    <Color Name="Blueprint" Code="#2D3359" />
+    <Color Name="Blue Depths" Code="#263055" />
+    <Color Name="Orient Blue" Code="#49487A" />
+    <Color Name="Deep Ultramarine" Code="#364781" />
+    <Color Name="Clematis Blue" Code="#363C7D" />
+    <Color Name="Surf the Web" Code="#233A7E" />
+    <Color Name="Royal Blue" Code="#3B4189" />
+    <Color Name="Black Onyx" Code="#2B272B" />
+    <Color Name="Stretch Limo" Code="#2B2C30" />
+    <Color Name="Caviar" Code="#2A292C" />
+    <Color Name="Anthracite" Code="#2A2A2E" />
+    <Color Name="Total Eclipse" Code="#2C313C" />
+    <Color Name="Dark Navy" Code="#2D2F37" />
+    <Color Name="Ombre Blue" Code="#464A55" />
+    <Color Name="Blue Graphite" Code="#323238" />
+    <Color Name="India Ink" Code="#3D414C" />
+    <Color Name="Blue Nights" Code="#363A46" />
+    <Color Name="Dress Blues" Code="#293041" />
+    <Color Name="Mood Indigo" Code="#383E50" />
+    <Color Name="Ensign Blue" Code="#364B66" />
+    <Color Name="Estate Blue" Code="#233557" />
+    <Color Name="Insignia Blue" Code="#313D53" />
+    <Color Name="True Navy" Code="#405377" />
+    <Color Name="Dark Blue" Code="#305376" />
+    <Color Name="Bright Cobalt" Code="#3A5D8D" />
+    <Color Name="Delft" Code="#3D5E8E" />
+    <Color Name="Limoges" Code="#254072" />
+    <Color Name="Snorkel Blue" Code="#0E4E86" />
+    <Color Name="Nautical Blue" Code="#1B4F8F" />
+    <Color Name="Classic Blue" Code="#0E4781" />
+    <Color Name="Turkish Sea" Code="#1B5091" />
+    <Color Name="Olympian Blue" Code="#224E8D" />
+    <Color Name="True Blue" Code="#20457D" />
+    <Color Name="Ebony" Code="#3F4249" />
+    <Color Name="Midnight Navy" Code="#35414E" />
+    <Color Name="Dark Denim" Code="#37485E" />
+    <Color Name="Majolica Blue" Code="#294357" />
+    <Color Name="Midnight" Code="#325B75" />
+    <Color Name="Princess Blue" Code="#00559C" />
+    <Color Name="Skydiver" Code="#005D9C" />
+    <Color Name="Moonless Night" Code="#2E2D30" />
+    <Color Name="Phantom" Code="#39373A" />
+    <Color Name="Dark Slate" Code="#455058" />
+    <Color Name="Indian Teal" Code="#3C596B" />
+    <Color Name="Orion Blue" Code="#3E505D" />
+    <Color Name="Ink Blue" Code="#0F546B" />
+    <Color Name="Moroccan Blue" Code="#134D68" />
+    <Color Name="Imperial Blue" Code="#005892" />
+    <Color Name="Pirate Black" Code="#383837" />
+    <Color Name="Stargazer" Code="#39505C" />
+    <Color Name="Mallard Blue" Code="#3E5F70" />
+    <Color Name="Legion Blue" Code="#204B5D" />
+    <Color Name="Corsair" Code="#16566D" />
+    <Color Name="Lyons Blue" Code="#005972" />
+    <Color Name="Seaport" Code="#005C7F" />
+    <Color Name="Mediterranea" Code="#30585E" />
+    <Color Name="Shaded Spruce" Code="#00575E" />
+    <Color Name="Blue Coral" Code="#165466" />
+    <Color Name="Ocean Depths" Code="#006277" />
+    <Color Name="Atlantic Deep " Code="#274F55" />
+    <Color Name="Mallard Green" Code="#405D5B" />
+    <Color Name="Balsam" Code="#35585E" />
+    <Color Name="Dragonfly" Code="#235A69" />
+    <Color Name="Green Gables" Code="#334242" />
+    <Color Name="Deep Teal" Code="#17464B" />
+    <Color Name="Pacific" Code="#22595C" />
+    <Color Name="Teal Green" Code="#00615F" />
+    <Color Name="Urban Chic" Code="#464D4D" />
+    <Color Name="Dark est Spruce" Code="#33403F" />
+    <Color Name="Storm" Code="#0B5959" />
+    <Color Name="Everglade" Code="#005E5E" />
+    <Color Name="Ponderosa Pine" Code="#394E4B" />
+    <Color Name="Bistro Green" Code="#38534E" />
+    <Color Name="Trekking Green" Code="#354F47" />
+    <Color Name="Jasper" Code="#315857" />
+    <Color Name="June Bug" Code="#254947" />
+    <Color Name="Evergreen" Code="#0E574A" />
+    <Color Name="Hunter Green" Code="#305245" />
+    <Color Name="Dark Green" Code="#314F41" />
+    <Color Name="Jet Set" Code="#282D2B" />
+    <Color Name="Jungle Green" Code="#3C4E47" />
+    <Color Name="Sycamore" Code="#34463E" />
+    <Color Name="Pineneedle" Code="#334C40" />
+    <Color Name="Verdant Green" Code="#116348" />
+    <Color Name="Deep Forest" Code="#363D36" />
+    <Color Name="Greener Pastures" Code="#3A513C" />
+</Group>
+<Group Name="Corporate Color" Code="CORP" >
+    <Color Name="Air force blue" Code="#00308F" />
+    <Color Name="Chrysler Azul Tempo" Code="#0E4BEF" />
+    <Color Name="Chrysler Beige" Code="#F2E7BF" />
+    <Color Name="Chrysler Blue" Code="#404347" />
+    <Color Name="Chrysler Bright Green" Code="#49B675" />
+    <Color Name="Chrysler Bright Red" Code="#E71837" />
+    <Color Name="Chrysler Bright Yellow" Code="#FCE903" />
+    <Color Name="Chrysler Chevron Blue" Code="#010208" />
+    <Color Name="Chrysler Commodore Blue" Code="#02142D" />
+    <Color Name="Chrysler Dark Blue" Code="#02193C" />
+    <Color Name="Chrysler DeSoto Navy Blue" Code="#010413" />
+    <Color Name="Chrysler Green" Code="#012C3A" />
+    <Color Name="Chrysler Light Gray" Code="#58503C" />
+    <Color Name="Chrysler Marlin Blue" Code="#002059" />
+    <Color Name="Chrysler Niagara Blue" Code="#000D4C" />
+    <Color Name="Chrysler Red" Code="#ae3127" />
+    <Color Name="Chrysler White" Code="#FCFCFC" />
+    <Color Name="Coca Cola" Code="#FE001A" />
+    <Color Name="Ferrari Red" Code="#ff2800" />
+    <Color Name="Ford Atlantic Blue" Code="#00003C" />
+    <Color Name="Ford Blue" Code="#0000ff" />
+    <Color Name="Ford Bright White" Code="#FCFCFC" />
+    <Color Name="Ford Cream Fleet" Code="#FCE903" />
+    <Color Name="Ford Dark Red" Code="#662228" />
+    <Color Name="Ford Dark Shadow Blue" Code="#00002E" />
+    <Color Name="Ford Deep Navy Blue" Code="#000035" />
+    <Color Name="Ford Gray" Code="#F2E7BF" />
+    <Color Name="Ford Midnight Regatta Blue" Code="#000044" />
+    <Color Name="Ford Olive Stardust" Code="#A37063" />
+    <Color Name="Ford Red" Code="#A91A16" />
+    <Color Name="General Electric" Code="#026CB6" />
+    <Color Name="General Motors Black Sapphire" Code="#000020" />
+    <Color Name="General Motors Blue" Code="#000A28" />
+    <Color Name="General Motors Bright Blue" Code="#001586" />
+    <Color Name="General Motors Bright White" Code="#FCFCFC" />
+    <Color Name="General Motors Cambray Green" Code="#212D29" />
+    <Color Name="General Motors Coca" Code="#4B4044" />
+    <Color Name="General Motors Dark Blue" Code="#000B43" />
+    <Color Name="General Motors Dark Jadestone" Code="#00093B" />
+    <Color Name="General Motors Marlin Blue" Code="#000835" />
+    <Color Name="General Motors Medium Sapphire Blue" Code="#000E3E" />
+    <Color Name="Google+" Code="#DB4A39" />
+    <Color Name="Intel" Code="#0071C5" />
+    <Color Name="Nokia" Code="#183693" />
+    <Color Name="Paypal Dark" Code="#1E477A" />
+    <Color Name="Paypal Light" Code="#3B7BBF" />
+    <Color Name="Quora" Code="#a82400" />
+    <Color Name="Samsung" Code="#0C4DA2" />
+    <Color Name="UA blue" Code="#0033aa" />
+    <Color Name="Ultramarine" Code="#120a8f" />
+    <Color Name="Volkswagen Adriatic Blue" Code="#054C84" />
+    <Color Name="Volkswagen Amarena" Code="#370F14" />
+    <Color Name="Volkswagen Andora Red" Code="#3D181C" />
+    <Color Name="Volkswagen Azure Blue" Code="#26213C" />
+    <Color Name="Volkswagen Bali Yellow" Code="#C5B951" />
+    <Color Name="Volkswagen Berber Yellow" Code="#AEAD46" />
+    <Color Name="Volkswagen Bright Blue" Code="#001982" />
+    <Color Name="Volkswagen Bright Yellow" Code="#DADA4A" />
+    <Color Name="Volkswagen Bromberry" Code="#47293D" />
+    <Color Name="Volkswagen Burnished Gold" Code="#AC6B4B" />
+    <Color Name="Volkswagen Byzanz" Code="#2A2939" />
+    <Color Name="Volkswagen Cactus Green" Code="#274739" />
+    <Color Name="Volkswagen Cayne Mica" Code="#321213" />
+    <Color Name="Volkswagen Cherry Red" Code="#662228" />
+    <Color Name="Volkswagen Chesnut Brown" Code="#3B1B1D" />
+    <Color Name="Volkswagen Colibri Green" Code="#173F2B" />
+    <Color Name="Volkswagen Cornat Blue" Code="#0D2C74" />
+    <Color Name="Volkswagen Deep Sea Green" Code="#212D29" />
+    <Color Name="Volkswagen Futura Yellow" Code="#9F863F" />
+    <Color Name="Volkswagen Gold" Code="#C9A95F" />
+    <Color Name="Volkswagen Green" Code="#3E5831" />
+    <Color Name="Volkswagen Green Rave" Code="#38543B" />
+    <Color Name="Volkswagen Harvest Gold" Code="#865D3F" />
+    <Color Name="Volkswagen Indigo Blue" Code="#1D1B2C" />
+    <Color Name="Volkswagen Jasmine Yellow" Code="#EBD162" />
+    <Color Name="Volkswagen Jasper Green" Code="#113126" />
+    <Color Name="Volkswagen Jungle Green" Code="#1E3821" />
+    <Color Name="Volkswagen Lago Blue" Code="#092843" />
+    <Color Name="Volkswagen Lemon Yellow" Code="#CEB73E" />
+    <Color Name="Volkswagen Maderia Red" Code="#420B0B" />
+    <Color Name="Volkswagen Mahogany Brown" Code="#360917" />
+    <Color Name="Volkswagen Marine Blue" Code="#00093B" />
+    <Color Name="Volkswagen Maroon Red" Code="#400908" />
+    <Color Name="Volkswagen Maya Gold" Code="#A37746" />
+    <Color Name="Volkswagen Merian Brown" Code="#2F1C1D" />
+    <Color Name="Volkswagen Midnight Blue" Code="#07090B" />
+    <Color Name="Volkswagen Pampas Yellow" Code="#BAA151" />
+    <Color Name="Volkswagen Pine Green" Code="#27312D" />
+    <Color Name="Volkswagen Pop Lilac" Code="#AB618B" />
+    <Color Name="Volkswagen Rasant Blue" Code="#00147A" />
+    <Color Name="Volkswagen Red" Code="#712825" />
+    <Color Name="Volkswagen Red Mica" Code="#471C21" />
+    <Color Name="Volkswagen Red Pearl" Code="#3E1114" />
+    <Color Name="Volkswagen Riyadh Yellow" Code="#D1AB44" />
+    <Color Name="Volkswagen Rubin Red" Code="#3D151F" />
+    <Color Name="Volkswagen Santorin Blue" Code="#0D1840" />
+    <Color Name="Volkswagen Satellite Blue" Code="#001C95" />
+    <Color Name="Volkswagen Spanish Green" Code="#25342B" />
+    <Color Name="Volkswagen Sunshine Yellow" Code="#E4BC3F" />
+    <Color Name="Volkswagen Terra Cotta" Code="#3B2021" />
+    <Color Name="Volkswagen Tropical Green" Code="#39544B" />
+    <Color Name="Volkswagen Twilight Violet" Code="#403F4C" />
+    <Color Name="Volkswagen Yellow" Code="#E5DA8C" />
+    <Color Name="Volkswagen Zyclam Red" Code="#2D1922" />
+</Group>
+</Color-book>
