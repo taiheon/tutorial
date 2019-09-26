@@ -1,1 +1,0 @@
-D:\git\Tutorial\UwpApp1\UwpApp1\UwpApp1.csproj;x86
